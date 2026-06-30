@@ -1,2 +1,57 @@
-# Leon-Europe-Retail
-Leon's European Retail, China Go-Global and Post-Action Era Research Database
+# Leon Europe Retail Operating System (LEROS)
+
+## 我的使命
+
+建立欧洲华人零售行业最大的知识库，
+研究后Action时代欧洲零售变革，
+帮助中国企业出海欧洲，
+建立欧洲华人百货共创服务体系。
+
+---
+
+# 七大模块
+
+## 01 Leon个人知识库
+- 个人经历
+- 美的
+- AIGOSTAR
+- 猎鹰行动
+- 后Action时代
+
+## 02 后Action时代研究
+- Action
+- Costco
+- Mizan
+- 国贸城
+- 欧洲零售趋势
+
+## 03 欧洲华人百货行业
+- 零售
+- 批发
+- 供应链
+- 门店升级
+
+## 04 中国企业出海欧洲
+- 市场调研
+- 渠道开发
+- 本地化
+- 落地服务
+
+## 05 欧洲华人百货共创服务
+- 零售商
+- 批发商
+- 品牌商
+- 服务商
+
+## 06 内容工厂
+- 抖音
+- 小红书
+- 视频脚本
+- 爆款标题
+
+## 07 商业机会库
+- 箱包
+- 节日产品
+- 香水
+- 个护
+- 电池
