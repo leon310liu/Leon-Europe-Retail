@@ -1,0 +1,67 @@
+[
+  {
+    "name": "Action suitcases Rotterdam",
+    "status": "LINKED",
+    "brand": "Action",
+    "type": "爆品",
+    "page": "https://commons.wikimedia.org/wiki/File:Action_suitcases,_Rotterdam-Centrum,_Rotterdam_(2022)_01.jpg",
+    "category": "https://commons.wikimedia.org/wiki/Category:Action_(store)_products",
+    "original": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Action_suitcases,_Rotterdam-Centrum,_Rotterdam_(2022)_01.jpg",
+    "local_path": "10-素材库/02-品牌素材库/Action/爆品/素材说明.md",
+    "license": "需逐页核对 Commons 文件页；本轮不下载",
+    "use": "Action 爆品、旅行箱、折扣零售商品堆头",
+    "risk": "品牌和商品实拍需避免暗示合作；未核授权前只保留链接"
+  },
+  {
+    "name": "Action remote controls Rotterdam",
+    "status": "LINKED",
+    "brand": "Action",
+    "type": "爆品",
+    "page": "https://commons.wikimedia.org/wiki/File:Hama_universal_remote_control,_Kleiwegkwartier,_Rotterdam_(2021)_01.jpg",
+    "category": "https://commons.wikimedia.org/wiki/Category:Action_(store)_products",
+    "original": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Hama_universal_remote_control,_Kleiwegkwartier,_Rotterdam_(2021)_01.jpg",
+    "local_path": "10-素材库/02-品牌素材库/Action/爆品/素材说明.md",
+    "license": "需逐页核对 Commons 文件页；本轮不下载",
+    "use": "Action 电子小商品、低价 SKU、爆品特写",
+    "risk": "品牌和商品实拍需避免暗示合作；未核授权前只保留链接"
+  },
+  {
+    "name": "Action Koningsdag price tags",
+    "status": "LINKED",
+    "brand": "Action",
+    "type": "促销",
+    "page": "https://commons.wikimedia.org/wiki/File:Koningsdag_price_tags,_Rotterdam-Centrum,_Rotterdam_(2022).jpg",
+    "category": "https://commons.wikimedia.org/wiki/Category:Action_(store)_products",
+    "original": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Koningsdag_price_tags,_Rotterdam-Centrum,_Rotterdam_(2022).jpg",
+    "local_path": "10-素材库/02-品牌素材库/Action/促销/素材说明.md",
+    "license": "需逐页核对 Commons 文件页；本轮不下载",
+    "use": "Action 价格牌、节日促销、低价视觉",
+    "risk": "未核授权前只保留链接"
+  },
+  {
+    "name": "Black Friday Sale Inflatable",
+    "status": "LINKED",
+    "brand": "公共场景",
+    "type": "疯抢商品",
+    "page": "https://commons.wikimedia.org/wiki/File:Black_Friday_Sale_Inflatable_(22729837503).jpg",
+    "source": "https://www.flickr.com/photos/rusty_clark/22729837503/",
+    "original": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Black_Friday_Sale_Inflatable_(22729837503).jpg",
+    "local_path": "10-素材库/01-公共素材库/疯抢商品/素材说明.md",
+    "license": "Creative Commons Attribution 2.0 Generic",
+    "use": "黑五促销、消费热度、折扣氛围",
+    "risk": "需署名 Rusty Clark；本地网络不可下载"
+  },
+  {
+    "name": "Black Friday Shopping",
+    "status": "LINKED",
+    "brand": "公共场景",
+    "type": "疯抢商品",
+    "page": "https://commons.wikimedia.org/wiki/File:Black_Friday_Shopping.jpg",
+    "source": "https://www.flickr.com/photos/12707238@N00/15717896180/",
+    "original": "https://commons.wikimedia.org/wiki/Special:Redirect/file/Black_Friday_Shopping.jpg",
+    "local_path": "10-素材库/01-公共素材库/疯抢商品/素材说明.md",
+    "license": "Creative Commons Attribution-ShareAlike 2.0 Generic",
+    "use": "黑五购物、消费者战利品、促销氛围补充",
+    "risk": "需署名 Eric.Ray；改编需同协议共享；本地网络不可下载"
+  }
+]
