@@ -1,0 +1,85 @@
+{
+  "date": "2026-07-04",
+  "batch": "第四批品牌细节候选",
+  "download_status": "blocked_by_local_dns",
+  "new_saved_files": 0,
+  "new_linked_items": 5,
+  "items": [
+    {
+      "brand": "Pepco",
+      "type": "门头",
+      "title": "Pepco Bonarka City Center 门头",
+      "status": "LINKED",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pepco-BonarkaCityCenter-Podg%C3%B3rzeDuchackie-POL,_Krak%C3%B3w.jpg",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Pepco-BonarkaCityCenter-Podg%C3%B3rzeDuchackie-POL%2C_Krak%C3%B3w.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Igor123121",
+      "use_case": "Pepco 购物中心门头、折扣零售入口、欧洲门店扩张画面",
+      "keywords": ["Pepco", "storefront", "Krakow", "discount retail", "shopping center"]
+    },
+    {
+      "brand": "Pepco",
+      "type": "门头",
+      "title": "Pepco Miasteczko Wilanow 门头",
+      "status": "LINKED",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Pepco_Miasteczko_Wilan%C3%B3w.jpg",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Pepco_Miasteczko_Wilan%C3%B3w.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Wistula",
+      "use_case": "Pepco 社区商业门头、街区折扣店、欧洲门店网络",
+      "keywords": ["Pepco", "storefront", "Warsaw", "Wilanow", "neighborhood retail"]
+    },
+    {
+      "brand": "Pepco",
+      "type": "收银台",
+      "title": "Pepco 自助收银台",
+      "status": "LINKED",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Self-service_checkouts_at_the_Pepco_discount_clothing_store,_Tomasz%C3%B3w_Mazowiecki,_Poland.jpg",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Self-service_checkouts_at_the_Pepco_discount_clothing_store%2C_Tomasz%C3%B3w_Mazowiecki%2C_Poland.jpg",
+      "license": "Public domain / PD-user",
+      "author": "WrS.tm.pl",
+      "use_case": "门店数字化、自助收银、运营效率、结账动线",
+      "keywords": ["Pepco", "self-checkout", "cashier", "retail operations", "automation"]
+    },
+    {
+      "brand": "MR.DIY",
+      "type": "陈列",
+      "title": "MR.DIY Ayala Center Cebu 店内陈列",
+      "status": "LINKED",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:Areas_with_items_from_Mr._DIY_at_Ayala_Center_Cebu_(2025-01-01).jpg",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Areas_with_items_from_Mr._DIY_at_Ayala_Center_Cebu_%282025-01-01%29.jpg",
+      "license": "CC BY 4.0",
+      "author": "Wide Awake!",
+      "use_case": "家居五金陈列、SKU 密度、百元店空间和低价零售货架",
+      "keywords": ["MR.DIY", "display", "shelves", "DIY retail", "household goods"]
+    },
+    {
+      "brand": "MR.DIY",
+      "type": "门头",
+      "title": "MR.DIY 1 Utama 门店",
+      "status": "LINKED_VERIFIED",
+      "source": "Wikimedia Commons",
+      "source_url": "https://commons.wikimedia.org/wiki/File:MR_D.I.Y._1_Utama.jpg",
+      "original_file_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/MR_D.I.Y._1_Utama.jpg",
+      "license": "CC0 1.0",
+      "author": "Wiki Farazi",
+      "use_case": "MR.DIY 商场门头、五金日用品店入口、品牌对比",
+      "keywords": ["MR.DIY", "storefront", "mall", "home improvement", "CC0"]
+    }
+  ],
+  "risk_notes": [
+    "本地 DNS 无法解析 upload.wikimedia.org，本轮未下载原始图片文件。",
+    "CC BY/CC BY-SA 素材公开使用需保留作者署名、来源链接、授权链接和修改说明。",
+    "品牌 logo、门头、店内标识涉及商标展示，不能暗示 Leon 与品牌存在合作或授权。",
+    "收银台/店内画面用于公开视频前需复核是否包含可识别人物和平台隐私规则。"
+  ],
+  "next_batch_plan": [
+    "网络恢复后按不低于 2 秒间隔下载本批 5 条原始文件并写入文件大小。",
+    "继续补 Pepco/Normal/Mercadona 陈列与 Action 收银/排队素材。",
+    "优先寻找 Pexels/Pixabay/Unsplash 的通用收银排队、人流、疯抢商品素材。"
+  ]
+}
