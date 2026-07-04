@@ -1,0 +1,58 @@
+{
+  "date": "2026-07-04",
+  "batch": "第六批授权复核",
+  "network_status": "本地 curl 仍无法解析 commons.wikimedia.org，未下载图片二进制；仅登记公开可访问来源链接和授权复核结果。",
+  "saved_assets": 0,
+  "linked_candidates": [
+    {
+      "brand": "MR.DIY",
+      "type": "爆品/陈列",
+      "target_dir": "10-素材库/02-品牌素材库/MRDIY/陈列",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Laptop_backpacks_from_Mr._DIY_at_Ayala_Center_Cebu_(2025-02-24).jpg",
+      "license_status": "CC BY 4.0；作者 Wide Awake!；待下载"
+    },
+    {
+      "brand": "Mercadona",
+      "type": "食品/面包陈列",
+      "target_dir": "10-素材库/02-品牌素材库/Mercadona/陈列",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Visita_a_Mercadona_(1).jpg",
+      "license_status": "CC BY-SA 4.0；作者 El Mono Español；待下载"
+    },
+    {
+      "brand": "Mercadona",
+      "type": "食品/鱼柜陈列",
+      "target_dir": "10-素材库/02-品牌素材库/Mercadona/陈列",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Visita_al_Mercadona_-_Pescader%C3%ADa.jpg",
+      "license_status": "CC BY-SA 4.0；作者 El Mono Español；待下载"
+    },
+    {
+      "brand": "Action",
+      "type": "促销",
+      "target_dir": "10-素材库/02-品牌素材库/Action/促销",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Koningsdag_price_tags,_Rotterdam-Centrum,_Rotterdam_(2022).jpg",
+      "license_status": "类目复核完成；单文件授权待复核"
+    },
+    {
+      "brand": "Action",
+      "type": "爆品",
+      "target_dir": "10-素材库/02-品牌素材库/Action/爆品",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Action_(store)_products",
+      "license_status": "类目列出 suitcases / remote controls / imitation statues；单文件授权待复核"
+    }
+  ],
+  "risk_notes": [
+    "本批新增数量为 0，原因是本地下载通道 DNS 解析失败。",
+    "已复核的 CC BY/CC BY-SA 素材仍需按许可署名、链接授权协议并注明是否修改。",
+    "品牌、门头、商品包装和顾客画面不等同于品牌背书，使用时需控制商业暗示和肖像风险。"
+  ],
+  "next_batch_plan": [
+    "恢复下载通道后按至少 2 秒间隔下载 MR.DIY laptop backpacks、Mercadona 面包和鱼柜三张已复核素材。",
+    "继续逐页复核 Action 促销/爆品候选的作者、许可证和原始文件 URL。",
+    "补 Normal 店内陈列、Pepco 陈列、Action 收银台/排队和通用数据动画素材。"
+  ]
+}
