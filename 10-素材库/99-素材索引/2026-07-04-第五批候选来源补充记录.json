@@ -1,0 +1,66 @@
+{
+  "date": "2026-07-04",
+  "batch": "第五批候选来源补充",
+  "network_status": "本地 shell/Node 无法解析外部网络，未下载图片二进制；仅登记已公开可访问来源链接。",
+  "saved_assets": 0,
+  "linked_candidates": [
+    {
+      "brand": "Normal",
+      "type": "门头",
+      "target_dir": "10-素材库/02-品牌素材库/Normal/门头",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Normal_Valkea_Oulu_20250105.jpg",
+      "license_status": "待单文件页复核"
+    },
+    {
+      "brand": "Normal",
+      "type": "门头/开业",
+      "target_dir": "10-素材库/02-品牌素材库/Normal/门头",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Normal,_Saltgade_10,_Ribe_-_p%C3%A5_%C3%A5bningsdagen.jpg",
+      "license_status": "待单文件页复核"
+    },
+    {
+      "brand": "Mercadona",
+      "type": "爆品/商品",
+      "target_dir": "10-素材库/02-品牌素材库/Mercadona/陈列",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Mercadona_products",
+      "license_status": "类目级候选，需逐张文件复核"
+    },
+    {
+      "brand": "MR.DIY",
+      "type": "爆品/陈列",
+      "target_dir": "10-素材库/02-品牌素材库/MRDIY/陈列",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/File:Laptop_backpacks_from_Mr._DIY_at_Ayala_Center_Cebu_(2025-02-24).jpg",
+      "license_status": "CC BY 4.0，作者 Wide Awake!"
+    },
+    {
+      "brand": "Action",
+      "type": "促销/爆品",
+      "target_dir": "10-素材库/02-品牌素材库/Action",
+      "source": "Wikimedia Commons",
+      "url": "https://commons.wikimedia.org/wiki/Category:Action_(store)_products",
+      "license_status": "类目级候选，需逐张文件复核"
+    },
+    {
+      "brand": "Pepco",
+      "type": "门头/收银台",
+      "target_dir": "10-素材库/02-品牌素材库/Pepco",
+      "source": "Wikimedia Commons",
+      "url": "https://en.wikipedia.org/wiki/Pepco_(retailer)#Gallery",
+      "license_status": "门头 CC BY-SA 4.0；自助收银 Public Domain，均已记录在对应素材说明"
+    }
+  ],
+  "risk_notes": [
+    "品牌 logo、门头和商品包装涉及商标/品牌呈现限制，公开许可不等于品牌背书。",
+    "含顾客或店员画面需注意肖像、隐私和平台审核边界。",
+    "本批未下载，使用前必须补齐本地文件与逐页授权复核。"
+  ],
+  "next_batch_plan": [
+    "恢复下载通道后按 2 秒以上间隔抓取已核验原图。",
+    "优先补 Normal 店内陈列、Pepco 陈列、Action 收银台/排队。",
+    "继续补公共场景中的疯抢商品和数据动画素材。"
+  ]
+}
