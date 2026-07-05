@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-04",
+  "batch": "LIDL Illescas 用户实拍素材入库",
+  "source_type": "user_provided_original_photo",
+  "shooting_location": "LIDL Illescas, Spain",
+  "saved_assets": 10,
+  "target_root": "10-素材库/02-品牌素材库/Lidl",
+  "assets": [
+    {
+      "file": "10-素材库/02-品牌素材库/Lidl/促销/LIDL-Illescas-20260704-01-deporte-tiempo-libre.jpg",
+      "category": "促销",
+      "scene": "运动休闲促销货架，Crivit 区域，No te lo pierdas 促销视觉",
+      "md5": "92531170b3f65926895606491721e68f"
+    },
+    {
+      "file": "10-素材库/02-品牌素材库/Lidl/陈列/LIDL-Illescas-20260704-02-seleccion-quesos.jpg",
+      "category": "陈列",
+      "scene": "Seleccion 奶酪/熟食冷柜陈列",
+      "md5": "3918e4e954a29180bfac6ad98e19f691"
+    },
+    {
+      "file": "10-素材库/02-品牌素材库/Lidl/陈列/LIDL-Illescas-20260704-03-high-protein.jpg",
+      "category": "陈列",
+      "scene": "High Protein 酸奶/甜品/饮品专区",
+      "md5": "e72f9b9521acc350962e38cd1ea5f235"
+    },
+    {
+      "file": "10-素材库/02-品牌素材库/Lidl/促销/LIDL-Illescas-20260704-04-promocion-bebidas.jpg",
+      "category": "促销",
+      "scene": "饮料/啤酒促销长排货架与堆头",
+      "md5": "ebadc7ca573ad90201a9df1ce5edbca0"
+    },
+    {
+      "file": "10-素材库/02-品牌素材库/Lidl/促销/LIDL-Illescas-20260704-05-promocion-congelados.jpg",
+      "category": "促销",
+      "scene": "冷冻柜促销区，红色 PROMOCION 视觉",
+      "md5": "951436cbc9755eb0f528e3f40d4919e2"
+    },
+    {
+      "file": "10-素材库/02-品牌素材库/Lidl/促销/LIDL-Illescas-20260704-06-ultimas-unidades-snacks.jpg",
+      "category": "促销",
+      "scene": "Ultimas unidades 清仓小车，零食与瓶装水背景",
+      "md5": "2a6c0d63500705893da663f37dac47a9"
+    },
+    {
+      "file": "10-素材库/02-品牌素材库/Lidl/促销/LIDL-Illescas-20260704-07-ultimas-unidades-snacks-close.jpg",
+      "category": "促销",
+      "scene": "Ultimas unidades 近景版本，适合局部裁切",
+      "md5": "607344a0fb7d8f856c081a666104c219"
+    },
+    {
+      "file": "10-素材库/02-品牌素材库/Lidl/爆品/LIDL-Illescas-20260704-08-cajas-ordenacion.jpg",
+      "category": "爆品",
+      "scene": "收纳箱单品与价格牌，3.99 欧",
+      "md5": "3e65585a7fe5743905e38567dfee8a9a"
+    },
+    {
+      "file": "10-素材库/02-品牌素材库/Lidl/爆品/LIDL-Illescas-20260704-09-vileda-ultramax.jpg",
+      "category": "爆品",
+      "scene": "Vileda Ultramax 清洁套装，21.99 欧",
+      "md5": "f5cfcec3553da3c1db548c54548ef171"
+    },
+    {
+      "file": "10-素材库/02-品牌素材库/Lidl/陈列/LIDL-Illescas-20260704-10-nonfood-aisle.jpg",
+      "category": "陈列",
+      "scene": "非食品促销通道，收纳盒、清洁用品和货架全景",
+      "md5": "3f3dfbc45bddbeca33d77171b7882de4"
+    }
+  ],
+  "usage_notes": [
+    "用户自有实拍素材，可用于 Leon-Europe-Retail 内部内容制作和选题分析。",
+    "公开发布时需注意 Lidl 商标、商品包装、价格牌和品牌背书边界。",
+    "含顾客身体局部或反射的画面，发布前建议裁切或模糊处理。"
+  ],
+  "keywords": [
+    "Lidl",
+    "Illescas",
+    "Spain",
+    "promotion",
+    "store display",
+    "non-food",
+    "high protein",
+    "discount retail",
+    "supermarket SKU"
+  ]
+}
