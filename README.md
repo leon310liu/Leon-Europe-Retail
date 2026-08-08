@@ -11,7 +11,7 @@
 
 公开主定位：
 
-Leon｜后Action时代实战家
+`Leon｜后Action时代实战家`
 
 ## AI执行入口
 
@@ -23,17 +23,28 @@ AI 与 Codex 执行任务前，必须先读取：
 
 `00-系统说明/Leon-Europe-Retail目录架构V2.2.md`
 
-涉及 Leon 个人IP，读取：
+涉及内容生产，优先调用当前 6 个 Leon Skill：
 
-`01-Leon个人/LEON-IP-V2.md`
+```text
+01 leon-identity-v1-0
+02 leon-topic-strategy-v1
+03 leon-video-script-v1
+04 leon-cover-design-v1
+05 leon-wechat-article-v1
+06 leon-content-review-v1
+```
 
-涉及短视频，读取：
+Skill 体系说明：
 
-`20-内容工厂/00-内容规则/VIDEO-ENGINE-V2.md`
+`00-系统说明/Leon内容生产Skill体系V1.1.md`
 
 涉及内容编号，读取：
 
 `20-内容工厂/00-内容规则/CONTENT-ID规则.md`
+
+涉及内容单元归档，读取：
+
+`20-内容工厂/00-内容规则/内容单元归档规则.md`
 
 ## V2.2 一级目录
 
@@ -56,13 +67,13 @@ Leon-Europe-Retail
 
 ### 00-系统说明
 
-系统级规则、Agent规则、仓库架构说明和迁移规则。
+系统级规则、Agent规则、仓库架构说明和 Skill 体系说明。
 
 ### 01-Leon个人
 
 Leon个人事实与IP身份数据库。
 
-只保存 Leon 个人事实、职业身份和 IP 定位。
+只保存 Leon 个人事实、职业身份和 IP 定位相关素材。
 
 不保存 SOP、视频成品、公众号成品、ECR/ERCC正式方案和内容系列规则。
 
@@ -94,6 +105,8 @@ V2.2 后只保留四类入口：
 - `01-视频号`
 - `02-公众号`
 - `03-数据复盘`
+
+V1.1 后，具体文案、封面、公众号和审查规则由 Codex Skill 执行；仓库只保留必要结构规则。
 
 这里回答：内容做成什么。
 

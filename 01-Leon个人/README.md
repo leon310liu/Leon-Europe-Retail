@@ -11,7 +11,7 @@
 - Leon职业履历
 - Leon核心能力
 - Leon个人故事事实素材
-- Leon IP定位
+- Leon IP定位素材
 
 这里不保存：
 
@@ -27,7 +27,6 @@
 ```text
 01-Leon个人
 ├── README.md
-├── LEON-IP-V2.md
 ├── 01-个人履历
 ├── 02-职业经历
 ├── 03-核心能力

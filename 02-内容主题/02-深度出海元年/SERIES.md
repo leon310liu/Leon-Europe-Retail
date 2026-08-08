@@ -57,9 +57,17 @@
 
 ## 必读规则
 
-写本系列前必须读取：
+写本系列前必须执行：
 
-- `AGENTS.md`
-- `01-Leon个人/LEON-IP-V2.md`
-- `20-内容工厂/00-内容规则/VIDEO-ENGINE-V2.md`
-- `20-内容工厂/00-内容规则/真实性等级V2.md`
+- 读取本文件 `SERIES.md`。
+- 调用 `leon-identity-v1-0`。
+- 选题阶段调用 `leon-topic-strategy-v1`。
+- 写口播调用 `leon-video-script-v1`。
+- 做封面调用 `leon-cover-design-v1`。
+- 写公众号调用 `leon-wechat-article-v1`。
+- 审查和复盘调用 `leon-content-review-v1`。
+
+仓库归档和编号读取：
+
+- `20-内容工厂/00-内容规则/CONTENT-ID规则.md`
+- `20-内容工厂/00-内容规则/内容单元归档规则.md`

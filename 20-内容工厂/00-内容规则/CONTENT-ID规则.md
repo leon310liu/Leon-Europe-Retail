@@ -94,7 +94,7 @@ CONTENT-ID: SH-004
 通用封面、字幕、剪映、视觉包装规则：
 
 ```text
-20-内容工厂/00-内容规则/视觉与剪辑规范/
+Codex Skill：leon-cover-design-v1 / leon-video-script-v1
 ```
 
 单条内容的封面、字幕、发布包、复盘和素材：
