@@ -5,11 +5,14 @@
 ## 当前有效文件
 
 - `Leon-Europe-Retail目录架构V2.2.md`
+- `Leon-AI员工体系-V2.md`
 - `Leon内容生产Skill体系V1.1.md`
 
 ## 执行原则
 
 目录结构以 V2.2 为准。
+
+AI员工调度以 `Leon-AI员工体系-V2.md` 和根目录 `AGENTS.md` 为准。
 
 内容生产以 Skill V1.1 为准。
 

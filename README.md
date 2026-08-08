@@ -19,6 +19,20 @@ AI 与 Codex 执行任务前，必须先读取：
 
 `AGENTS.md`
 
+当前 AI 协作采用轻量 AI员工组织层：
+
+```text
+Leo总控
+↓
+选题策划官 / 文案官 / 审查官 / 视觉官
+↓
+调用对应 Leon Skill
+```
+
+AI员工体系说明：
+
+`00-系统说明/Leon-AI员工体系-V2.md`
+
 涉及目录归属，读取：
 
 `00-系统说明/Leon-Europe-Retail目录架构V2.2.md`
