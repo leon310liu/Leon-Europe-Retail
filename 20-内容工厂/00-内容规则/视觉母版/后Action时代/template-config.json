@@ -1,6 +1,6 @@
 {
-  "template": "后Action时代封面母版-V6-真实人物固定版",
-  "status": "正式母版",
+  "template": "后Action时代封面母版-V7-头像人物版",
+  "status": "正式母版候选",
   "size": "1080x1920",
   "editable_fields": [
     "期数",
@@ -11,17 +11,31 @@
     "后Action时代系列字",
     "黑金色彩体系",
     "Action门头暗背景",
-    "Leon真实照片人物右侧",
-    "砖墙",
+    "Leon头像透明人物右侧",
     "底部识别栏"
   ],
-  "person_source": "source-Leon人物原图.jpg",
-  "reference_source": "source-母版参考图.png",
-  "action_source": "source-Action门头.jpg",
-  "formal_files": [
-    "后Action时代封面母版-V6-真实人物固定版.png",
-    "后Action时代封面母版-V6-HA013示例.png"
+  "person_source": "source-Leon人物头像透明版.png",
+  "formal_candidate_files": [
+    "后Action时代封面母版-V7-头像人物版.png",
+    "后Action时代封面母版-V7-HA013示例.png"
   ],
-  "draft_note": "V1-V5为本次制作过程草稿，不作为正式母版使用",
-  "rule": "013期以后只替换期数 主标题 副标题 其余元素保持不变"
+  "rule": "后续只替换期数 主标题 副标题 其余元素保持不变",
+  "fixed_layers": [
+    "黑金背景",
+    "Action门头暗背景",
+    "右侧砖墙",
+    "Leon头像人物固定层",
+    "后Action时代系列名",
+    "底部信息栏"
+  ],
+  "editable_layers": [
+    "期数",
+    "主标题",
+    "副标题"
+  ],
+  "files": [
+    "后Action时代封面母版-V7-头像人物版.png",
+    "后Action时代封面母版-V7-HA013示例.png",
+    "source-Leon人物头像透明版.png"
+  ]
 }
