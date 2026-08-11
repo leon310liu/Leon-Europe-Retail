@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=1080,height=1920,initial-scale=1" />
+  <title>后Action时代封面固定模板</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main id="cover" aria-label="后Action时代固定封面模板">
+    <img class="locked logo" src="assets/logo-post-action.png" alt="后Action时代" />
+    <section class="locked issue-tag">
+      <span id="issue-number">012</span><span class="issue-suffix">期</span>
+    </section>
+    <section class="locked main-title-card">
+      <div id="main-title"></div>
+      <div class="locked title-underline title-underline-left"></div>
+      <div class="locked title-underline title-underline-right"></div>
+    </section>
+    <section id="subtitle"></section>
+    <img class="locked action-bg" src="assets/background-action-store.jpg" alt="Action门头固定背景" />
+    <div class="locked action-bg-mask"></div>
+    <div class="locked network-dots"></div>
+    <img class="locked brick" src="assets/brick-right.png" alt="右侧砖墙固定层" />
+    <img class="locked person" src="assets/leon-person-original.png" alt="Leon人物固定层" />
+    <section class="locked bottom-band">
+      <div class="bottom-item bottom-item-1">
+        <div class="bottom-title">系列识别</div>
+        <div class="bottom-line">后Action时代</div>
+        <div class="bottom-line">黑金商业预警</div>
+      </div>
+      <div class="bottom-separator sep-1"></div>
+      <div class="bottom-item bottom-item-2">
+        <div class="bottom-title">主讲人</div>
+        <div class="bottom-line">Leon Liu</div>
+        <div class="bottom-line">后Action时代实战家</div>
+      </div>
+      <div class="bottom-separator sep-2"></div>
+      <div class="bottom-item bottom-item-3">
+        <div class="bottom-title">固定规则</div>
+        <div class="bottom-line">只改期数</div>
+        <div class="bottom-line">主标题和副标题</div>
+      </div>
+    </section>
+    <div class="locked safe-border"></div>
+  </main>
+  <script>
+    async function loadCoverData() {
+      const params = new URLSearchParams(window.location.search);
+      const dataPath = params.get('data') || 'cover-data.json';
+      const response = await fetch(dataPath, { cache: 'no-store' });
+      const data = await response.json();
+      document.getElementById('issue-number').textContent = data.issue_number;
+      const title = document.getElementById('main-title');
+      title.innerHTML = '';
+      String(data.main_title || '').split('\n').forEach((line, index) => {
+        const div = document.createElement('div');
+        div.className = index === 0 ? 'title-line title-line-primary' : 'title-line title-line-accent';
+        div.textContent = line;
+        title.appendChild(div);
+      });
+      const subtitle = document.getElementById('subtitle');
+      subtitle.innerHTML = '';
+      String(data.subtitle || '').split('\n').forEach((line) => {
+        const div = document.createElement('div');
+        div.textContent = line;
+        subtitle.appendChild(div);
+      });
+      document.body.classList.add('loaded');
+    }
+    loadCoverData();
+  </script>
+</body>
+</html>

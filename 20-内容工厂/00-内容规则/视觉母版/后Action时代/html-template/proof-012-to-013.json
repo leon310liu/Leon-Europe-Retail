@@ -1,0 +1,27 @@
+{
+  "proof": "012 改成 013 只修改变量数据，不修改固定模板",
+  "ok": true,
+  "data_files_compared": [
+    "examples/cover-data-012.json",
+    "examples/cover-data-013-proof.json"
+  ],
+  "changed_fields": [
+    "issue_number",
+    "main_title",
+    "subtitle"
+  ],
+  "locked_files_verified_by_sha256": {
+    "template.html": "58f22160f8e6229e93aa88100b8d2fd4cfb7b55e3fde9bc21f3ecf67dc7c04e1",
+    "styles.css": "fe64dde91b7af9870fa288879c547d2ee944bd46620217d3ef6e32c2cecaf376",
+    "export-cover.mjs": "8443ca2a18bf604e8e1e70e13995bee258467ca6165801055b6f18ad2497b548",
+    "assets/leon-person-original.png": "d3cbd45f0b1b1cef5705020a12435a1cd6eb427a8f09c67318111e7e1eb64285",
+    "assets/background-action-store.jpg": "bb240a58e89bec217e1a871307db51f10f8b530b79f805a764d2e2f288ee469c",
+    "assets/brick-right.png": "f909bc409d5e41acc3feb17163b7b5fdc4df8bdb93b6095af74f32b8ac3a5d80",
+    "assets/logo-post-action.png": "7d8f437f295b6919bdd8bc29a16fa0362086d67ce2ffe59724c2e97200107896"
+  },
+  "exported_pngs": [
+    "exports/HA-012-template.png",
+    "exports/HA-013-proof-only-data-changed.png"
+  ],
+  "note": "两个 PNG 使用同一套 template.html、styles.css 和 assets 固定素材导出，只切换 data JSON。"
+}
