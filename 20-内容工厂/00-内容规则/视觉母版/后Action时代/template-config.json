@@ -1,0 +1,27 @@
+{
+  "template": "后Action时代封面母版-V6-真实人物固定版",
+  "status": "正式母版",
+  "size": "1080x1920",
+  "editable_fields": [
+    "期数",
+    "主标题",
+    "副标题"
+  ],
+  "locked_elements": [
+    "后Action时代系列字",
+    "黑金色彩体系",
+    "Action门头暗背景",
+    "Leon真实照片人物右侧",
+    "砖墙",
+    "底部识别栏"
+  ],
+  "person_source": "source-Leon人物原图.jpg",
+  "reference_source": "source-母版参考图.png",
+  "action_source": "source-Action门头.jpg",
+  "formal_files": [
+    "后Action时代封面母版-V6-真实人物固定版.png",
+    "后Action时代封面母版-V6-HA013示例.png"
+  ],
+  "draft_note": "V1-V5为本次制作过程草稿，不作为正式母版使用",
+  "rule": "013期以后只替换期数 主标题 副标题 其余元素保持不变"
+}
