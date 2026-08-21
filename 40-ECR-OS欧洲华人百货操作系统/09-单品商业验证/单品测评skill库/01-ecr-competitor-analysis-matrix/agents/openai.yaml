@@ -1,0 +1,4 @@
+interface:
+  display_name: "工具1｜竞品分析矩阵"
+  short_description: "研究西班牙市场竞品并输出可复核的产品竞争决策分析矩阵工具"
+  default_prompt: "请使用 $01-ecr-competitor-analysis-matrix 研究目标产品及其西班牙市场竞品，输出决策总览、完整矩阵和证据台账。"
