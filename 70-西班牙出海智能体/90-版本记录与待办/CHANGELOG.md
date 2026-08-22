@@ -1,5 +1,13 @@
 # CHANGELOG
 
+## V0.2 — 2026-08-22
+
+- 将 Channel Card 升级为十二段式 Channel Intelligence Card，补充渠道身份、生态位置、进入评分、AI 调用和来源复核层。
+- 建立“标准行业分类 + Leon 解释性定位”的双层表达。
+- 明确 05 本土批发采购集团与 04 华人百货渠道的对照边界，将“老外版华人批发商”定义为生态类比而非官方分类。
+- 建立 Public Fact、Field Intelligence、Leon View、Model Analysis 四层知识结构。
+- 新增 Coferdroza 首张示例卡，并标注动态数据来源、待验证条件与智能体召回逻辑。
+
 ## V0.1 — 2026-08-21
 
 - 建立完整目录与产品总纲。
