@@ -42,6 +42,18 @@ Sinersis当前官网存在需要保留的口径差异：
 - https://www.sinersis.es/sobre-nosotros/
 - https://www.sinersis.es/asociados/
 
+### 2.3 Euronics International规模亦存在官网内部口径冲突
+
+2026-08-22再次巡检时发现，Sinersis官网对Euronics International的公开数字也不一致：
+- 首页：8,800+门店、35个国家、销售额超过230亿欧元；
+- “Sobre nosotros”页：8,800+门店、34个国家、销售额超过223亿欧元。
+
+因此本知识库不将34/35个国家或223/230亿欧元写成唯一确定值，直到取得Euronics International最新官方统一口径。
+
+来源：
+- https://www.sinersis.es/
+- https://www.sinersis.es/sobre-nosotros/
+
 ## 3. 公开事实｜采购与运营结构
 
 Sinersis公开说明其核心功能包括：
@@ -53,6 +65,12 @@ Sinersis公开说明其核心功能包括：
 - 区域平台负责各自影响区域的采购供应与物流协调。
 
 “Asociados”页面还明确列出区域平台服务内容：采购管理、门店整体发展、品牌形象实施、陈列优化、促销和营销活动、物流优化、门店培训。
+
+2026-08-22巡检确认“Asociados”页面当前还明确写：
+- 16个区域伙伴；
+- 19个仓库；
+- 负责1,500+销售点的物流；
+- 主要职责包含采购管理、门店发展、品牌形象、陈列、促销营销、物流优化和培训。
 
 来源：
 - https://www.sinersis.es/sobre-nosotros/
@@ -193,6 +211,7 @@ Leon的经验判断是：形成多个区域成员合作后，联盟层才会真�
 ## 12. 待验证项
 
 - [ ] 官网“16 vs 17个平台”口径变化原因
+- [ ] Euronics International官网统一口径：34/35国家、223/230亿欧元
 - [ ] 当前19个仓库分别对应哪些区域平台
 - [ ] 小家电/个人护理采购组织架构
 - [ ] 新供应商正式准入流程
