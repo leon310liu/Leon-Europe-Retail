@@ -41,55 +41,46 @@ MediaMarkt官方明确说明：Marketplace商品由第三方卖家通过MediaMar
 2. MediaMarkt Marketplace第三方卖家体系。
 
 来源：
-- https://www.mediamarkt.es/es/about-us/marketplace-contact
+- https://www.mediamarkt.es/es/about-us/marketplace-contact/marketplace-contact
 - https://te-ayudamos.mediamarkt.es/app/answers/detail/a_id/18417/~/%C2%BFqu%C3%A9-es-el-marketplace-de-mediamarkt
 
 ## 4. 公开事实｜吹风机品类当前结构
 
-MediaMarkt西班牙“Secadores de pelo Cyber Monday 2026”类目页在2026-08-22抓取时显示：
+### 4.1 2026-08-22较早快照
+
+MediaMarkt西班牙此前抓取的吹风机页面快照显示：
 - 类目总量：762个商品结果；
 - 卖家过滤中：Marketplace 659个结果；MediaMarkt 103个结果；
 - 即约86%的页面结果来自Marketplace，约14%为MediaMarkt自营结果（按当时页面过滤计数计算，属于页面快照，不等于全年稳定占比）。
 
-页面同时出现大量品牌，包括：
-- Dyson
-- BaByliss
-- Philips
-- Rowenta
-- Cecotec
-- Dreame
-- GHD
-- Shark
-- Laifen
-- Aigostar
-- Parlux
-- Remington
-- Xiaomi
-等。
+### 4.2 2026-08-22最新巡检快照
 
-其中页面品牌过滤显示：
-- Dreame：18个结果
-- Laifen：8个结果
-- Aigostar：9个结果
-- Shark：2个结果
-- GHD：4个结果
+同日后续巡检时，MediaMarkt当前“Secadores de pelo”主类目已显示 **904个商品结果**，而“Secadores de pelo profesionales”独立子类目显示 **77个商品结果**；“Secadores de pelo iónicos”子类目显示 **504个商品结果**。
 
-这些数字是2026-08-22当时页面快照，不能视作永久SKU数量。
+这说明：
+- MediaMarkt吹风机线上商品池是动态变化的；
+- 不能将单次SKU计数视为稳定的“采购规模”；
+- 更不能把全站商品数直接等同于MediaMarkt自营采购SKU，因为页面持续混合自营与第三方Marketplace卖家。
+
+最新主类目中仍可直接看到第三方卖家标识，例如KLACK EUROPE、VistaMóvil、DAM Electronics、Electroactiva等；同时也有MediaMarkt自营产品。
 
 来源：
-- https://www.mediamarkt.es/es/list/secadores-de-pelo-cyber-monday
+- https://www.mediamarkt.es/es/category/secadores-de-pelo-725.html
+- https://www.mediamarkt.es/es/category/secadores-de-pelo-profesionales-7251.html
+- https://www.mediamarkt.es/es/category/secadores-de-pelo-i%C3%B3nicos-7252.html
 
-## 5. 公开事实｜页面可见价格带与技术卖点
+## 5. 公开事实｜页面可见品牌、价格带与技术卖点
 
-2026-08-22页面样本显示，吹风机从20欧元以下大众价位延伸至300欧元以上高端价位。公开样本包括：
-- ok. OHD 4211 B：约13.99欧元促销价；
-- Rowenta Studio Dry：约19.99欧元；
-- BaByliss Air Wand：约89.99欧元；
-- Rowenta Maestria：约124.99欧元；
-- Philips Serie 8000：约149.99欧元；
-- Dyson Supersonic Nural：约369欧元。
+2026-08-22最新页面样本显示：
+- Rowenta Maestria CV9920：BLDC、双离子、约385g，促销价约124.99欧元；
+- Philips Serie 8000 BHD839/10：1400W、多档温控，促销价约149.99欧元；
+- BaByliss Air Wand：1600W、123 km/h、380g、离子技术，促销价约89.99欧元；
+- Cecotec DryWave Nébula：BLDC、PlasmaTech、离子技术，促销价约44.90欧元；
+- 大量Marketplace产品集中在约20-60欧元区间。
 
-类目筛选维度还直接包含：
+主类目和品牌页仍可见Rowenta、Philips、BaByliss、Cecotec、Remington等成熟品牌；此前快照还出现Dreame、Laifen、Aigostar、Shark、GHD等。
+
+页面筛选/产品信息持续强调：
 - 离子技术
 - 冷风
 - 温度档位
@@ -97,23 +88,25 @@ MediaMarkt西班牙“Secadores de pelo Cyber Monday 2026”类目页在2026-08-
 - 是否含扩散风嘴
 - 功率
 - 重量
-
-说明消费者在该渠道中被直接教育为按“功能参数 + 品牌 + 价格”比较吹风机。
+- BLDC/高速风相关卖点
 
 来源：
-- https://www.mediamarkt.es/es/list/secadores-de-pelo-cyber-monday
+- https://www.mediamarkt.es/es/category/secadores-de-pelo-725.html
+- https://www.mediamarkt.es/es/brand/philips/cuidado-cabello/secadores-de-pelo
+- https://www.mediamarkt.es/es/brand/babyliss/secadores-de-pelo
+- https://www.mediamarkt.es/es/brand/rowenta/secadores-de-pelo
 
 ## 6. AI分析｜对001 AI吹风机的意义
 
 > 以下为AI分析，不是公开事实，也不是Leon View。
 
-1. **不能把MediaMarkt网站上的SKU数量直接理解为MediaMarkt采购部接受了这些品牌。** 当前吹风机页面的大多数结果来自第三方Marketplace，因此“已在MediaMarkt上架”与“进入MediaMarkt自营采购”是两种完全不同的渠道价值。
-2. Marketplace可作为低门槛市场验证入口，但其要求欧盟主体/税务、欧盟发货与退货能力、西班牙语客服，因此对纯中国主体并非零门槛。
-3. 自营吹风机SKU中已经存在Dyson、Rowenta、Philips、BaByliss、Cecotec等强势品牌；同时Marketplace中又出现Laifen、Dreame、Aigostar等中国背景品牌，说明“高端高速吹风机”在该渠道已不是空白品类。
-4. 对001案例应分两套商业路径验证：
+1. **不能把MediaMarkt网站上的SKU数量直接理解为MediaMarkt采购部接受了这些品牌。** 页面大量结果来自第三方Marketplace，因此“已在MediaMarkt上架”与“进入MediaMarkt自营采购”是两种完全不同的渠道价值。
+2. 同一天类目商品量即可从此前762变化到904，进一步说明商品池高度动态。未来数据库应保存“抓取日期+页面快照”，不要把单次SKU数量写成长期规模事实。
+3. Marketplace可作为市场验证入口，但要求欧盟主体/税务、欧盟发货与退货能力、西班牙语客服，因此对纯中国主体并非零门槛。
+4. 自营和Marketplace中都已存在大量围绕BLDC、离子、轻量、智能/精细温控等卖点的产品，001不能只用“高速电机/负离子”作为单一差异化。
+5. 对001案例应分两套商业路径验证：
    - 路径A：Marketplace先测试价格、转化、评论与退货；
    - 路径B：寻找MediaMarkt自营采购/品类经理，验证进入实体店和自营电商的门槛。
-5. 需要继续核验：MediaMarkt自营吹风机具体品牌数、线下实体店SKU、个护电器采购组织、供应商开户/年度费用/促销机制。
 
 ## 7. 渠道真实价值判断
 
@@ -139,6 +132,7 @@ MediaMarkt西班牙“Secadores de pelo Cyber Monday 2026”类目页在2026-08-
 - [ ] 是否接受区域/部分门店试销
 - [ ] Marketplace佣金、服务费与类目费率
 - [ ] Laifen/Dreame等中国品牌是自营、Marketplace还是混合模式
+- [ ] 建立定期SKU快照，区分主类目 / 专业子类目 / 离子子类目 / 自营 / Marketplace
 
 ## 10. AI调用标签
 
