@@ -9,9 +9,11 @@
 当前已建立：
 - [Perfumerías Primor](./Primor-Beauty-Channel-Intelligence-Card.md)
 - [Druni / Arenal](./Druni-Arenal-Beauty-Channel-Intelligence-Card.md)
+- [Dismay Hair & Beauty](./Dismay-Hair-Beauty-Channel-Intelligence-Card.md) — 专业美发/美容批发分销商；2026年成为EOLUX在西班牙和安道尔的官方独家分销商
 
 后续重点：
 - 专业美发用品批发商 / salon supply distributors
 - 区域美容用品批发网络
 - 美发沙龙采购体系
 - 新品牌进口商与代理商进入路径
+- 核验Dismay与Primor/Druni等大型美容零售的具体供货关系，未有公开证据前不得写成事实
