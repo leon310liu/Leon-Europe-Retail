@@ -8,6 +8,10 @@
 - Sinersis — Buying Group / 区域平台网络
 - Best Phone Mundo Móvil — B2B消费电子批发与全国分销
 
+## 市场基线
+
+- Spain Hair Dryer Market Baseline 2025 — 001 AI吹风机品类基线；2024→2025销量 +9%、销售额 +1%、平均价格 -7%，来源为Electromarket 2026行业报告。
+
 ## 研究规则
 
 对该分类中的渠道，需要明确区分：
