@@ -23,6 +23,23 @@ FECE还维护西班牙各地区家电商协会、分销集团、平台和门店�
 - https://fece.org/
 - https://fece.org/asociados/
 
+### FECE 2026行业结构更新
+
+2026年2月11日，FECE秘书长 Alfredo Gósalvez 在行业专业媒体 Ei Actualidad 的公开行业交流中披露了更具体的当前口径：
+
+- **8个分销集团（grupos de distribución）**；
+- **68个平台（plataformas）**；
+- **15个地区协会（asociaciones regionales）**；
+- **4,989家门店**；
+- 相比上年约净减少200个销售点：关闭222个，新增20个。
+
+同场引用 GfK 数据称，西班牙 electro 行业2025年同比增长约 **2.8%**，其中Q4贡献接近全年销售的30%；当时对2026年的预测约为增长3%。
+
+> 数据边界：以上来自FECE秘书长在专业行业媒体公开活动中的发言，并非FECE正式审计年报；但它比“近5,000家”的宽泛官网口径更适合作为2026渠道网络结构快照。
+
+来源：
+- https://www.electro-imagen.com/public/articulo/tertulia-comunidades-de-aragon-y-la-rioja
+
 ### 2026年西班牙专业家电零售门店规模
 
 Alimarket 于 2026-05-13 发布的《Informe 2026 del Sector de Distribución Minorista y Mayorista de electrodomésticos por Sala de Venta en España》指出：
@@ -33,7 +50,7 @@ Alimarket 于 2026-05-13 发布的《Informe 2026 del Sector de Distribución Mi
 - 加盟/采购集团（grupos de compra）体系在门店数量上仍占主导；
 - 2026年行业仍在发生结构变化，例如 Medired Comercial 进入 Sinersis、Candelsa 平台清算。
 
-> 数据边界：以上为专业行业媒体对零售/批发家电分销体系的行业口径，不等同于所有售卖消费电子产品的西班牙零售网点总数。
+> 数据边界：以上为专业行业媒体对零售/批发家电分销体系的行业口径，不等同于FECE代表的专业零售商口径，也不等同于所有售卖消费电子产品的西班牙零售网点总数。
 
 来源：
 - https://www.alimarket.es/electro/informe_amp/424875/informe-2026-del-sector-de-distribucion-minorista-y-mayorista-de-electrodomesticos-por-sala-de-venta-en-espana
@@ -110,14 +127,18 @@ APPLiA España 当前披露：
 
 - **全国零售路径**：MediaMarkt / El Corte Inglés / Fnac 等；
 - **Buying Group路径**：Sinersis / Segesa / Activa 等；
-- **B2B分销路径**：Best Phone等本地批发分销节点。
+- **B2B分销路径**：CEMEVISA / Best Phone 等本地批发分销节点。
 
 同时必须与“专业美容/美发渠道树”保持并行，而不是把吹风机只归类为普通PAE。
 
+FECE 2026公开口径的“8个分销集团 + 68个平台 + 4,989家门店”进一步说明：对于中国新品牌来说，真正可执行的渠道地图应建立到“集团—平台—门店”三级，而不是只列集团名称。
+
 ## 3. 数据治理与待验证项
 
-- FECE旧页面曾出现“15个协会、8个全国分销集团、68个平台”的历史口径；当前主页面更强调“近5,000家门店”并列示具体集团。历史数字不可自动当成2026当前数字。
-- Alimarket的5,445家为2026行业媒体统计口径，与FECE“近5,000家代表门店”统计对象不同，不应直接判断冲突。
+- FECE官网“近5,000家门店”和FECE秘书长2026年2月公开的4,989家门店可以视为同一数量级，但后者是更具体的时间点口径。
+- FECE 2026公开发言称8个分销集团、68个平台、15个地区协会；应优先于更旧版本名录，但仍需后续用FECE官方更新材料复核。
+- Alimarket的5,445家为2026行业媒体统计口径，与FECE 4,989家代表门店统计对象不同，不应直接判断冲突。
+- FECE公开发言显示一年内关闭222家、新增20家，说明渠道网点数量具有较高动态性；门店/平台数量必须带抓取日期。
 - 后续应分别建立 ACTIVA、SEGESA/REDDER、CEMEVISA、expert-alta、HGM 的 Channel Card，并核验：中央谈判权、会员直采、区域平台、仓储、开票主体与品牌准入机制。
 
 ## 4. Leon View
