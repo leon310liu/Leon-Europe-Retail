@@ -8,9 +8,10 @@
 - Sinersis — Buying Group / 区域平台网络
 - Best Phone Mundo Móvil — B2B消费电子批发与全国分销
 
-## 市场基线
+## 市场与品类基线
 
 - Spain Hair Dryer Market Baseline 2025 — 001 AI吹风机品类基线；2024→2025销量 +9%、销售额 +1%、平均价格 -7%，来源为Electromarket 2026行业报告。
+- Milar Hair Dryer Assortment Snapshot 2026-02 — Sinersis/Milar体系内吹风机促销快照；公开目录已同时出现传统AC/DC产品与105,000 rpm数字高速电机、Coanda等新技术产品，用于001 AI吹风机竞争与渠道验证。
 
 ## 研究规则
 
@@ -21,3 +22,10 @@
 - Marketplace平台
 
 不得仅因都经营消费电子而视为相同进入模式。
+
+对促销目录、区域门店目录和电商SKU快照，还必须区分：
+- 出现在前台销售/促销页面；
+- 区域平台实际供货；
+- 集团总部统一采购或框架协议。
+
+三者不能互相替代证明。
