@@ -8,6 +8,7 @@
 - Fnac Spain — 全渠道专业零售 / Marketplace双路径；已验证Laifen通过第三方卖家进入Fnac.es，但不能等同Fnac自营采购
 - Sinersis — Buying Group / 区域平台网络
 - Best Phone Mundo Móvil — B2B消费电子批发与全国分销
+- HGM / Master Cadena — 本土专业家电分销集团 / 加盟零售网络；官网已设个人护理与吹风机独立类目，当前公开企业口径约400+门店、4个物流平台，需继续核验中央采购与区域平台权责
 
 ## 市场与品类基线
 
