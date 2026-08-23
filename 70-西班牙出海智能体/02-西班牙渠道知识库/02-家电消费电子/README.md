@@ -5,6 +5,7 @@
 ## 已建Channel Card
 
 - MediaMarkt Spain — 大型消费电子零售 / Marketplace双路径
+- Fnac Spain — 全渠道专业零售 / Marketplace双路径；已验证Laifen通过第三方卖家进入Fnac.es，但不能等同Fnac自营采购
 - Sinersis — Buying Group / 区域平台网络
 - Best Phone Mundo Móvil — B2B消费电子批发与全国分销
 
@@ -29,3 +30,10 @@
 - 集团总部统一采购或框架协议。
 
 三者不能互相替代证明。
+
+对于同时经营自营零售与Marketplace的平台（如MediaMarkt、Fnac），还必须额外区分：
+- 平台自营采购 / 自营库存；
+- 第三方Marketplace卖家；
+- 实体门店可售/可展示状态。
+
+“品牌出现在平台网站”不得自动推导为“品牌已进入该零售集团采购体系”。
