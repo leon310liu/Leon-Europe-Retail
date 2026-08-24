@@ -18,6 +18,7 @@
 
 - Spain Hair Dryer Market Baseline 2025 — 001 AI吹风机品类基线；2024→2025销量 +9%、销售额 +1%、平均价格 -7%，来源为Electromarket 2026行业报告。
 - Milar Hair Dryer Assortment Snapshot 2026-02 — Sinersis/Milar体系内吹风机促销快照；公开目录已同时出现传统AC/DC产品与105,000 rpm数字高速电机、Coanda等新技术产品，用于001 AI吹风机竞争与渠道验证。
+- Spain Buying Group Performance Baseline 2025 — 主要家电采购集团2025经营与网络变化基线；Cadena Elecco、Eldisser增长，SEGESA/HGM/Sinersis回落；同时分开记录销售变化、品牌网络销售点和PAE业务体量，避免混淆渠道价值。
 
 ## 研究规则
 
