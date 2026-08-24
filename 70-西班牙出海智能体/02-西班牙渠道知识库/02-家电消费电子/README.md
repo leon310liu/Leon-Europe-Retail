@@ -6,6 +6,7 @@
 
 - MediaMarkt Spain — 大型消费电子零售 / Marketplace双路径
 - Fnac Spain — 全渠道专业零售 / Marketplace双路径；已验证Laifen通过第三方卖家进入Fnac.es，但不能等同Fnac自营采购
+- PcComponentes Spain — 西班牙本土专业科技零售 / Marketplace双路径；官方当前有4家实体店。001吹风机已验证同一Dreame品牌可同时存在PcComponentes自营SKU与第三方Marketplace SKU，后续必须按SKU级别区分卖家、自营库存、门店可售与中央采购关系
 - Sinersis — Buying Group / 区域平台网络
 - MEDIRED — Valencia/Paterna区域家电采购与销售管理平台；2026-01-01正式加入Sinersis，已出现Sinersis组织的MEDIRED实体门店统一促销执行证据；需继续核验中央框架与区域选品/合同权边界
 - SEGESA / Cadena Redder — 全国性家电采购/分销集团；2025年行业披露为14 socios、25 almacenes、1,244销售点，PAE采购净额约€28.08m；官网不同页面的12平台/14仓库口径需与年度经营数据分字段管理
@@ -46,7 +47,7 @@
 
 三者不能互相替代证明。
 
-对于同时经营自营零售与Marketplace的平台（如MediaMarkt、Fnac），还必须额外区分：
+对于同时经营自营零售与Marketplace的平台（如MediaMarkt、Fnac、PcComponentes），还必须额外区分：
 - 平台自营采购 / 自营库存；
 - 第三方Marketplace卖家；
 - 实体门店可售/可展示状态。
