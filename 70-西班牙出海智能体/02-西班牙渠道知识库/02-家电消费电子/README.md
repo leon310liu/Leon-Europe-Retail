@@ -10,6 +10,7 @@
 - MEDIRED — Valencia/Paterna区域家电采购与销售管理平台；2026-01-01正式加入Sinersis，已出现Sinersis组织的MEDIRED实体门店统一促销执行证据；需继续核验中央框架与区域选品/合同权边界
 - SEGESA / Cadena Redder — 全国性家电采购/分销集团；2025年行业披露为14 socios、25 almacenes、1,244销售点，PAE采购净额约€28.08m；官网不同页面的12平台/14仓库口径需与年度经营数据分字段管理
 - CEMEVISA — 专业家电分销体系；官方当前披露9个分销平台、40,000㎡+物流面积，明确经营小家电及吹风机，当前目录已出现Rowenta高速BLDC吹风机；需继续核验中央选品与区域平台权责
+- Eldisser / Mi Electro — 本土家电分销/采购网络 + 关联零售品牌；Eldisser官方当前披露€200M+营业额、33,000㎡仓储、350+关联门店，Mi Electro官网另称500+实体销售点；2026年前四个月新增14店，需分字段核验集团/品牌/销售点口径及与Activa Hogar的主体关系
 - Best Phone Mundo Móvil — B2B消费电子批发与全国分销
 - HGM / Master Cadena — 本土专业家电分销集团 / 加盟零售网络；官网已设个人护理与吹风机独立类目，当前公开企业口径约400+门店、4个物流平台，需继续核验中央采购与区域平台权责
 
@@ -49,3 +50,15 @@
 - 实体门店可售/可展示状态。
 
 “品牌出现在平台网站”不得自动推导为“品牌已进入该零售集团采购体系”。
+
+对于 Eldisser / Activa Hogar / Mi Electro 这类存在集团、采购协同、零售品牌与多主体交叉的体系，还必须额外区分：
+- Legal Entity
+- Buying / Negotiation Layer
+- Retail Banner
+- Associated Stores
+- Physical Points of Sale
+- Logistics Nodes
+- Stock Owner
+- Invoice Entity
+
+不得把同一生态内不同主体或不同统计口径的门店数、仓库数、营业额相互替代。
