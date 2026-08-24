@@ -16,11 +16,12 @@
 - Best Phone Mundo Móvil — B2B消费电子批发与全国分销
 - HGM / Master Cadena — 本土专业家电分销集团 / 加盟零售网络；官网已设个人护理与吹风机独立类目，当前公开企业口径约400+门店、4个物流平台，需继续核验中央采购与区域平台权责
 
-## 市场与品类基线
+## 市场、品类与进入基线
 
 - Spain Hair Dryer Market Baseline 2025 — 001 AI吹风机品类基线；2024→2025销量 +9%、销售额 +1%、平均价格 -7%，来源为Electromarket 2026行业报告。
 - Milar Hair Dryer Assortment Snapshot 2026-02 — Sinersis/Milar体系内吹风机促销快照；公开目录已同时出现传统AC/DC产品与105,000 rpm数字高速电机、Coanda等新技术产品，用于001 AI吹风机竞争与渠道验证。
 - Spain Buying Group Performance Baseline 2025 — 主要家电采购集团2025经营与网络变化基线；Cadena Elecco、Eldisser增长，SEGESA/HGM/Sinersis回落；同时分开记录销售变化、品牌网络销售点和PAE业务体量，避免混淆渠道价值。
+- Laifen EU Wholesale and Spain Entry Benchmark 2026 — 中国高速吹风机品牌欧洲进入参照；Laifen欧盟官方Wholesale Program公开标准MOQ 10台，面向独立零售、专业卖家、salon/clinic，并把普通批发与区域official distributor合作分开；西班牙MediaMarkt当前多个Laifen SKU由第三方Marketplace卖家经营，因此应区分DTC、低MOQ B2B批发、Marketplace与零售商自营采购。
 
 ## 研究规则
 
@@ -29,6 +30,8 @@
 - Buying Group / 区域平台
 - B2B批发分销商
 - Marketplace平台
+- 品牌直营 DTC
+- 品牌低MOQ B2B Wholesale / Professional Direct
 
 不得仅因都经营消费电子而视为相同进入模式。
 
@@ -53,6 +56,17 @@
 - 实体门店可售/可展示状态。
 
 “品牌出现在平台网站”不得自动推导为“品牌已进入该零售集团采购体系”。
+
+对于品牌自己同时运营 DTC、低MOQ批发和正式区域分销商计划的案例，还必须区分：
+- DTC消费者订单；
+- Approved Wholesale Customer；
+- Independent / Specialty Retailer；
+- Professional / Salon Customer；
+- Official / Regional Distributor；
+- Marketplace Third-party Seller；
+- Retailer Self-operated Procurement。
+
+这些层级不得因为“都能买到品牌商品”而合并为同一种渠道关系。
 
 对于 Eldisser / Activa Hogar / Mi Electro 这类存在集团、采购协同、零售品牌与多主体交叉的体系，还必须额外区分：
 - Legal Entity
