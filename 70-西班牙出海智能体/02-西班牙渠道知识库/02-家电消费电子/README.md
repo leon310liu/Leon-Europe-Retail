@@ -7,6 +7,7 @@
 - MediaMarkt Spain — 大型消费电子零售 / Marketplace双路径
 - Fnac Spain — 全渠道专业零售 / Marketplace双路径；已验证Laifen通过第三方卖家进入Fnac.es，但不能等同Fnac自营采购
 - Sinersis — Buying Group / 区域平台网络
+- MEDIRED — Valencia/Paterna区域家电采购与销售管理平台；2026-01-01正式加入Sinersis，已出现Sinersis组织的MEDIRED实体门店统一促销执行证据；需继续核验中央框架与区域选品/合同权边界
 - SEGESA / Cadena Redder — 全国性家电采购/分销集团；2025年行业披露为14 socios、25 almacenes、1,244销售点，PAE采购净额约€28.08m；官网不同页面的12平台/14仓库口径需与年度经营数据分字段管理
 - CEMEVISA — 专业家电分销体系；官方当前披露9个分销平台、40,000㎡+物流面积，明确经营小家电及吹风机，当前目录已出现Rowenta高速BLDC吹风机；需继续核验中央选品与区域平台权责
 - Best Phone Mundo Móvil — B2B消费电子批发与全国分销
