@@ -9,6 +9,7 @@
 - PcComponentes Spain — 西班牙本土专业科技零售 / Marketplace双路径；官方当前有4家实体店。001吹风机已验证同一Dreame品牌可同时存在PcComponentes自营SKU与第三方Marketplace SKU，后续必须按SKU级别区分卖家、自营库存、门店可售与中央采购关系
 - Sinersis — Buying Group / 区域平台网络
 - MEDIRED — Valencia/Paterna区域家电采购与销售管理平台；2026-01-01正式加入Sinersis，已出现Sinersis组织的MEDIRED实体门店统一促销执行证据；需继续核验中央框架与区域选品/合同权边界
+- ADEN — 西班牙北部家电分销企业协会 / 区域平台网络组织；当前官方列出6家成员企业、接近700家门店，商业网络横跨 CENOR、MiElectro、Activa、Tien21、Euronics、Expert、Milar 等多个品牌体系；用于拆解“全国品牌网络 vs 区域运营法人”，本身不得默认视为统一采购主体
 - SEGESA / Cadena Redder — 全国性家电采购/分销集团；2025年行业披露为14 socios、25 almacenes、1,244销售点，PAE采购净额约€28.08m；官网不同页面的12平台/14仓库口径需与年度经营数据分字段管理
 - CEMEVISA — 专业家电分销体系；官方当前披露9个分销平台、40,000㎡+物流面积，明确经营小家电及吹风机，当前目录已出现Rowenta高速BLDC吹风机；需继续核验中央选品与区域平台权责
 - Eldisser / Mi Electro — 本土家电分销/采购网络 + 关联零售品牌；Eldisser官方当前披露€200M+营业额、33,000㎡仓储、350+关联门店，Mi Electro官网另称500+实体销售点；2026年前四个月新增14店，需分字段核验集团/品牌/销售点口径及与Activa Hogar的主体关系
