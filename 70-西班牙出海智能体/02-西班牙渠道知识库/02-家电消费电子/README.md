@@ -28,6 +28,7 @@
 - Milar Hair Dryer Assortment Snapshot 2026-02 — Sinersis/Milar体系内吹风机促销快照；公开目录已同时出现传统AC/DC产品与105,000 rpm数字高速电机、Coanda等新技术产品，用于001 AI吹风机竞争与渠道验证。
 - Spain Buying Group Performance Baseline 2025 — 主要家电采购集团2025经营与网络变化基线；Cadena Elecco、Eldisser增长，SEGESA/HGM/Sinersis回落；同时分开记录销售变化、品牌网络销售点和PAE业务体量，避免混淆渠道价值。
 - Laifen EU Wholesale and Spain Entry Benchmark 2026 — 中国高速吹风机品牌欧洲进入参照；Laifen欧盟官方Wholesale Program公开标准MOQ 10台，面向独立零售、专业卖家、salon/clinic，并把普通批发与区域official distributor合作分开；西班牙MediaMarkt当前多个Laifen SKU由第三方Marketplace卖家经营，因此应区分DTC、低MOQ B2B批发、Marketplace与零售商自营采购。
+- Spain Electro Importers & Distributors Role Baseline 2026 — 进口商/分销商角色基线；Alimarket 2026将该群体单独作为Gama Blanca、PAE、消费电子和科技批发的重要行业层研究，并明确其对于缺乏西班牙本地渠道知识的国际品牌具有市场进入与渠道定位作用。该角色必须与Buying Group、区域平台、Marketplace卖家及零售商自营采购分开建模。
 
 ## 研究规则
 
@@ -35,11 +36,25 @@
 - 终端零售商
 - Buying Group / 区域平台
 - B2B批发分销商
+- Importer / Importer of Record
 - Marketplace平台
 - 品牌直营 DTC
 - 品牌低MOQ B2B Wholesale / Professional Direct
 
 不得仅因都经营消费电子而视为相同进入模式。
+
+对于进口商/分销商，还必须额外核验：
+- Legal Entity
+- Importer of Record
+- RII-AEE / EPR / RAEE责任主体
+- Stock Owner
+- Invoice Entity
+- SAT / After-sales Responsibility
+- Existing Retail / Buying Group Accounts
+- Geographic Coverage
+- Exclusivity Requirement
+
+“进口商”“全国分销商”“Buying Group”“区域平台”“Marketplace卖家”不得合并成同一个“代理/渠道商”标签。
 
 对于采购集团/分销集团，还必须进一步分字段区分：
 - socios / asociados（成员主体）
