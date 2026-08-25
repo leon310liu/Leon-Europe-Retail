@@ -15,6 +15,7 @@
 - [Postquam Professional](./Postquam-Professional-Channel-Intelligence-Card.md) — 西班牙专业美容美发制造与B2B供应平台；2026/27公开目录披露分销商—salon网络、多层专业价盘及高速BLDC吹风机，可作为001渠道毛利与竞争基准
 - [Sunmarket Wellness](./Sunmarket-Wellness-Professional-Channel-Intelligence-Card.md) — Valencia专业美容/美发/wellness设备分销平台；B2B为主、B2C并行，覆盖EEE，拥有Showroom及技术服务能力，可作为001“专业直供 + 售后服务型分销”路径样本
 - [Belexpress / Bastos Medical](./Belexpress-Bastos-Medical-Professional-Channel-Intelligence-Card.md) — Barcelona专业美容美发B2B供应与批发平台；官网明确仅面向企业/专业人士交易，45,000+专业客户、5,000㎡仓库，并实际经营GHD/Eurostil等专业吹风机，可作为001“专业客户直供型批发分销”路径样本
+- [Novabel / Irene Ríos](./Novabel-Irene-Rios-Channel-Intelligence-Card.md) — Alicante专业美发工具制造/进口/分销与自有品牌运营主体；官方同时招募分销商并提供Private Label项目，可作为001“专业B2B分销 + OEM/Private Label”双商业模型参照
 
 后续重点：
 - 继续反查Industrias Oriol在西班牙境内的区域专业分销商网络
@@ -26,3 +27,4 @@
 - 核验Postquam的西班牙国内分销商网络构成、第三方专业电器品牌合作政策及OEM/ODM边界
 - 核验Sunmarket是否接受新的第三方国际吹风机品牌，以及其技术服务体系能否承接第三方品牌保内维修
 - 核验Belexpress是否接受新的第三方国际吹风机品牌、是否直接承担进口主体，以及其售后服务是否覆盖电器保内维修
+- 核验Novabel / Irene Ríos是否接受第三方国际吹风机品牌合作、其区域分销网络、Importer of Record能力、SAT/备件体系及Private Label项目的MOQ和认证责任边界
