@@ -1,7 +1,7 @@
 # ECR 欧洲渠道智能卡｜MediaMarkt Spain
 
 > 状态：公开事实核验版  
-> 最近核验：2026-08-22  
+> 最近核验：2026-08-25  
 > 原则：公开事实、AI分析、Leon View严格分层；本文件不自行生成Leon View。
 
 ## 1. 渠道身份
@@ -22,6 +22,23 @@ MediaMarkt西班牙官网“Quiénes somos”页面当前披露：
 来源：
 - https://www.mediamarkt.es/es/service/quienes-somos
 - https://www.mediamarkt.es/es/store/store-finder
+
+### 2.1 2026新零售格式：Avilés首个欧洲“Home Solutions” Concept Store
+
+MediaMarkt España于2026年6月底在Asturias的Avilés开出一个新型门店。MediaMarkt官方将其称为公司**欧洲首家以“家居解决方案”为核心的concept store**：
+- 地址：C/ José Cueto 15, Avilés；
+- 面积约360㎡；
+- 店内可即时购买约400个参考SKU；
+- 重点展示品类包括大家电、**小家电（PAE）**、电视和空调；
+- 虽然实体陈列以家居相关品类为主，但顾客可以在该门店查询、购买或提取MediaMarkt完整线上商品池中的其他商品；
+- 门店支持Click & Collect，并设置Service Point，可提供设备维修和技术支持。
+
+MediaMarkt官方把该店定义为“更专业、更邻近、同时连接完整线上生态”的新型实体门店。Alimarket在2026-07-02也将其报道为MediaMarkt首个将“家居解决方案”与Xpress/近邻格式结合的门店。
+
+来源：
+- https://www.mediamarkt.es/es/content/entretenimiento/apertura-aviles
+- https://www.mediamarkt.es/es/store/aviles-6298
+- https://www.alimarket.es/electro/noticia/428653/mediamarkt-estrena-en-aviles-su-formato-de-tienda-de-proximidad-especializado-en-soluciones-para-el-hogar
 
 ## 3. 公开事实｜Marketplace 与自营采购必须区分
 
@@ -107,6 +124,8 @@ MediaMarkt西班牙此前抓取的吹风机页面快照显示：
 5. 对001案例应分两套商业路径验证：
    - 路径A：Marketplace先测试价格、转化、评论与退货；
    - 路径B：寻找MediaMarkt自营采购/品类经理，验证进入实体店和自营电商的门槛。
+6. **Avilés新concept store显示MediaMarkt正在测试“小面积家居重点陈列 + 全量线上目录 + Click & Collect”的近邻型门店。** 对001而言，如果个护小家电未来被纳入此类门店的精选即时陈列SKU，其价值与“只存在于线上长尾目录”不同；因此后续渠道研究应新增“实体精选陈列资格”这一层级，而不是只区分线上自营和Marketplace。
+7. 新门店同时提供Service Point和维修支持，说明MediaMarkt的新型实体触点继续把零售、提货、顾问服务与售后结合。对新品牌而言，售后准备度可能影响渠道适配，但是否构成供应商准入条件仍需商务验证。
 
 ## 7. 渠道真实价值判断
 
@@ -133,7 +152,10 @@ MediaMarkt西班牙此前抓取的吹风机页面快照显示：
 - [ ] Marketplace佣金、服务费与类目费率
 - [ ] Laifen/Dreame等中国品牌是自营、Marketplace还是混合模式
 - [ ] 建立定期SKU快照，区分主类目 / 专业子类目 / 离子子类目 / 自营 / Marketplace
+- [ ] Avilés concept store的精选PAE采购/陈列规则是否与普通MediaMarkt门店一致
+- [ ] Home Solutions / Xpress概念是否计划复制到西班牙其他城市
+- [ ] 吹风机/个护产品能否进入该类近邻门店的即时库存SKU，而不仅是全量线上目录访问
 
 ## 10. AI调用标签
 
-`Spain` `MediaMarkt` `consumer electronics` `small appliances` `personal care` `hair dryer` `AI hair dryer` `marketplace` `self-operated retail` `Dyson` `Laifen` `Dreame`
+`Spain` `MediaMarkt` `consumer electronics` `small appliances` `personal care` `hair dryer` `AI hair dryer` `marketplace` `self-operated retail` `concept store` `Xpress` `omnichannel` `Click & Collect` `Dyson` `Laifen` `Dreame`
