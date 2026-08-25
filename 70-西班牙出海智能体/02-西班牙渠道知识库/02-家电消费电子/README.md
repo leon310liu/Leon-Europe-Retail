@@ -7,6 +7,7 @@
 - MediaMarkt Spain — 大型消费电子零售 / Marketplace双路径
 - Fnac Spain — 全渠道专业零售 / Marketplace双路径；已验证Laifen通过第三方卖家进入Fnac.es，但不能等同Fnac自营采购
 - PcComponentes Spain — 西班牙本土专业科技零售 / Marketplace双路径；官方当前有4家实体店。001吹风机已验证同一Dreame品牌可同时存在PcComponentes自营SKU与第三方Marketplace SKU，后续必须按SKU级别区分卖家、自营库存、门店可售与中央采购关系
+- Amazon Spain — 综合电商 / Marketplace / FBA / Seller Fulfilled Prime 多层路径；2026官方规则明确区分卖家注册、第三方销售与不同履约方式，并要求受监管的RAEE/包装/电池等类别提交EPR注册信息。对001适合作为直接市场测试、评论与价格验证渠道，但Amazon Marketplace销售不得等同Amazon自营采购或西班牙线下渠道进入
 - Electro Depot Spain — 垂直低价家电/消费电子零售；官方当前5家西班牙门店、€30m+公司公开营业规模，采用Cash & Carry/大批量采购及自有品牌模式，同时有B2B入口。当前吹风机货架已出现多款110,000 RPM BLDC / 智能温控 / 多功能造型产品；对001的核心价值是验证强价格压力下的真实差异化与渠道毛利空间，供应商准入、采购层级和Private Label可能性仍需商务核验
 - Sinersis — Buying Group / 区域平台网络
 - MEDIRED — Valencia/Paterna区域家电采购与销售管理平台；2026-01-01正式加入Sinersis，已出现Sinersis组织的MEDIRED实体门店统一促销执行证据；需继续核验中央框架与区域选品/合同权边界
