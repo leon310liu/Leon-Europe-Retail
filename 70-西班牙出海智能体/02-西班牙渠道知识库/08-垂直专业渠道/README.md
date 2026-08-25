@@ -13,6 +13,7 @@
 - [Industrias Oriol / Eurostil](./Industrias-Oriol-Eurostil-Channel-Intelligence-Card.md) — 西班牙专业美发用品制造与B2B分销平台；官方公开仅向专业批发商/分销商销售，自有高速数字电机吹风机可作为001竞品与专业渠道价格带基准
 - [Fama Fabré](./Fama-Fabre-Channel-Intelligence-Card.md) — 专业美发美容进口与批发分销商；Parlux西班牙官方批发分销路径样本
 - [Postquam Professional](./Postquam-Professional-Channel-Intelligence-Card.md) — 西班牙专业美容美发制造与B2B供应平台；2026/27公开目录披露分销商—salon网络、多层专业价盘及高速BLDC吹风机，可作为001渠道毛利与竞争基准
+- [Sunmarket Wellness](./Sunmarket-Wellness-Professional-Channel-Intelligence-Card.md) — Valencia专业美容/美发/wellness设备分销平台；B2B为主、B2C并行，覆盖EEE，拥有Showroom及技术服务能力，可作为001“专业直供 + 售后服务型分销”路径样本
 
 后续重点：
 - 继续反查Industrias Oriol在西班牙境内的区域专业分销商网络
@@ -22,3 +23,4 @@
 - 新品牌进口商与代理商进入路径
 - 核验Dismay与Primor/Druni等大型美容零售的具体供货关系，未有公开证据前不得写成事实
 - 核验Postquam的西班牙国内分销商网络构成、第三方专业电器品牌合作政策及OEM/ODM边界
+- 核验Sunmarket是否接受新的第三方国际吹风机品牌，以及其技术服务体系能否承接第三方品牌保内维修
