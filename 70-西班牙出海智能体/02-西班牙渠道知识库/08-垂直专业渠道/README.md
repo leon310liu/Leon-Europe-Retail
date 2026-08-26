@@ -17,6 +17,7 @@
 - [Belexpress / Bastos Medical](./Belexpress-Bastos-Medical-Professional-Channel-Intelligence-Card.md) — Barcelona专业美容美发B2B供应与批发平台；官网明确仅面向企业/专业人士交易，45,000+专业客户、5,000㎡仓库，并实际经营GHD/Eurostil等专业吹风机，可作为001“专业客户直供型批发分销”路径样本
 - [Novabel / Irene Ríos](./Novabel-Irene-Rios-Channel-Intelligence-Card.md) — Alicante专业美发工具制造/进口/分销与自有品牌运营主体；官方同时招募分销商并提供Private Label项目，可作为001“专业B2B分销 + OEM/Private Label”双商业模型参照
 - [Pluricosmética España / Pro-Duo Spain Transition](./Pluricosmetica-Spain-Pro-Duo-Transition-Channel-Intelligence-Card.md) — 2025年Sally Beauty出售Pro-Duo Spain（19家门店），西班牙主体随后更名为Pluricosmética España；当前持续经营Parlux、ghd、BaBylissPRO、Gamma+、Valera AI等专业吹风机，是001高相关Hair Tools专业零售/分销节点
+- [ghd Speed Spain Professional Hair Dryer Benchmark 2026](./GHD-Speed-Spain-Professional-Hair-Dryer-Benchmark-2026.md) — 2026高速专业旗舰基准；118,000 RPM、官方标价€399、专业与消费者双客群，适合用来校验001高端专业溢价、技术叙事与DTC/专业双路径，但不是渠道商Channel Card
 
 后续重点：
 - 继续反查Industrias Oriol在西班牙境内的区域专业分销商网络
@@ -30,3 +31,4 @@
 - 核验Belexpress是否接受新的第三方国际吹风机品牌、是否直接承担进口主体，以及其售后服务是否覆盖电器保内维修
 - 核验Novabel / Irene Ríos是否接受第三方国际吹风机品牌合作、其区域分销网络、Importer of Record能力、SAT/备件体系及Private Label项目的MOQ和认证责任边界
 - 核验Pluricosmética España当前西班牙门店数、Hair Tools采购负责人、伊比利亚/西班牙采购权边界、新品牌准入与SAT/EPR责任结构
+- 核验ghd Speed在西班牙专业salon的实际供货/采购结构、是否存在独立B2B专业价和教育体系，以及其在Primor/Druni/Pluricosmética/ECI等渠道中的自营/分销状态
