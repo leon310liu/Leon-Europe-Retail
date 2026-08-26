@@ -8,6 +8,7 @@
 ## 当前核心文件
 
 - [Leon 2030 Resource Map V0.1](Leon-2030-Resource-Map-V0.1.md)
+- [R01｜中国企业与产品资源库](R01-中国企业与产品资源库/README.md)
 
 该资源地图是本模块下的资源层框架，完整定义：
 
