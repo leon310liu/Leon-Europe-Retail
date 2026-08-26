@@ -16,6 +16,7 @@
 - [Sunmarket Wellness](./Sunmarket-Wellness-Professional-Channel-Intelligence-Card.md) — Valencia专业美容/美发/wellness设备分销平台；B2B为主、B2C并行，覆盖EEE，拥有Showroom及技术服务能力，可作为001“专业直供 + 售后服务型分销”路径样本
 - [Belexpress / Bastos Medical](./Belexpress-Bastos-Medical-Professional-Channel-Intelligence-Card.md) — Barcelona专业美容美发B2B供应与批发平台；官网明确仅面向企业/专业人士交易，45,000+专业客户、5,000㎡仓库，并实际经营GHD/Eurostil等专业吹风机，可作为001“专业客户直供型批发分销”路径样本
 - [Novabel / Irene Ríos](./Novabel-Irene-Rios-Channel-Intelligence-Card.md) — Alicante专业美发工具制造/进口/分销与自有品牌运营主体；官方同时招募分销商并提供Private Label项目，可作为001“专业B2B分销 + OEM/Private Label”双商业模型参照
+- [Pluricosmética España / Pro-Duo Spain Transition](./Pluricosmetica-Spain-Pro-Duo-Transition-Channel-Intelligence-Card.md) — 2025年Sally Beauty出售Pro-Duo Spain（19家门店），西班牙主体随后更名为Pluricosmética España；当前持续经营Parlux、ghd、BaBylissPRO、Gamma+、Valera AI等专业吹风机，是001高相关Hair Tools专业零售/分销节点
 
 后续重点：
 - 继续反查Industrias Oriol在西班牙境内的区域专业分销商网络
@@ -28,3 +29,4 @@
 - 核验Sunmarket是否接受新的第三方国际吹风机品牌，以及其技术服务体系能否承接第三方品牌保内维修
 - 核验Belexpress是否接受新的第三方国际吹风机品牌、是否直接承担进口主体，以及其售后服务是否覆盖电器保内维修
 - 核验Novabel / Irene Ríos是否接受第三方国际吹风机品牌合作、其区域分销网络、Importer of Record能力、SAT/备件体系及Private Label项目的MOQ和认证责任边界
+- 核验Pluricosmética España当前西班牙门店数、Hair Tools采购负责人、伊比利亚/西班牙采购权边界、新品牌准入与SAT/EPR责任结构
