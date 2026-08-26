@@ -2,7 +2,7 @@
 
 > 分类：08 垂直专业渠道 / 专业美发美容设备与分销
 > 状态：公开事实核验版
-> 更新时间：2026-08-22
+> 更新时间：2026-08-26
 > Leon View：空（禁止AI自行生成）
 
 ## 01 渠道身份（Channel Identity）
@@ -97,6 +97,21 @@ STANPA 2026出口商目录列出的 Perfect Beauty 国际部门联系人邮箱�
 
 因此知识库当前只记录“存在业务/组织联系信号”，**不写成Pettenon收购、控股或集团成员事实**，后续需以公司登记、集团公告或正式交易资料核验。
 
+### G. 公开目录可直接验证其 AEE 登记与本地 SAT / 物流基础设施
+
+Perfect Beauty 公开专业目录（2025目录文件，2026-08仍可在线核验）明确列示：
+- **RII-AEE 登记号：6402**（Registro Integrado Industrial de aparatos eléctricos y electrónicos）；
+- **物流、客户服务和技术服务地址**：Avda. Río Guadalquivir, parcela R5, Pol. Ind. Saprelorca, 30817 La Torrecilla, Lorca, Murcia；
+- **技术服务邮箱**：serviciotecnico@perfectbeauty.es；
+- **客户服务邮箱**：atencioncliente@perfectbeauty.es。
+
+这比“官网写有售后能力”更强，因为它直接给出了 AEE 注册号、物流/技术服务实体地址和专用技术服务联系方式。
+
+来源：Perfect Beauty Professional 官方目录（2025版，2026-08核验）
+https://interhairlife.es/wp-content/uploads/2025/06/Catalogo_Mobiliario_PB_2025.pdf
+
+> 边界：RII-AEE 6402可作为“Perfect Beauty自身具备西班牙AEE生产者登记”的公开证据，但不能自动推断它愿意为第三方国际品牌承担 Importer of Record、EPR/RAEE责任或保内维修主体；这些仍需商务核验。
+
 ## 05 对001 AI吹风机的意义（AI Analysis）
 
 ### 1. 专业渠道已经存在“分销商承接海外品牌”的真实路径
@@ -143,6 +158,17 @@ STANPA 2026资料显示其同时具备专业渠道覆盖、多个品牌/商标�
 - 采购与品牌合作团队如何设置
 - Private Label能力是否意味着其更偏好自有品牌/定制合作，而非单纯代理新品牌
 
+### 5. 这类专业分销商的价值应把“渠道覆盖”和“合规/售后基础设施”一起评估
+
+Perfect Beauty已经公开具备自身 RII-AEE 登记、物流地址和技术服务入口。对001而言，这提示未来筛选专业分销商时，应同时核验：
+- 是否具备或可承接 AEE / EPR / RAEE 责任；
+- 是否有本地 SAT / 维修能力；
+- 是否有备件仓和维修SLA；
+- 是否能承担渠道退换货与保修流程；
+- 是否愿意为第三方品牌提供上述能力。
+
+上述仅为进入结构分析，不代表Perfect Beauty已承诺为第三方品牌提供这些服务。
+
 ## 06 待验证问题
 
 - JRL与Perfect Beauty合作的具体授权范围
@@ -153,6 +179,8 @@ STANPA 2026资料显示其同时具备专业渠道覆盖、多个品牌/商标�
 - 新品牌准入条件、账期、MOQ、市场费用与售后要求
 - 是否愿意承接中国新兴高端Hair Tools品牌
 - Private Label与第三方品牌代理之间的业务优先级
+- 是否愿意为第三方品牌承担 Importer of Record / RII-AEE / EPR / RAEE责任
+- 是否可为第三方品牌提供保内维修、备件库存和明确维修SLA
 
 ## 07 中国企业常见误区（AI整理，非Leon View）
 
@@ -160,6 +188,7 @@ STANPA 2026资料显示其同时具备专业渠道覆盖、多个品牌/商标�
 - 认为“产品参数高”即可进入salon渠道，忽视专业用户对耐久性、握持、噪音、连续工作和维修速度的要求。
 - 把专业分销渠道与MediaMarkt等消费电子零售渠道混为一谈。
 - 忽视渠道伙伴本身可能拥有自有品牌、Private Label和产品开发能力，因此合作与竞争可能同时存在。
+- 看到分销商自身具备RII-AEE/SAT，就自动认为其会为新品牌承担进口、EPR或保修责任。
 
 ## 08 Leon View
 
@@ -175,6 +204,7 @@ Leon View只能由Leon本人输入，AI不得自行生成或补写。
 4. STANPA — Catálogo de Exportadores 2026 — Perfect Beauty S.L.
 5. Perfect Beauty — Aviso Legal — 2026-08核验
 6. Perfect Beauty — 官网公司/产品与售后信息 — 2026-08核验
+7. Perfect Beauty Professional — 官方目录（列示RII-AEE 6402、物流/技术服务地址及SAT联系方式）— 2026-08核验
 
 ## 10 证据等级
 
@@ -183,6 +213,8 @@ Leon View只能由Leon本人输入，AI不得自行生成或补写。
 - 30+年经验、20+国家、900+新品、4,500 references：中高可信（STANPA 2026目录中的公司披露口径）
 - 专业美发/Beauty Salon/Private Label渠道：高可信（STANPA 2026官方行业目录）
 - JRL由Perfect Beauty在西班牙分销：高可信（2026专业行业媒体明确描述）
+- RII-AEE 6402、物流/技术服务地址与SAT联系方式：高可信（Perfect Beauty公开专业目录直接列示）
 - 与Pettenon存在业务/组织联系信号：中可信（STANPA目录当前联系邮箱域名），关系性质未验证
+- 为第三方品牌承担Importer of Record / EPR / RAEE / 保内维修：未验证，不得写为事实
 - 直接供货Primor/Druni：未验证，不得写为事实
 - 独家代理关系：未验证，不得写为事实
