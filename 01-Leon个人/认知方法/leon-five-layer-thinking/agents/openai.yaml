@@ -1,0 +1,4 @@
+interface:
+  display_name: "Leon 五层思维分析"
+  short_description: "以五层递进方式分析复杂事件、识别本质矛盾并重定义真正问题"
+  default_prompt: "使用 $leon-five-layer-thinking 分析这件事，并重定义事件与提炼最终核心问题。"
