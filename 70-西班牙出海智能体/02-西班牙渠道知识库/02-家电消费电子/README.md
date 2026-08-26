@@ -31,6 +31,7 @@
 - Spain Buying Group Performance Baseline 2025 — 主要家电采购集团2025经营与网络变化基线；Cadena Elecco、Eldisser增长，SEGESA/HGM/Sinersis回落；同时分开记录销售变化、品牌网络销售点和PAE业务体量，避免混淆渠道价值。
 - Laifen EU Wholesale and Spain Entry Benchmark 2026 — 中国高速吹风机品牌欧洲进入参照；Laifen欧盟官方Wholesale Program公开标准MOQ 10台，面向独立零售、专业卖家、salon/clinic，并把普通批发与区域official distributor合作分开；西班牙MediaMarkt当前多个Laifen SKU由第三方Marketplace卖家经营，因此应区分DTC、低MOQ B2B批发、Marketplace与零售商自营采购。
 - Spain Electro Importers & Distributors Role Baseline 2026 — 进口商/分销商角色基线；Alimarket 2026将该群体单独作为Gama Blanca、PAE、消费电子和科技批发的重要行业层研究，并明确其对于缺乏西班牙本地渠道知识的国际品牌具有市场进入与渠道定位作用。该角色必须与Buying Group、区域平台、Marketplace卖家及零售商自营采购分开建模。
+- APPLiA PAE & Official SAT Ecosystem Baseline 2026 — APPLiA当前39家成员、100+品牌、约覆盖西班牙家电市场92%，2025成员合计营业额€3.167bn；PAE Division 2026由De’Longhi与Philips/Versuni担任主席/副主席。品牌体系包含BaByliss、Dyson、ghd、Jata、Taurus、Rowenta、Bellissima/Imetec、Philips、Remington、Ufesa等001直接相关竞争者；同时APPLiA维护官方SAT联系并持续推进西班牙家电SAT最低要求。用于001的Manufacturer/Importer生态、竞争集合与After-sales Readiness公开事实校验，不能用于推算吹风机市场份额或具体渠道采购关系。
 
 ## 研究规则
 
