@@ -7,7 +7,7 @@
 
 ## 1. 为什么值得进入知识库
 
-ghd 在西班牙同时覆盖消费者与专业美发场景。2026 年推出的 ghd Speed 把“高速吹风机”推到高端专业价格带，并通过品牌官方 DTC 直接销售，因此适合作为 001 AI吹风机研究“专业品牌溢价、技术叙事、专业背书与DTC”的高价值基准。
+ghd 在西班牙同时覆盖消费者与专业美发场景。2026 年推出的 ghd Speed 把“高速吹风机”推到高端专业价格带，并通过品牌官方 DTC 直接销售，因此适合作为 001 AI吹风机研究“专业品牌溢价、技术叙事、专业背书、本地子公司与DTC”的高价值基准。
 
 ## 2. 公开事实
 
@@ -59,6 +59,24 @@ ghd 官方持续把 Speed、Helios、Air 定义为专业吹风机，并强调与
 
 这些必须继续单独核验。
 
+### 2.5 西班牙不是单纯“海外品牌 + 代理商”模式：存在本地法人和授权网点体系
+
+ghd España 2026 年 3 月更新的官方使用条款明确写明，西班牙网站由 **Jemella Limited 与 GHD Spain S.A.U. 共同运营**。其中 GHD Spain S.A.U. 为西班牙注册法人，CIF 为 **A92551217**，注册地址位于 Málaga 的 Arroyo de la Miel。
+
+同时，ghd España 官方网站长期提供：
+- 西班牙本地联系电话和本地联系邮箱；
+- 官方 salon / peluquería locator；
+- 授权网站/销售点验证工具；
+- 西班牙本地招聘与团队入口。
+
+Alimarket 当前企业资料则把 **GHD SPAIN, S.L.** 归入 PAE，并把其活动描述为“头发用小家电及头发产品的分销”。需要注意：Alimarket企业页的法律名称写作 `GHD SPAIN, S.L.`，而 ghd 2026 官方条款写作 `GHD Spain S.A.U.`，因此正式主体名称应优先以品牌当前官方法律条款和工商记录核验，不能把两个名称直接视为同一时期完全一致的法律口径。
+
+公开来源：
+- ghd España, Términos de uso, marzo 2026: https://www.ghdhair.com/es/terminos-y-condiciones/terminos-de-uso
+- ghd España salon locator: https://www.ghdhair.com/es/buscador-de-peluquerias-ghd
+- ghd España website checker: https://www.ghdhair.com/es/help/website-checker
+- Alimarket company profile: https://www.alimarket.es/electro/empresa/10035700/ghd-spain--s-l-
+
 ## 3. 对 001 AI吹风机的 AI Analysis（不是 Leon View）
 
 1. **118,000 RPM 已不能构成独占差异化。** 西班牙市场已经从 110,000 RPM 竞争进一步上探到 118,000 RPM 专业旗舰。
@@ -66,11 +84,15 @@ ghd 官方持续把 Speed、Helios、Air 定义为专业吹风机，并强调与
 3. **001 的竞争集合需要分层。** 不应只比较 €40–€100 的 Ufesa / Taurus / Cecotec / SOGO，也需要同时比较 €200–€400 的 ghd / Dyson 等高端专业品牌。
 4. **专业背书可能是重要进入路径。** ghd 的案例说明“专业造型师参与研发/测试 + 消费者DTC”可以并行，但这不能自动推导成001也应采用同一模式，需要结合品牌阶段与资源判断。
 5. **价格带必须和渠道能力一起看。** 如果001目标价格明显高于西班牙主流高速吹风机，就需要证明专业效果、品牌可信度、售后与渠道利润空间，而不是仅靠“AI”命名。
+6. **本地子公司是另一种进入模型。** ghd España 的公开结构说明，高端 Hair Tools 品牌在西班牙不一定依赖单一第三方总代，也可以通过本地法人直接承接品牌运营、DTC、授权销售点和专业 salon 网络。对中国品牌而言，这一模式与“找总代理”应作为两个不同的商业模型分别评估。
+7. **授权网点管理本身是渠道能力。** ghd 使用 salon locator 和网站授权验证工具，说明高端专业品牌会主动管理“谁可以卖、在哪里卖、消费者如何验证授权”。对001而言，未来若走高端专业路线，渠道授权与价格体系可能和铺货数量同样重要。
 
 ## 4. 待验证项
 
 - ghd Speed 在西班牙专业 salon 渠道的实际供货模式；
-- ghd Professional 是否有独立的西班牙 B2B 采购入口、专业价或教育体系；
+- ghd Professional 是否有独立的西班牙 B2B 采购入口、专业价、培训或教育体系；
+- GHD Spain S.A.U. 当前是否直接承担西班牙零售开票、进口、RII-AEE/EPR/RAEE及售后责任；
+- Alimarket `GHD SPAIN, S.L.` 与 ghd 官方 `GHD Spain S.A.U.` 法律名称差异的原因和当前工商状态；
 - ghd Speed 在 Primor / Druni / Pluricosmética / El Corte Inglés 等渠道中的实际铺货状态与卖家身份；
 - 西班牙消费者对 €300–€400 高速吹风机的真实销量和促销依赖；
 - 与 Dyson Supersonic / Nural、Laifen、Dreame、Ufesa、Taurus 等的渠道重叠程度。
@@ -80,7 +102,9 @@ ghd 官方持续把 Speed、Helios、Air 定义为专业吹风机，并强调与
 - €399 为 ghd España 官方标价，不代表实际成交均价；
 - 促销价随时间变化，不能作为稳定价格；
 - “专业”是品牌官方产品定位，不等于已证明全部销量来自 salon；
-- Alimarket 关于“吹风机为个人护理PAE第四大品类”的表述对应其 2025 市场数据，不应包装成 2026 实时市场份额。
+- Alimarket 关于“吹风机为个人护理PAE第四大品类”的表述对应其 2025 市场数据，不应包装成 2026 实时市场份额；
+- ghd 官方 salon locator 能证明授权专业网点体系存在，但不能直接推出 salon 的采购主体、批发价、库存主体或合同模式；
+- 本地法人存在不能自动等同于其承担所有进口、EPR、SAT或渠道开票职责，仍需逐项核验。
 
 ## 6. Leon View
 
