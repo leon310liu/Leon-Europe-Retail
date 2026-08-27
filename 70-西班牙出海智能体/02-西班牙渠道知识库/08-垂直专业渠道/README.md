@@ -20,6 +20,7 @@
 - [DIMACO Professional](./DIMACO-Professional-Channel-Intelligence-Card.md) — Málaga专业美发美容B2B分销平台；2026官方披露10,000+ references、8,000+专业客户、2,600㎡设施，并公开招募创新美容技术品牌；当前已实际经营JRL、Eurostil、Ultron等专业吹风机。官网存在CIF口径冲突，已单独标记待核验
 - [Pugilato The Shop](./Pugilato-The-Shop-Professional-Barber-Hair-Channel-Card.md) — Barcelona专业barber/peluquería B2B批发与Showroom；专业账户、批发价、24/48h配送、售后/备件支持，并实际经营JRL、Gamma+、BaBylissPRO、Wahl、Eurostil等Hair Tools与吹风机，可作为001专业用户测试与渠道毛利验证节点
 - [WAD Professional Beauty / WORLDSELL](./WAD-Professional-Beauty-Channel-Benchmark-2026.md) — Badalona专业Hair Tools品牌/运营主体；官网明确面向peluquería/estética专业人士，拥有完整专业吹风机产品矩阵，COMBO公开为110,000 RPM BLDC + 6附件多功能产品，可作为001专业Hair Tools竞争与渠道结构参照
+- [Salonia Professional](./Salonia-Professional-Hair-Retail-and-Distributor-Channel-Card.md) — Barcelona专业Hair Tools B2B+B2C电商/零售平台；官网公开自述为Panasonic、Corioliss、IQ等部分品牌官方分销商，并实际经营Parlux、BaBylissPRO、ghd、GA.MA/iQ等专业吹风机；适合用作001专业用户验证、价格带与售后/备件能力研究节点
 - [ghd Speed Spain Professional Hair Dryer Benchmark 2026](./GHD-Speed-Spain-Professional-Hair-Dryer-Benchmark-2026.md) — 2026高速专业旗舰基准；118,000 RPM、官方标价€399、专业与消费者双客群，适合用来校验001高端专业溢价、技术叙事与DTC/专业双路径，但不是渠道商Channel Card
 
 后续重点：
@@ -37,4 +38,5 @@
 - 核验DIMACO当前正式CIF/开票主体、新国际Hair Tools品牌准入、Importer of Record与RII-AEE/EPR/RAEE责任、SAT/备件能力、专业渠道价格保护及是否存在区域/全国独家合作要求
 - 核验Pugilato的新国际Hair Tools品牌准入、MOQ/账期/返点、Importer of Record能力、RII-AEE/EPR责任、第三方品牌SAT/备件承接，以及是否可用Showroom做001专业用户试销/培训
 - 核验WAD / WORLDSELL是否存在全国或区域经销商网络、是否只经营自有品牌、Importer of Record和RII-AEE/EPR责任、SAT/备件体系，以及新品牌合作/经销政策
+- 核验Salonia对新国际Hair Tools品牌的准入政策、官方分销授权适用品牌、B2B专业价、MOQ/账期、Importer of Record与RII-AEE/EPR责任、第三方品牌SAT/备件承接能力
 - 核验ghd Speed在西班牙专业salon的实际供货/采购结构、是否存在独立B2B专业价和教育体系，以及其在Primor/Druni/Pluricosmética/ECI等渠道中的自营/分销状态
