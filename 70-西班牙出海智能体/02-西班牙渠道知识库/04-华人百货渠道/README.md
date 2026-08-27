@@ -8,6 +8,7 @@
 - `Cobo-Calleja-Wholesale-Hub-Channel-Card.md`：Cobo Calleja 批发/分销节点公开事实基线。
 - `Cobo-Calleja-Hair-Dryer-Wholesale-Snapshot-2026-08-26.md`：Cobo Calleja 当前吹风机 B2B 类目、具体 Vendor 样本与 001 AI吹风机企业级筛选规则。
 - `EBOX-Cobo-Calleja-Consumer-Electronics-Wholesale-Channel-Card.md`：Cobo Calleja 消费电子/小家电 B2B 批发商样本，覆盖门店、分销商、电商客户及公开最小订单门槛。
+- `IGO-Kiten-Cobo-Calleja-Consumer-Electronics-Wholesale-Channel-Card.md`：IGO Kiten 2008 S.L. / IGO Madrid 独立企业官网、消费电子/Beauty & Health/小家电目录与具体吹风机 Vendor 交叉验证样本。
 
 ## 数据规则
 
