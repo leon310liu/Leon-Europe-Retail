@@ -2,7 +2,7 @@
 
 > 分类：08 垂直专业渠道 / 专业美发美容设备与分销
 > 状态：公开事实核验版
-> 更新时间：2026-08-26
+> 更新时间：2026-08-28
 > Leon View：空（禁止AI自行生成）
 
 ## 01 渠道身份（Channel Identity）
@@ -107,10 +107,27 @@ Perfect Beauty 公开专业目录（2025目录文件，2026-08仍可在线核验
 
 这比“官网写有售后能力”更强，因为它直接给出了 AEE 注册号、物流/技术服务实体地址和专用技术服务联系方式。
 
-来源：Perfect Beauty Professional 官方目录（2025版，2026-08核验）
+来源：Perfect Beauty Professional 官方目录（2025版，2026-08仍可在线核验）
 https://interhairlife.es/wp-content/uploads/2025/06/Catalogo_Mobiliario_PB_2025.pdf
 
 > 边界：RII-AEE 6402可作为“Perfect Beauty自身具备西班牙AEE生产者登记”的公开证据，但不能自动推断它愿意为第三方国际品牌承担 Importer of Record、EPR/RAEE责任或保内维修主体；这些仍需商务核验。
+
+### H. 2026官网已形成多层级无刷高速吹风机产品带，100,000–110,000 rpm 已不是空白卖点
+
+2026-08-28核验 Perfect Beauty 官方产品页，可直接确认其当前专业产品组合已覆盖多种 brushless / high-speed 架构：
+
+- **FORTE PRO BRUSHLESS（PBSEC36314）**：100,000 rpm、320 g、1,900–2,150 W、78 dB，带自动清洁、可洗滤网、记忆功能；
+- **VERSA DRY（PBSEC45922）**：110,000 rpm、331 g、1,700–2,000 W、68.6–72.6 dB，带自动清洁、记忆功能、负离子和6个附件；
+- **MULTY DRY（PBSEC402799）**：110,000 rpm、1,300–1,500 W、77–83 dB，带6个附件、记忆功能、负离子；
+- **VORTICE.1 CY2025L（PBSEC31238）**：brushless 77,000 rpm、370 g、2,150–2,400 W，官方称电机寿命可超过5,000小时。
+
+官方来源：
+https://perfectbeauty.es/catalogo/producto/forte-pro-brushless/
+https://perfectbeauty.es/catalogo/producto/versa-dry/
+https://perfectbeauty.es/catalogo/producto/multy-dry/
+https://perfectbeauty.es/catalogo/producto/vortice-cy2025l/
+
+> 数据边界：以上均为品牌/分销企业官方产品参数，属于产品方自述，不等同于第三方实验室测试结果。
 
 ## 05 对001 AI吹风机的意义（AI Analysis）
 
@@ -169,6 +186,22 @@ Perfect Beauty已经公开具备自身 RII-AEE 登记、物流地址和技术服
 
 上述仅为进入结构分析，不代表Perfect Beauty已承诺为第三方品牌提供这些服务。
 
+### 6. 对001的直接竞品门槛应从“有无高速电机”升级到系统体验
+
+Perfect Beauty 当前官方组合已经出现 100,000–110,000 rpm、约320–331 g、自动清洁、记忆功能、负离子、多附件等配置。由此可推断，001若面向专业渠道，仅以“高速无刷电机”作为核心差异不足以构成明显的渠道说服力。
+
+后续应把比较维度至少扩展到：
+- 实际噪音与风速/风量；
+- 连续高负载寿命；
+- 温控精度与热损伤控制；
+- 自动清洁/滤网维护；
+- 重量与重心；
+- 备件与维修SLA；
+- 专业salon的培训和demo素材；
+- 与同档专业产品的渠道利润。
+
+以上为AI分析，不是Leon View。
+
 ## 06 待验证问题
 
 - JRL与Perfect Beauty合作的具体授权范围
@@ -205,6 +238,7 @@ Leon View只能由Leon本人输入，AI不得自行生成或补写。
 5. Perfect Beauty — Aviso Legal — 2026-08核验
 6. Perfect Beauty — 官网公司/产品与售后信息 — 2026-08核验
 7. Perfect Beauty Professional — 官方目录（列示RII-AEE 6402、物流/技术服务地址及SAT联系方式）— 2026-08核验
+8. Perfect Beauty 官方产品页 — FORTE PRO BRUSHLESS / VERSA DRY / MULTY DRY / VORTICE.1 CY2025L — 2026-08-28核验
 
 ## 10 证据等级
 
@@ -214,6 +248,7 @@ Leon View只能由Leon本人输入，AI不得自行生成或补写。
 - 专业美发/Beauty Salon/Private Label渠道：高可信（STANPA 2026官方行业目录）
 - JRL由Perfect Beauty在西班牙分销：高可信（2026专业行业媒体明确描述）
 - RII-AEE 6402、物流/技术服务地址与SAT联系方式：高可信（Perfect Beauty公开专业目录直接列示）
+- 100,000–110,000 rpm等当前吹风机参数：高可信为“官方自述事实”，但未经独立实验室验证
 - 与Pettenon存在业务/组织联系信号：中可信（STANPA目录当前联系邮箱域名），关系性质未验证
 - 为第三方品牌承担Importer of Record / EPR / RAEE / 保内维修：未验证，不得写为事实
 - 直接供货Primor/Druni：未验证，不得写为事实
