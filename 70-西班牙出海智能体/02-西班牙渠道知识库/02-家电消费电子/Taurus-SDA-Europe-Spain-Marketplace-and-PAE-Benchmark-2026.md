@@ -1,6 +1,6 @@
 # Taurus / SDA Europe Spain Marketplace & PAE Benchmark 2026
 
-> 更新时间：2026-08-27
+> 更新时间：2026-08-28
 > 类型：公开事实知识卡 / 001 AI吹风机竞争与渠道参照
 > Leon View：留空（禁止AI自行生成）
 
@@ -31,12 +31,8 @@
 
 ### 2.2 MediaMarkt：Taurus 高速吹风机由 SDA EUROPE SLU 销售
 
-MediaMarkt España 当前 Taurus Digital Force 吹风机页面显示：
-- 110,000 RPM 数字电机；
-- 23 m/s 风速；
-- Ionic Care；
-- 智能温控；
-- 温度记忆；
+MediaMarkt España 当前 Taurus Digital Force 吹风机页面显示智能温控、Ionic Care、温度记忆等功能，并明确：
+
 - 卖家：`SDA EUROPE SLU`。
 
 这意味着至少对该SKU，公开可验证的是：
@@ -47,6 +43,8 @@ MediaMarkt España 当前 Taurus Digital Force 吹风机页面显示：
 
 来源：
 - MediaMarkt Taurus Digital Force: https://www.mediamarkt.es/es/product/_secador-de-pelo-taurus-digital-force-1600-w-5-niveles-temperatura-2-velocidades-difusor-incluido-gris-metalico-176499946.html
+
+> 数据治理提醒（2026-08-28）：零售商页面的功率/转速等产品参数不可直接视为制造商标准规格。Taurus DIGITAL FORCE AI 同一型号/EAN在不同渠道存在明显冲突，详见：`Taurus-Digital-Force-AI-Cross-Channel-Spec-Conflict-Audit-2026-08-28.md`。
 
 ### 2.3 SDA EUROPE 不是单一SKU卖家，而是跨品类Marketplace经营主体
 
@@ -82,12 +80,38 @@ MediaMarkt 当前 Taurus 商品页可同时出现：
 - MediaMarkt Taurus product pages（见上述来源）
 - Leroy Merlin product compliance disclosures（见上述来源）
 
+### 2.5 DIGITAL FORCE AI 官方规格与零售端数据存在冲突
+
+2026-08-28复核 Taurus 官方产品页后确认，型号 `900123000` 当前西班牙官方页面显示：
+
+- 1100W；
+- 数字高速电机；
+- 120,000 rpm（西班牙语当前页面）；
+- 38 l/s；
+- 165 km/h；
+- AI Scalp Protection双传感器；
+- 430g。
+
+但 Taurus 英文/法文/德文/葡萄牙文官方页面对同一型号当前显示 100,000 rpm，因此即使官方自身也存在100k/120k口径差异。
+
+更重要的是，同一产品/EAN在 Milar、Tien21、Carrefour 等页面还出现 2400W、2200W、AC motor 等与官方明显冲突的描述。
+
+因此本知识库不再把零售商页面中的某一个功率/转速数字作为 Taurus DIGITAL FORCE AI 的唯一确定规格。
+
+来源：
+- Taurus Spain: https://taurus-home.com/products/digital-force-ai
+- Taurus EN: https://taurus-home.com/en/products/digital-force-ai
+- Milar: https://www.milar.es/secador-taurus-digital-force-ai.html
+- Tien21: https://www.tien21.es/taurus-digital-force-ai.html
+- Carrefour: https://www.carrefour.es/secador-con-ionizacion-y-tecnologia-ai-taurus-digital-force-ai/8414234001238/p
+
 ## 3. 对001 AI吹风机的AI Analysis（非Leon View）
 
 1. Taurus 提供了一个本地品牌集团的直接参照：西班牙本地经营主体可以直接作为Marketplace Seller，在MediaMarkt、PcComponentes、Leroy Merlin等平台运营多个SKU，而不必把“进入平台”全部理解为零售商自营采购。
 2. 对001而言，如果未来建立西班牙本地法人或授权运营主体，也可研究类似的“本地主体 + 品牌运营 + 多Marketplace Seller”路径。
 3. 但Marketplace自营Seller路径与MediaMarkt中央采购、实体门店陈列、Buying Group供货完全不同，必须分开评估。
-4. Taurus Digital Force 已覆盖 110,000 RPM + Ionic + 智能温控 + 记忆，因此这些功能已属于成熟竞争特征，不能单独构成001的高溢价理由。
+4. Taurus DIGITAL FORCE AI 已公开把AI头皮保护、智能温控、离子护理、磁吸滤网、轻量化和高速数字电机组合在同一产品上，这些功能组合已经进入西班牙市场竞争集合；但其公开渠道参数存在严重数据污染，因此001做竞品参数比较时必须以制造商技术资料为第一优先级，而不是简单抓取零售商页面。
+5. Milar与Tien21当前同时出现同一商品内部ID `337167` 的 Taurus DIGITAL FORCE AI，并出现 `sacse / grudesa / Sacse-21` 等区域平台相关字段，这是研究 Sinersis 商品目录、区域平台、价格和履约结构的高价值线索，但目前仍不能等同于最终采购权证据。
 
 ## 4. 待验证项
 
@@ -97,7 +121,9 @@ MediaMarkt 当前 Taurus 商品页可同时出现：
 - SDA EUROPE 是否统一管理 Taurus 在西班牙各Marketplace的Seller运营；
 - Taurus 在 MediaMarkt 是否同时存在自营采购SKU；
 - Taurus 高速吹风机是否进入 MediaMarkt 实体店即时库存；
-- Taurus / SDA Europe 与 Sinersis、SEGESA、Expert、CEMEVISA 等本土分销集团的直接供货关系。
+- Taurus / SDA Europe 与 Sinersis、SEGESA、Expert、CEMEVISA 等本土分销集团的直接供货关系；
+- DIGITAL FORCE AI 官方100,000/120,000 rpm跨语言页面差异的真实技术口径；
+- Sinersis商品页中 `sacse / grudesa / Sacse-21` 字段的系统含义。
 
 ## 5. 数据治理规则
 
@@ -105,11 +131,14 @@ MediaMarkt 当前 Taurus 商品页可同时出现：
 
 - `brand`
 - `manufacturer`
+- `manufacturer_model`
+- `ean_gtin`
 - `eu_responsible_person`
 - `marketplace_seller`
 - `retailer_self_operated`
 - `importer_of_record`
 - `rii_aee_epr_entity`
 - `physical_store_stock`
+- `spec_source_priority`
 
-不得用“品牌已进入某平台”替代上述角色判断。
+不得用“品牌已进入某平台”替代上述角色判断；也不得在制造商与零售商规格冲突时，由AI自行选择一个参数写成确定事实。
