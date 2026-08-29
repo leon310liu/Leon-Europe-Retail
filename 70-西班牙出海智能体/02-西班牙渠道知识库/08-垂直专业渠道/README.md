@@ -9,7 +9,7 @@
 当前已建立：
 - [Perfumerías Primor](./Primor-Beauty-Channel-Intelligence-Card.md)
 - [Druni / Arenal](./Druni-Arenal-Beauty-Channel-Intelligence-Card.md)
-- [Dismay Hair & Beauty](./Dismay-Hair-Beauty-Channel-Intelligence-Card.md) — 专业美发/美容批发分销商；2026年成为EOLUX在西班牙和安道尔的官方独家分销商
+- [Dismay Hair & Beauty](./Dismay-Hair-Beauty-Professional-Wholesale-Channel-Intelligence-Card-2026.md) — **canonical 2026主卡**；专业美发/美容批发分销商；2026年成为EOLUX在西班牙和安道尔的官方独家分销商。EOLUX官方专业入口进一步明确其不直接向salon销售，而由selected professional distributors承接专业客户；Dismay当前电器工具目录含900个产品，并实际经营100,000–120,000 RPM数字高速吹风机
 - [Industrias Oriol / Eurostil](./Industrias-Oriol-Eurostil-Channel-Intelligence-Card.md) — 西班牙专业美发用品制造与B2B分销平台；官方公开仅向专业批发商/分销商销售，自有高速数字电机吹风机可作为001竞品与专业渠道价格带基准
 - [Fama Fabré](./Fama-Fabre-Channel-Intelligence-Card.md) — 专业美发美容进口与批发分销商；Parlux西班牙官方批发分销路径样本
 - [Postquam Professional](./Postquam-Professional-Channel-Intelligence-Card.md) — 西班牙专业美容美发制造与B2B供应平台；2026/27公开目录披露分销商—salon网络、多层专业价盘及高速BLDC吹风机，可作为001渠道毛利与竞争基准
@@ -25,6 +25,10 @@
 - [ghd Speed Spain Professional Hair Dryer Benchmark 2026](./GHD-Speed-Spain-Professional-Hair-Dryer-Benchmark-2026.md) — 2026高速专业旗舰基准；118,000 RPM、官方标价€399、专业与消费者双客群，适合用来校验001高端专业溢价、技术叙事与DTC/专业双路径，但不是渠道商Channel Card
 - [Gamma Più Spain Professional Distribution Benchmark 2026](./Gamma-Piu-Spain-Professional-Distribution-Benchmark-2026.md) — Gamma Più官方当前拥有100,000–120,000 RPM专业高速吹风机；西班牙公开可见多个专业渠道商自称官方分销商并提供本地库存、配件/备件和售后支持，提示专业Hair Tools可能采用多专业分销节点而非单一全国总代理模式，但授权范围仍需逐家核验
 
+### 数据治理
+- `Dismay-Hair-Beauty-Channel-Intelligence-Card.md` 为2026-08-22旧版，现保留用于历史追溯；不得与Dismay 2026主卡作为两个独立渠道实体或重复来源计数。
+- 后续如发现同一渠道存在多张重叠卡，应明确指定canonical主卡并将旧卡标为legacy，避免智能体因重复文档产生事实权重偏差。
+
 后续重点：
 - 继续反查Industrias Oriol在西班牙境内的区域专业分销商网络
 - 专业美发用品批发商 / salon supply distributors
@@ -32,6 +36,7 @@
 - 美发沙龙采购体系
 - 新品牌进口商与代理商进入路径
 - 核验Dismay与Primor/Druni等大型美容零售的具体供货关系，未有公开证据前不得写成事实
+- 核验Dismay新品牌Hair Tools准入、采购负责人、MOQ/账期/返点、区域试销、Importer of Record、RII-AEE/EPR/RAEE以及第三方品牌SAT/备件责任；EOLUX不直接向salon销售的规则不可泛化为Dismay所有品牌的统一规则
 - 核验Postquam的西班牙国内分销商网络构成、第三方专业电器品牌合作政策及OEM/ODM边界
 - 核验Sunmarket是否接受新的第三方国际吹风机品牌，以及其技术服务体系能否承接第三方品牌保内维修
 - 核验Belexpress是否接受新的第三方国际吹风机品牌、是否直接承担进口主体，以及其售后服务是否覆盖电器保内维修
