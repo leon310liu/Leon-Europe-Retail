@@ -1,5 +1,13 @@
 # Dismay Hair & Beauty｜Channel Intelligence Card
 
+> **数据治理状态：LEGACY / 历史版本。**
+>
+> 本文件核验日期为 **2026-08-22**，为早期公开事实卡。自 **2026-08-29** 起，Dismay 的后续公开事实维护统一以：
+> `Dismay-Hair-Beauty-Professional-Wholesale-Channel-Intelligence-Card-2026.md`
+> 为 **canonical / 主卡**。
+>
+> 本文件保留用于历史追溯。请勿把本文件与主卡作为两个独立渠道实体，也不要用两张卡中的相同来源做“双重验证”或重复计数。若数字、产品状态或渠道结构出现差异，应优先使用主卡中的较新核验结果。
+
 > 类型：垂直专业渠道 / 美发美容专业批发分销
 > 核验日期：2026-08-22
 > 状态：公开事实版；Leon View未填写
