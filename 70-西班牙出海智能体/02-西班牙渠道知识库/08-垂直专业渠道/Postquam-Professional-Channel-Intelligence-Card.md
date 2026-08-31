@@ -1,7 +1,7 @@
 # Postquam Professional｜Channel Intelligence Card
 
 > 类型：垂直专业渠道 / 专业美发美容制造与批发供应平台
-> 核验日期：2026-08-22
+> 核验日期：2026-08-31
 > 状态：公开事实版；Leon View未填写
 
 ## WHO｜它是谁
@@ -70,12 +70,38 @@ Postquam官网的专业美发品类当前公开显示数百个SKU，覆盖染发
 
 2026/27公开目录出现 **ARIA BLDC POWER 110.000** 等高速吹风机；公开目录还显示Cyclone Balance等BLDC产品，主打高速电机、离子、轻量化和多档温控。
 
+### 2026-08-31 新增官方产品级证据
+
+Postquam 西班牙官网当前可直接核验 `SECADOR CYCLONE BALANCE BLDC`，官方参数包括：
+
+- professional BLDC motor；
+- **120,000 rpm**；
+- **2,000 W**；
+- 28.5 m/s air speed；
+- 120 m³/h airflow；
+- 65 dB；
+- 官方宣称使用寿命 >8,700 h；
+- ionic technology；
+- 350 g（不含线）；
+- NTC temperature control；
+- 4档温度 / 3档风速；
+- 本轮核验时官网标价 **€269（IVA incluido）**。
+
+官方产品页：
+https://www.postquam.com/es/secadores/17174-secador-cyclone-balance-bldc.html
+
+第三方专业渠道 Sunmarket 同时在售该产品，并将其归入 `Secadores Peluquería Profesionales`：
+https://www.sunmarket.es/es/secador-mano-cyclone-balance-bldc-postquam
+
+这一证据将原先“100,000+ RPM级”基准进一步提高到**120,000 rpm已进入西班牙专业美发B2B体系的确认事实**。
+
 这说明在西班牙专业美发B2B渠道中，以下卖点已经不是空白：
-- 100,000+ RPM级高速/BLDC电机；
+- 100,000+ RPM级高速/BLDC电机，且已出现120,000 rpm；
 - 离子技术；
 - 轻量化；
 - 多档温控/风速；
-- 专业salon使用场景。
+- 专业salon使用场景；
+- NTC温控、低噪音、长寿命等专业耐用性卖点。
 
 因此001的竞争判断不能只停留在“高速电机/负离子”参数层面。
 
@@ -120,6 +146,9 @@ Postquam官网的专业美发品类当前公开显示数百个SKU，覆盖染发
 2. 官网“PostQuam por el Mundo”属于官方页面，但其具体国家分销列表可能更新滞后，应在涉及具体国家独家权时单独核验。
 3. 公开目录能够确认多层B2B价盘和高速BLDC产品，但不能据此推断Postquam愿意代理外部竞品品牌。
 4. 001后续重点应核验：西班牙国内分销商网络、专业电器采购负责人、第三方品牌合作政策、OEM/ODM边界及售后结构。
+5. **成立年份存在官方页面冲突**：Postquam 英文官方 History 页面写 `created in Valladolid (Spain) in 1982`，而西班牙文官方 Historia 页面写 `fundada en Valladolid en el año 1989`。在获得工商登记或更高权威来源前，不应把单一年份固化为确认事实。
+   - https://www.postquam.com/en/content/6-history
+   - https://www.postquam.com/es/content/6-historia
 
 ## 关键来源
 
@@ -129,5 +158,9 @@ Postquam官网的专业美发品类当前公开显示数百个SKU，覆盖染发
   https://www.postquam.com/es/26-peluqueria
 - Postquam官网｜联系方式 / Cigales总部
   https://www.postquam.com/es/contact-us
+- Postquam官网｜Cyclone Balance BLDC 120,000 rpm
+  https://www.postquam.com/es/secadores/17174-secador-cyclone-balance-bldc.html
 - Postquam 2026/27 distributors & wholesalers catalogue（公司公开目录镜像）
   https://fliphtml5.com/zxkpe/LookBook2026-27/
+- Sunmarket｜Cyclone Balance BLDC专业渠道在售证据
+  https://www.sunmarket.es/es/secador-mano-cyclone-balance-bldc-postquam
