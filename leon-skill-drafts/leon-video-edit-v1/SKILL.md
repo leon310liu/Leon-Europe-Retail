@@ -68,6 +68,20 @@ If no口播文稿 is available, generate subtitles from speech only and warn tha
     - outro
 11. If subtitles are early or late, redo recognition/alignment from the clean body video.
 
+## Spoken Pause Rule
+
+For Leon talking-head videos recorded or exported at 30 fps:
+
+- A normal pause between spoken sentences should finish at 8-9 frames; use 9 frames (about 0.3 seconds) by default.
+- When shortening a long pause, remove the redundant middle section. Do not butt the end of the preceding sentence directly against the start of the next sentence.
+- As a practical default, preserve about 4 frames at the front and 5 frames at the back. Protect the preceding mouth closure and breath, and the following mouth shape and speech onset.
+- Example: a 1.3-second pause is about 39 frames at 30 fps. Remove about 30 frames from the middle and leave about 9 frames in the final cut.
+- A paragraph transition, deliberate emphasis, or emotional pause may remain longer when the meaning and delivery require it.
+
+Core principle: **剪掉的是冗余等待，不是人的呼吸感。**
+
+GPT/AI editors must apply this rule by default to future Leon `重新开始` series edits unless Leon gives episode-specific direction.
+
 ## Subtitle Timing Rule
 
 Subtitle timing follows Leon's actual spoken speed.
