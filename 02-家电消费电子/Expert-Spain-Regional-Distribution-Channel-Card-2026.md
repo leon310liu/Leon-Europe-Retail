@@ -1,7 +1,7 @@
 # Expert Spain — Regional Distribution Channel Card (2026)
 
 > 类型：公开事实知识卡 / 西班牙专业家电与消费电子渠道
-> 更新时间：2026-08-31
+> 更新时间：2026-09-01
 > 适用：消费级电子、PAE、小家电、001 AI吹风机渠道研究
 > 规则：公开事实、推断、Leon View严格分离；本文件不新增Leon View。
 
@@ -91,11 +91,42 @@ Expert体系经营范围包括 electrodomésticos、informática、telefonía；
 来源：
 - https://www.expert.es/tiendas/expert-badia
 
+### 2026-09-01新增：110,000 rpm数字高速吹风机已进入Expert实际商品体系
+
+Expert.es 当前公开销售 **Ufesa PRO IONIC SILK** 吹风机，页面明确标注：
+
+- Motor Digital de alta velocidad
+- **110,000 rpm**（正文同时出现111,000 rpm参数口径，按页面原文保留）
+- 双温控/温度保护相关功能
+- 高性能负离子发生器
+- 磁吸集风嘴与扩散器
+- 页面价格快照：**€51.90（IVA含税）**
+- 页面状态：可加入购物车，但需查询具体库存可得性
+
+这一事实直接验证：Expert专业家电网络并非只经营传统AC/DC电机吹风机，**110k rpm数字高速电机吹风机已经进入其公开商品体系**。
+
+来源：
+- Expert España — Ufesa PRO IONIC SILK: https://www.expert.es/producto/secador-ufesa-pro-ionic-silk-1
+- Ufesa官方产品页（产品规格交叉核验）: https://www.ufesa.es/products/secador-de-pelo-pro-ionic-go
+
+### 数据治理：110,000 vs 111,000 rpm
+
+Expert与Ufesa公开页面在同一产品上同时存在110,000 rpm和111,000 rpm两种参数写法。知识库不自行判断哪一个为工程精确值，统一记录为：
+
+`Published motor speed: 110,000 rpm (some official/spec text states 111,000 rpm) — PARAMETER WORDING CONFLICT`
+
+### 分析推断（非公开事实）
+
+同一110k级产品进入Expert说明，高速数字电机吹风机已经具备进入西班牙主流专业家电连锁/关联店体系的现实先例。
+
+这不等于001已经具备Expert准入资格，也不证明Ufesa由Expert总部统一采购。
+
 ### 待验证
 
 以下内容目前没有足够官方公开证据，不写成事实：
 
 - 001应由Expert España总部、区域平台还是独立成员门店审批；
+- Ufesa PRO IONIC SILK具体由哪个Expert采购主体导入；
 - 哪些区域平台拥有PAE/个人护理类自主采购权限；
 - 新品牌是否可先做区域试销再进入全国体系；
 - Supplier onboarding流程；
@@ -128,6 +159,7 @@ Expert体系经营范围包括 electrodomésticos、informática、telefonía；
 - Current Store Scale: ~350 stores（官方当前口径）
 - Logistics Platform Scale: 7（官方总量口径，具体清单存在网页展示待核验问题）
 - Product Scope: 家电 / PAE / IT / Telefonía / 消费电子
+- Verified High-Speed Hair Dryer: YES — Ufesa PRO IONIC SILK, 110k-class digital motor
 - Direct relevance to 001: HIGH
 - Confirmed 001 Buyer Route: NO
 - Regional Trial Route: TO VERIFY
@@ -141,5 +173,5 @@ Expert体系经营范围包括 electrodomésticos、informática、telefonía；
 2. 优先研究 UNEBSA、Grupo Jofer、CAYPRE、ACADESA、Cordevi；
 3. 查找这些平台是否公开B2B供应商入口、采购负责人或品牌合作记录；
 4. 核验哪个主体实际负责 PAE / personal care / hair dryer 品类；
-5. 查找高速无刷吹风机在Expert体系的实际品牌与SKU；
+5. 追踪Ufesa PRO IONIC SILK在Expert的库存范围、门店覆盖和采购主体；
 6. 把Expert与Sinersis/Milar、Segesa/Redder、ELDISSER/Mi Electro做采购层级对比。
