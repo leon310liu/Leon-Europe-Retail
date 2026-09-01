@@ -67,6 +67,26 @@ Cecotec官方当前公开销售多款110k rpm brushless吹风机，例如：
 - https://cecotec.es/es/secadores-de-pelo/dryglam-nano-plasma-aluminum
 - https://cecotec.es/es/secadores-de-pelo/dryglam-2in1-sensor-black
 
+### E. DMI Computer — IT/科技产品批发分销渠道
+
+DMI Computer官方将自身定位为西班牙科技产品进口/批发分销商，并明确覆盖三类客户：Canal libre（IT门店及专业客户）、E-Tailers y cadenas de tiendas、Gran distribución。其当前B2B目录中已公开出现Cecotec 110,000 rpm brushless高速吹风机与造型电器。
+
+已确认SKU示例：
+- Cecotec IoniCare RockStar Nano IonTech / P/N 04454 — 1600W / brushless / 110,000 rpm
+- Cecotec IoniCare RockStar Nano IonTech Champagne / P/N 101445 — 1600W / brushless / 110,000 rpm / intelligent heat control
+- Cecotec AirGlam Original — 1400W / brushless / 110,000 rpm / multi-styler
+
+DMI同时公开提供RMA、dropshipping、web integration、物流、RAEE、financial services等B2B服务。
+
+来源：
+- https://www.dmi.es/empresa/sobre-dmi/
+- https://www.dmi.es/secador-bamba-cecotec-ionicare-rockstar-nano-iontech_105474/
+- https://www.dmi.es/secador-cecotec-101445-nano-ion-tech-champagne_110115/
+- https://www.dmi.es/placha-cecotec-bamba-ceramiccare-airglam-original_108052/
+- https://www.dmi.es/servicios/
+
+数据治理：DMI公开证据可确认“IT/科技批发体系存在110k高速个护SKU”，但不能据此推断某一具体零售客户已经从DMI采购这些SKU。
+
 ## 3. 可确认的跨渠道事实
 
 截至2026-09-01，110k rpm级数字/无刷高速吹风机已经可以在西班牙至少以下渠道形态中被公开验证：
@@ -75,14 +95,17 @@ Cecotec官方当前公开销售多款110k rpm brushless吹风机，例如：
 - 专业家电连锁/关联店：Expert
 - 专业美容美发分销/零售：Sunmarket
 - 品牌D2C：Cecotec
+- IT/科技产品B2B批发分销：DMI Computer
 
 因此，“110k rpm高速吹风机只存在于专业沙龙渠道或高端品牌渠道”这一表述不再成立，不能写入智能体知识库。
 
 ## 4. 分析推断（非公开事实）
 
-同一技术指标已经跨越大众综合零售、专业家电、美发专业渠道和品牌直营，说明110k rpm本身已经不是单一渠道独占的技术标签。
+同一技术指标已经跨越大众综合零售、专业家电、美发专业渠道、品牌直营及IT/科技产品批发体系，说明110k rpm本身已经不是单一渠道独占的技术标签。
 
-这意味着后续001竞争分析不能只比较“是否110k rpm”，而应继续核验品牌、价格、风速/风压、噪音、重量、温控算法、负离子、附件、售后与渠道毛利结构。
+DMI样本进一步表明，个人护理PAE可能通过传统IT分销基础设施流向IT门店、e-tailer、连锁零售及大流通；但具体客户、采购关系与销量仍需逐一验证。
+
+这意味着后续001竞争分析不能只比较“是否110k rpm”，而应继续核验品牌、价格、风速/风压、噪音、重量、温控算法、负离子、附件、售后、渠道服务能力与渠道毛利结构。
 
 以上为分析推断，不是公开渠道准入事实，也不是Leon View。
 
@@ -95,6 +118,8 @@ Cecotec官方当前公开销售多款110k rpm brushless吹风机，例如：
 - Sunmarket / PostQuam Veloce BLDC：€109.90
 - Sunmarket / WAD MITO BLDC：€134.70
 
+DMI为B2B分销目录，公开页面不应与终端零售价直接比较；不得从目录存在推导DMI进货价、下游采购价或零售毛利。
+
 这些价格不得被智能体写成长期固定RRP，也不得直接推导渠道进货价、毛利或采购成本。
 
 ## 6. 参数冲突治理
@@ -105,10 +130,13 @@ Ufesa PRO IONIC SILK的官方/渠道页面同时出现110,000 rpm与111,000 rpm�
 
 不自行修正官方参数。
 
+DMI公司资料另存在仓储面积15,000㎡与17,000㎡的官方页面口径冲突，该问题记录在独立DMI Channel Card，不影响110k SKU存在性判断。
+
 ## 7. 对001仍待验证
 
 - Carrefour 1P新品供应商准入流程与Buyer
 - Expert总部/区域平台对个人护理PAE的采购权限边界
+- DMI个护PAE Buyer、供应商准入、MOQ、账期及大流通客户覆盖
 - 高速吹风机在不同渠道的实际销量和周转
 - 线下门店陈列覆盖率
 - 渠道进货价、毛利、返点和促销分摊
