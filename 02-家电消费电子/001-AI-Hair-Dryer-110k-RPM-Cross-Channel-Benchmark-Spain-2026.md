@@ -106,6 +106,31 @@ Perfect Beauty当前官网设有独立 `SECADORES JRL` 分类，并销售多款J
 
 数据治理：Perfect Beauty是“品牌授权型专业美发工具分销”真实样本，但其当前公开吹风机样本主要是90k/100k/77k等，不应错误写成110k渠道样本。它的价值在于补足专业渠道中与001直接竞争的高速无刷产品分销结构。
 
+### G. Dismay Hair & Beauty × EOLUX — 官方独家专业美发分销样本
+
+EOLUX官方于2026年宣布，**Dismay Hair & Beauty成为EOLUX在西班牙和安道尔的官方独家分销商**。BeautyMarket同期报道予以确认。
+
+Dismay当前实际在售EOLUX 110k级专业高速吹风机：
+- EOLUX EX04 / Ref. 47620
+- 110,000 rpm
+- 专业定位
+- 404g
+- brushless / ionic
+- 页面观察状态：in stock
+
+Interempresas 2026-05-22还报道，由Dismay Hair & Beauty分销的EOLUX Professional Ionic Multi-Styler采用 **110,000 rpm数字电机**、1875W。
+
+BeautyMarket企业目录把Dismay描述为美发与美容产品批发商，并明确其向 **mayoristas（批发商）和 tiendas especializadas（专业店）** 分销产品与配件，因此可确认其并非单纯终端零售节点。
+
+来源：
+- https://eolux.com/en-us/blogs/news/eolux-impulsa-crecimiento-espana-y-andorra
+- https://dismay.es/inicio/58455-secador-ionico-brushless-negro-eolux-profesional-8436585382880.html
+- https://www.interempresas.net/Peluqueria/632684-EOLUX-presenta-Multi-Styler-Profesional-Ionico-secado-mas-rapido-preciso-respetuoso.html
+- https://www.beautymarket.es/estetica/dismay-hair-and-beauty-estetica-3236-dirempresa.php
+- https://www.beautymarket.es/peluqueria/eolux-impulsa-su-crecimiento-en-espana-y-andorra-con-un-nuevo-socio-estrategico-peluqueria-36693-amppage.php
+
+数据治理：可确认的是“官方独家分销关系 + 110k产品存在 + Dismay具有专业批发/专业店下游客户结构”。不得从公开资料自行推断Dismay的Buyer、MOQ、账期、渠道毛利、销量、进口主体或具体salon客户。
+
 ## 3. 可确认的跨渠道事实
 
 截至2026-09-01，110k rpm级数字/无刷高速吹风机已经可以在西班牙至少以下渠道形态中被公开验证：
@@ -115,6 +140,7 @@ Perfect Beauty当前官网设有独立 `SECADORES JRL` 分类，并销售多款J
 - 专业美容美发分销/零售：Sunmarket
 - 品牌D2C：Cecotec
 - IT/科技产品B2B批发分销：DMI Computer
+- 官方独家专业美发分销：Dismay Hair & Beauty × EOLUX
 
 此外，Perfect Beauty × JRL进一步确认：西班牙专业美发工具渠道存在“品牌官方分销商 → salon/barber专业市场”的成熟结构，并已有90k/100k级高速无刷吹风机及新一代brushless产品。
 
@@ -122,7 +148,9 @@ Perfect Beauty当前官网设有独立 `SECADORES JRL` 分类，并销售多款J
 
 ## 4. 分析推断（非公开事实）
 
-同一技术方向已经跨越大众综合零售、专业家电、美发专业渠道、品牌直营及IT/科技产品批发体系，说明高速数字/无刷电机本身已经不是单一渠道独占的技术标签。
+同一技术方向已经跨越大众综合零售、专业家电、美发专业渠道、品牌直营、IT/科技产品批发以及官方独家专业分销体系，说明高速数字/无刷电机本身已经不是单一渠道独占的技术标签。
+
+Dismay × EOLUX样本进一步说明，西班牙专业美发渠道中确实存在“品牌 → 官方独家专业分销商 → 批发商/专业店”的公开可验证结构；但其具体终端salon覆盖、采购权、销量和商业条件仍待验证。
 
 Perfect Beauty样本说明，专业美发渠道还存在与综合PAE批发不同的“品牌授权型工具分销商”结构，渠道价值可能更多依赖专业品牌背书、技术支持、售后和salon/barber触达，而不仅是终端门店数量。
 
@@ -144,6 +172,8 @@ DMI样本进一步表明，个人护理PAE可能通过传统IT分销基础设施
 DMI为B2B分销目录，公开页面不应与终端零售价直接比较；不得从目录存在推导DMI进货价、下游采购价或零售毛利。
 
 Perfect Beauty当前公开页面以产品规格/专业目录验证为主，本文件不把其非稳定页面价格纳入跨渠道零售价比较。
+
+Dismay页面用于验证专业分销关系和在售产品，本文件不把其页面价格作为长期稳定RRP。
 
 这些价格不得被智能体写成长期固定RRP，也不得直接推导渠道进货价、毛利或采购成本。
 
@@ -167,6 +197,9 @@ DMI公司资料另存在仓储面积15,000㎡与17,000㎡的官方页面口径�
 - Expert总部/区域平台对个人护理PAE的采购权限边界
 - DMI个护PAE Buyer、供应商准入、MOQ、账期及大流通客户覆盖
 - Perfect Beauty是否接受第三方新品牌、其Buyer/准入、MOQ、账期、区域试销及售后责任边界
+- Dismay是否接受与EOLUX直接竞争的第三方高速吹风机品牌
+- Dismay / EOLUX exclusivity是否覆盖所有SKU和全部销售渠道
+- Dismay的Buyer、MOQ、账期、进口主体、RAEE/EPR责任与专业客户覆盖规模
 - 高速吹风机在不同渠道的实际销量和周转
 - 线下门店陈列覆盖率
 - 渠道进货价、毛利、返点和促销分摊
