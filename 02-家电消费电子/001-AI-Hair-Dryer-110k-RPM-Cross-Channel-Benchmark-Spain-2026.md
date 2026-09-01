@@ -87,6 +87,25 @@ DMI同时公开提供RMA、dropshipping、web integration、物流、RAEE、fina
 
 数据治理：DMI公开证据可确认“IT/科技批发体系存在110k高速个护SKU”，但不能据此推断某一具体零售客户已经从DMI采购这些SKU。
 
+### F. Perfect Beauty × JRL Professional — 品牌授权型专业美发工具分销
+
+Perfect Beauty当前官网设有独立 `SECADORES JRL` 分类，并销售多款JRL专业吹风机。BeautyMarket 2025将Perfect Beauty明确称为 **JRL Professional在西班牙的官方分销商**；Interempresas 2024进一步写为 **JRL在西班牙和葡萄牙的官方分销商**。
+
+对高速吹风机竞争基准最直接的当前公开样本包括：
+- JRL Forte Pro Brushless：Perfect Beauty当前一款页面公开为 **100,000 rpm**、1,900–2,150W、320g、自动清洁、可洗滤网、记忆功能、离子系统。
+- 同系列另一白色套装页面公开 **90,000 rpm**，因此不得把Forte Pro所有SKU统一成100k。
+- JRL Vortice.1：2026年由Perfect Beauty在西班牙分销，brushless 77,000 rpm、2,150–2,400W、370g，定位barbería / salón专业市场。
+
+来源：
+- https://perfectbeauty.es/catalogo/secadores-jrl/
+- https://perfectbeauty.es/catalogo/producto/pack-forte-pro/
+- https://perfectbeauty.es/catalogo/producto/vortice-cy2025l/
+- https://www.beautymarket.es/peluqueria/vortice-de-jrl-nuevo-secador-profesional-ultraligero-con-tecnologia-avanzada-para-barberia-y-salon-peluqueria-36749.php
+- https://www.beautymarket.es/peluqueria/perfect-beauty-presenta-las-novedades-de-jrl-innovacion-diseno-y-alto-rendimiento-profesional-peluqueria-35806.php
+- https://www.interempresas.net/Peluqueria/570318-Llega-a-Espana-la-Onyx-FF2020T-B-la-herramienta-clave-de-los-barberos.html
+
+数据治理：Perfect Beauty是“品牌授权型专业美发工具分销”真实样本，但其当前公开吹风机样本主要是90k/100k/77k等，不应错误写成110k渠道样本。它的价值在于补足专业渠道中与001直接竞争的高速无刷产品分销结构。
+
 ## 3. 可确认的跨渠道事实
 
 截至2026-09-01，110k rpm级数字/无刷高速吹风机已经可以在西班牙至少以下渠道形态中被公开验证：
@@ -97,11 +116,15 @@ DMI同时公开提供RMA、dropshipping、web integration、物流、RAEE、fina
 - 品牌D2C：Cecotec
 - IT/科技产品B2B批发分销：DMI Computer
 
-因此，“110k rpm高速吹风机只存在于专业沙龙渠道或高端品牌渠道”这一表述不再成立，不能写入智能体知识库。
+此外，Perfect Beauty × JRL进一步确认：西班牙专业美发工具渠道存在“品牌官方分销商 → salon/barber专业市场”的成熟结构，并已有90k/100k级高速无刷吹风机及新一代brushless产品。
+
+因此，“高速数字/无刷吹风机只存在于某一种专业渠道或高端D2C品牌”这一表述不成立，不能写入智能体知识库。
 
 ## 4. 分析推断（非公开事实）
 
-同一技术指标已经跨越大众综合零售、专业家电、美发专业渠道、品牌直营及IT/科技产品批发体系，说明110k rpm本身已经不是单一渠道独占的技术标签。
+同一技术方向已经跨越大众综合零售、专业家电、美发专业渠道、品牌直营及IT/科技产品批发体系，说明高速数字/无刷电机本身已经不是单一渠道独占的技术标签。
+
+Perfect Beauty样本说明，专业美发渠道还存在与综合PAE批发不同的“品牌授权型工具分销商”结构，渠道价值可能更多依赖专业品牌背书、技术支持、售后和salon/barber触达，而不仅是终端门店数量。
 
 DMI样本进一步表明，个人护理PAE可能通过传统IT分销基础设施流向IT门店、e-tailer、连锁零售及大流通；但具体客户、采购关系与销量仍需逐一验证。
 
@@ -120,6 +143,8 @@ DMI样本进一步表明，个人护理PAE可能通过传统IT分销基础设施
 
 DMI为B2B分销目录，公开页面不应与终端零售价直接比较；不得从目录存在推导DMI进货价、下游采购价或零售毛利。
 
+Perfect Beauty当前公开页面以产品规格/专业目录验证为主，本文件不把其非稳定页面价格纳入跨渠道零售价比较。
+
 这些价格不得被智能体写成长期固定RRP，也不得直接推导渠道进货价、毛利或采购成本。
 
 ## 6. 参数冲突治理
@@ -130,6 +155,10 @@ Ufesa PRO IONIC SILK的官方/渠道页面同时出现110,000 rpm与111,000 rpm�
 
 不自行修正官方参数。
 
+JRL Forte Pro相关Perfect Beauty当前页面出现90,000 rpm与100,000 rpm口径，应按具体SKU分别记录：
+
+`MODEL/PAGE PARAMETER VARIANCE — do not normalize across Forte Pro variants — TO VERIFY exact SKU mapping`
+
 DMI公司资料另存在仓储面积15,000㎡与17,000㎡的官方页面口径冲突，该问题记录在独立DMI Channel Card，不影响110k SKU存在性判断。
 
 ## 7. 对001仍待验证
@@ -137,6 +166,7 @@ DMI公司资料另存在仓储面积15,000㎡与17,000㎡的官方页面口径�
 - Carrefour 1P新品供应商准入流程与Buyer
 - Expert总部/区域平台对个人护理PAE的采购权限边界
 - DMI个护PAE Buyer、供应商准入、MOQ、账期及大流通客户覆盖
+- Perfect Beauty是否接受第三方新品牌、其Buyer/准入、MOQ、账期、区域试销及售后责任边界
 - 高速吹风机在不同渠道的实际销量和周转
 - 线下门店陈列覆盖率
 - 渠道进货价、毛利、返点和促销分摊
