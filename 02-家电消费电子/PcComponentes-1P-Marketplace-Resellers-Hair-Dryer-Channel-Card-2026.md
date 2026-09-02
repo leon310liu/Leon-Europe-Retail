@@ -8,30 +8,56 @@
 
 PcComponentes当前不是单一B2C电商，而是至少同时存在三层可公开验证的商业路径：
 
-1. **PcComponentes 1P自营零售**：商品由 PcComponentes 自身销售和发货；
+1. **PcComponentes 1P自营零售**：商品存在由 PcComponentes 自身销售的offer；
 2. **PcComponentes Marketplace**：第三方卖家自主决定价格、商品、销售条件和售后，并通过PcComponentes平台销售；
 3. **PcComponentes Resellers**：面向经销商、门店、专业人士和企业的批发/转售项目，可把PcComponentes自营商品及符合条件的Marketplace卖家商品进一步开放给B2B转售客户。
 
-对001 AI吹风机尤其重要的是：当前PcComponentes已经以**1P自营**方式直接销售多款110,000 rpm高速/无刷吹风机，因此这不是仅存在于平台第三方卖家的边缘品类。
+对001 AI吹风机尤其重要的是：当前PcComponentes已经存在多款110,000 rpm高速/无刷吹风机的**PcComponentes 1P offer**，并且同一商品页可以同时并存1P与第三方Marketplace offer。因此分类必须做到 **offer级**，不能只做SKU级。
 
 ## 2. 公开事实
 
-### A. 110k高速吹风机已经进入PcComponentes 1P自营
+### A. 110k高速吹风机已经存在PcComponentes 1P offer
 
+#### Dreame Pocket Neo
 PcComponentes当前商品页公开显示：
-
-**Cecotec DryGlam Nano Plasma**
-- Motor brushless
-- 110,000 rpm
-- 1600W
-- plasma / ions
-- 页面价格快照：€39.90
-- 页面明确标注：**Vendido y enviado por PcComponentes**
+- 110,000 rpm数字电机
+- 1300W
+- 离子技术
+- 2档风速 / 5档温度
+- 约60 dB
+- 页面价格快照：€129.00
+- **Vendido y enviado por PcComponentes**
+- 当前页面显示暂无准确到货日期，可设置到货提醒
 
 来源：
-- https://www.pccomponentes.com/secador-dryglam-nano-plasma-motor-brushless-110-000-rpm-1600w-plasma-iones
+- https://www.pccomponentes.com/secador-de-pelo-dreame-pocket-neo-110000-rpm-gold-portatil-ionico-1300w
 
-此外，PcComponentes当前还公开列有：
+#### Ufesa Ion-Plasma Luxe
+同一商品页当前同时存在至少两种offer：
+- 默认展示：€71.02，**Vendido y enviado por VISOTECNIC**
+- 页面同时展示另一个：€55.74（页面快照），**Vendido por PcComponentes**
+- 产品参数：110,000 rpm数字电机、Ion-Plasma、智能传感/热保护、数字屏幕
+
+来源：
+- https://www.pccomponentes.com/secador-ufesa-ion-plasma-luxe-motor-digital-110000-rpm-dual-heat-protect-pantalla-digital
+
+这一页面构成直接证据：**同一SKU可以同时存在PcComponentes 1P offer与Marketplace第三方offer，而且默认展示卖家不一定是PcComponentes。**
+
+#### Cecotec DryGlam Nano Plasma
+当前商品页快照显示：
+- 110,000 rpm
+- 1600W
+- brushless BLDC
+- plasma / ions
+- 当前默认offer约€39.90，**Vendido y enviado por PRECIOMANIA**
+- 页面同时展示另一个约€34.99的 **Vendido por PcComponentes** offer
+
+来源：
+- https://www.pccomponentes.com/secador-cecotec-dryglam-nano-plasma-motor-brushless-110000-rpm-1600w-plasma-ionico
+
+这修正了本文件早期“€39.90即PcComponentes 1P”的静态记录：**1P关系仍然存在，但具体价格与默认seller已变化。**
+
+此外，PcComponentes还公开列有：
 
 **Jata JBSC5577**
 - BLDC
@@ -61,8 +87,6 @@ PcComponentes当前商品页公开显示：
 
 来源：
 - https://www.pccomponentes.com/secador-de-pelo-ionizador-dam-electronics-1500w-3-velocidades-pantalla-led-90c-cabezal-magnetico
-
-数据治理：必须逐SKU检查 `Vendido y enviado por` 字段。商品存在于PcComponentes网站，不等于由PcComponentes 1P采购；第三方Marketplace商品必须单独标记。
 
 ### B. PcComponentes Marketplace 进入规则与成本公开
 
@@ -94,7 +118,7 @@ PcComponentes Marketplace通用条款明确：
 来源：
 - https://www.pccomponentes.com/landings/condiciones-generales-de-marketplace
 
-因此，知识库不得把第三方Marketplace SKU误记为PcComponentes 1P采购或PcComponentes库存。
+因此，知识库不得把第三方Marketplace offer误记为PcComponentes 1P采购或PcComponentes库存。
 
 ### D. PcComponentes提供Fulfillment
 
@@ -107,7 +131,7 @@ PcComponentes Marketplace通用条款明确：
 来源：
 - https://marketplacehelp.pccomponentes.com/hc/es-es/articles/21936098993565-Fulfillment
 
-数据治理：`enviado por PcComponentes` 不必然等于 `vendido por PcComponentes`。判断1P必须同时核对销售方。
+数据治理：`enviado por PcComponentes` 不必然等于 `vendido por PcComponentes`。判断1P必须核对销售方。
 
 ### E. 2026年公开的 Resellers B2B 转售层
 
@@ -126,8 +150,6 @@ Marketplace卖家无需额外配置即可有机会进入Resellers可用目录；
 来源：
 - https://marketplacehelp.pccomponentes.com/hc/es-es/articles/24512476843165-Resellers
 
-这说明PcComponentes当前公开商业结构已经不仅是 `supplier → PcComponentes → consumer`，还存在面向下游商业客户的二次转售层。
-
 ### F. 国际销售渠道
 
 PcComponentes 2026官方卖家帮助文档说明，Marketplace卖家可管理不同国家销售channel，例如 Spain、France、Italy及其他已开放市场；仅激活channel不足以销售，卖家还必须配置物流并满足目标国家法规。
@@ -135,15 +157,39 @@ PcComponentes 2026官方卖家帮助文档说明，Marketplace卖家可管理不
 来源：
 - https://marketplacehelp.pccomponentes.com/hc/es-es/articles/20837987334685-Canales-de-venta
 
+### G. 新的数据治理规则：必须做 offer-level classification
+
+2026-09-02复核发现：
+- **Ufesa Ion-Plasma Luxe** 同一商品页同时存在 VISOTECNIC Marketplace offer 与 PcComponentes 1P offer；
+- **Cecotec DryGlam Nano Plasma** 同一商品页当前默认展示PRECIOMANIA，但页面同时保留PcComponentes自身offer；
+- 因此页面默认seller、价格、库存状态可能随offer排序变化。
+
+所以知识库应采用四层对象：
+
+`Product / SKU → Offer → Seller → Fulfillment`
+
+而不能只写：
+
+`Product / SKU → Channel type`
+
+必须分别记录：
+- seller（谁卖）
+- fulfillment（谁发货）
+- offer price（该卖家的价格）
+- stock/status（该offer状态）
+- capture date（抓取日期）
+
+这属于**数据治理规则**，不是Leon View。
+
 ## 3. 渠道结构推断（非公开事实，不是Leon View）
 
 基于上述公开事实，可以把PcComponentes建模成一个多层节点：
 
 ### 路径1：1P零售
-`品牌/供应商 → PcComponentes采购/自营 → PcComponentes.com → 消费者`
+`品牌/供应商 → PcComponentes采购/自营offer → PcComponentes.com → 消费者`
 
 ### 路径2：Marketplace
-`品牌/卖家 → PcComponentes Marketplace → 消费者`
+`品牌/卖家 → PcComponentes Marketplace offer → 消费者`
 
 ### 路径3：Marketplace + Fulfillment
 `品牌/卖家 → PcComponentes Marketplace → PcComponentes Fulfillment → 消费者`
@@ -156,9 +202,9 @@ PcComponentes 2026官方卖家帮助文档说明，Marketplace卖家可管理不
 ## 4. 对001 AI吹风机的公开事实意义
 
 可确认：
-- 110k brushless高速吹风机已进入PcComponentes 1P自营；
-- 当前至少可验证Cecotec、Jata、PostQuam、DAM等不同品牌/定位的110k级产品；
-- 低价大众样本已出现约€39.90公开促销价；
+- 110k brushless高速吹风机已存在PcComponentes 1P offer；
+- 可验证到Cecotec、Ufesa、Dreame等不同价格层级的110k产品存在PcComponentes自身offer；
+- 同一SKU可同时存在1P与Marketplace第三方offer；
 - Marketplace为另一条无需先证明1P采购关系的公开销售基础设施；
 - Resellers使Marketplace商品在满足条件时可能进一步触达B2B转售客户。
 
@@ -174,11 +220,12 @@ PcComponentes 2026官方卖家帮助文档说明，Marketplace卖家可管理不
 
 ## 5. 知识库治理提醒
 
-1. **1P与Marketplace必须严格拆分。**
+1. **1P与Marketplace必须严格拆分到offer级。**
 2. **“PcComponentes发货”不能单独作为1P证据**，因为Marketplace Fulfillment也可能显示由PcComponentes发货。
-3. 2023 Marketplace GMV €125m和+25% YoY属于历史披露值，不可写成2026实时规模。
-4. 页面零售价为2026-09-02抓取快照，不是长期RRP。
-5. `Resellers` 是2026官方当前名称；官方说明指出该服务此前称为 `Associate`，旧资料需做名称治理。
+3. **默认展示seller不等于该SKU唯一seller**；需检查页面所有可见offer。
+4. 商品价格必须与seller绑定并带抓取日期，不能把一个seller的价格错配给另一个seller。
+5. 2023 Marketplace GMV €125m和+25% YoY属于历史披露值，不可写成2026实时规模。
+6. `Resellers` 是2026官方当前名称；官方说明指出该服务此前称为 `Associate`，旧资料需做名称治理。
 
 ## 6. Leon View
 
