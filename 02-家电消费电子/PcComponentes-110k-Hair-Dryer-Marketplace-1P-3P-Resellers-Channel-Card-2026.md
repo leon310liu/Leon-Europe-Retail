@@ -17,8 +17,9 @@ PcComponentes 的公开商品页已经出现多个 110,000 rpm 高速吹风机/�
 - **Ufesa Air Duo Style 3 en 1**：110,000 rpm 数字电机；页面当前显示由 PcComponentes 销售并发货。
 - **Princess Airstyler Pro 529205**：2,000 W、110,000 rpm Brushless、9 个附件；页面当前显示由 PcComponentes 销售并发货。
 - **Cecotec DryGlam Nano Plasma（SKU A01_EU01_101440）**：1,600 W、110,000 rpm Brushless；抓取页面显示由 PcComponentes 销售并发货，但当时无明确到货日期。
+- **Orbegozo SE 1880**：1,800W、110,000 rpm Brushless、离子技术、智能模式、自动清洁及磁吸附件；本轮公开页面明确显示 `Vendido y enviado por PcComponentes`。
 
-这三条可以作为“110k 高速个人护理产品进入 PcComponentes 1P 商品池”的公开事实样本。
+这些条目可作为“110k 高速个人护理产品进入 PcComponentes 1P 商品池”的公开事实样本。
 
 ### 2.2 Marketplace 第三方（3P）样本
 
@@ -41,7 +42,7 @@ PcComponentes 的公开商品页已经出现多个 110,000 rpm 高速吹风机/�
 
 ## 3. Marketplace 官方进入规则：已公开部分
 
-PcComponentes 官方 Marketplace 帮助中心在 2026 年公开了若干可直接用于渠道建模的规则：
+PcComponentes 官方 Marketplace 帮助中心在 2026 年公开了若干可直接用于渠道建模的规则。
 
 ### 3.1 Seller 月费
 
@@ -64,6 +65,20 @@ PcComponentes 官方卖家规则明确要求：
 
 这些规则说明，对于中国品牌通过 3P seller 路径进入时，渠道门槛不只是“上线商品”，还包含售后、逆向物流与欧盟消费者合规能力。
 
+### 3.3 2026 新增公开运营质量门槛：Vendedor Experto
+
+PcComponentes 官方在 2026-08-04 更新的卖家帮助资料中明确：
+
+- `Vendedor Experto` 是用于识别服务质量和运营表现优秀 seller 的公开标签；
+- seller 需要同时满足平台要求的运营指标；
+- NPS 必须达到或超过 **68%**；
+- 相关标准需连续至少 **30 天**保持。
+
+这不是 Marketplace 最低准入条件本身，但它为平台对 seller 运营质量的公开衡量方式提供了可验证指标。
+
+来源：
+https://marketplacehelp.pccomponentes.com/hc/es-es/articles/31916758958749-Vendedor-Experto
+
 ## 4. 新增重要结构：PcComponentes Resellers B2B program
 
 PcComponentes 官方在 2026-07-08 更新的 Marketplace 帮助资料中明确说明：
@@ -80,7 +95,39 @@ PcComponentes 官方在 2026-07-08 更新的 Marketplace 帮助资料中明确�
 
 这是此前单纯按“线上零售平台”理解 PcComponentes 时容易遗漏的一层。
 
-## 5. 公开事实 vs 推断
+## 5. 新增公开事实：独立 B2B 企业客户体系
+
+PcComponentes 官方 B2B 支持页还明确提供企业/专业客户服务，面向：
+
+- autónomos；
+- empresas；
+- profesionales。
+
+公开功能包括企业账户、预算/报价、proforma、企业发票以及专业客户支持。因此，PcComponentes 不应只建模为 B2C 电商或 Marketplace，其商业结构还包含独立的企业采购入口。
+
+来源：
+https://help.pccomponentes.com/hc/es-es/articles/29585816513565-Servicio-B2B-de-PcComponentes
+
+## 6. 新增公开事实：实体零售节点与 Marketplace 库存必须分开
+
+截至 2026-09-04，PcComponentes 官方门店页列出 4 个实体零售节点：
+
+1. Madrid — C/ Cavanilles, 35, 28007 Madrid；
+2. Barcelona — Carrer de Balmes, 7, 08007 Barcelona；
+3. Thader Murcia — Av. Juan de Borbón, Local B60, 30110 Churra, Murcia；
+4. Alhama de Murcia — Avda. Europa, Parcela 2-5 y 2-6, 30840 Alhama de Murcia。
+
+官方支持页同时明确说明：**Marketplace 外部 seller 的商品并不物理存放在其实体门店，需在线下单配送。**
+
+因此知识库应严格区分：
+
+`PcComponentes.com 在售` ≠ `PcComponentes 实体店铺货`
+
+来源：
+https://www.pccomponentes.com/landings/tiendas
+https://help.pccomponentes.com/hc/es-es/articles/19507861892381-Compra-en-nuestras-tiendas
+
+## 7. 公开事实 vs 推断
 
 ### VERIFIED PUBLIC FACTS
 
@@ -89,6 +136,9 @@ PcComponentes 官方在 2026-07-08 更新的 Marketplace 帮助资料中明确�
 3. Marketplace seller 月费为 €39.99 + VAT，首月免费，且仅在当月至少产生一个订单时收取。
 4. PcComponentes Marketplace 对投诉处理、逆向物流和 RAEE 等售后合规有明确规则。
 5. PcComponentes 已公开运营 Resellers B2B program，Marketplace seller 商品在满足条件时也可能进入该目录。
+6. PcComponentes 另有独立 B2B 企业/专业客户入口。
+7. 官方当前列出 4 个实体店节点，但 Marketplace 第三方商品不能据此推断实体门店铺货。
+8. 平台公开的 Vendedor Experto 标准包括 NPS ≥68% 并连续维持至少 30 天。
 
 ### INFERENCE / TO VERIFY
 
@@ -100,8 +150,9 @@ PcComponentes 官方在 2026-07-08 更新的 Marketplace 帮助资料中明确�
 - PcComponentes 1P 是否接受中国工厂无西班牙本地法人直接供货。
 - Resellers 中 110k 吹风机的实际 B2B 销售规模、客户结构和复购数据。
 - 通过 Marketplace 进入后是否以及在何种条件下存在转为 1P 的机制。
+- 当前 110k SKU 在上述 4 家实体店的实际陈列、库存覆盖与销量。
 
-## 6. 对知识库数据治理的影响
+## 8. 对知识库数据治理的影响
 
 以后记录 PcComponentes 商品时建议至少增加：
 
@@ -110,19 +161,27 @@ PcComponentes 官方在 2026-07-08 更新的 Marketplace 帮助资料中明确�
 - `fulfilled_by`
 - `listing_status / availability`
 - `observed_price_date`
+- `store_stock = VERIFIED / NOT VERIFIED`
 - `B2B_resellers_eligible = VERIFIED / TO VERIFY`
+
+另需把 Buy Box / seller identity 视为动态字段。搜索缓存和不同抓取时点可能出现同一 SKU 由不同 seller 销售的情况，因此 seller 状态必须绑定核验日期。
 
 仅凭“PcComponentes 网站出现该 SKU”不能写成“PcComponentes 已采购该品牌”。
 
-## 7. Sources
+## 9. Sources
 
 ### PcComponentes 官方 / 官方卖家帮助中心
 
 - PcComponentes Marketplace team: https://jobs.pccomponentes.com/departments/marketplace
 - Monthly seller account fee（2026-07-17）: https://marketplacehelp.pccomponentes.com/hc/en-us/articles/37682332963613-Monthly-seller-account-fee
 - Resellers（2026-07-08）: https://marketplacehelp.pccomponentes.com/hc/es-es/articles/24512476843165-Resellers
+- Resellers landing: https://www.pccomponentes.com/landings/resellers
+- B2B service: https://help.pccomponentes.com/hc/es-es/articles/29585816513565-Servicio-B2B-de-PcComponentes
+- Vendedor Experto（2026-08-04）: https://marketplacehelp.pccomponentes.com/hc/es-es/articles/31916758958749-Vendedor-Experto
 - Condiciones de postventa: https://marketplacehelp.pccomponentes.com/hc/es-es/articles/27406108765341-Condiciones-de-postventa
-- Obligation to provide complaint forms: https://marketplacehelp.pccomponentes.com/hc/en-us/articles/27346635047965-Obligation-to-provide-complaint-forms
+- Marketplace returns/guarantee template: https://marketplacehelp.pccomponentes.com/hc/es-es/articles/36423679388829-Plantilla-de-pol%C3%ADtica-de-devoluciones-para-vendedores
+- Stores: https://www.pccomponentes.com/landings/tiendas
+- Store vs Marketplace inventory explanation: https://help.pccomponentes.com/hc/es-es/articles/19507861892381-Compra-en-nuestras-tiendas
 
 ### 110k 商品页
 
@@ -133,7 +192,8 @@ PcComponentes 官方在 2026-07-08 更新的 Marketplace 帮助资料中明确�
 - Solac Blast Ionic 110000 RPM: https://www.pccomponentes.com/secador-solac-blast-ionic-1600-digital-motor-brushless-110000-rpm-gris-compacto
 - Laifen Mini 110000 RPM: https://www.pccomponentes.com/secador-laifen-mini-rosa-motor-110000-rpm-19-m-s-compacto-ligero
 - Princess Airstyler Pro 529205 110000 RPM: https://www.pccomponentes.com/secador-de-pelo-princess-airstyler-pro-529205-2000-w-110000-rpm-6-velocidades-9-accesorios-negro
+- Orbegozo SE 1880 110000 rpm: https://www.pccomponentes.com/secador-orbegozo-se-1880-brushless-1800w-ionico-plata-motor-110000rpm
 
-## 8. Leon View
+## 10. Leon View
 
 **本文件不新增、不推断、不改写任何 Leon View。**
