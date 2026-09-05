@@ -1,7 +1,7 @@
 # ABE × SEGESA × AÚNA｜Multi-Layer Purchasing Network Channel Card（2026）
 
 > 类型：公开事实知识卡（家电 / 消费电子 / 本土采购集团 / 多层采购网络）
-> 核验日期：2026-09-01
+> 核验日期：2026-09-06
 > 适用：西班牙出海智能体－消费级电子类产品
 > Leon View：**本文件不新增、不推断 Leon View。**
 
@@ -84,7 +84,9 @@ AÚNA 官方当前“Quiénes somos”披露：
 ### 公开事实
 - Grupo Segesa Cadena Redder 2026 官方成员列表明确包含 ABE。
 - ABE 官方明确写道，加入 SEGESA 后改善了总体采购条件，并扩大了可接触的供应商数量。
-- Segesa 官方当前披露其拥有 12 个主要成员/平台、1,900+ 门店、14 个物流/仓储平台、8,000+ 产品参考和 200+ 品牌。
+- Segesa 官方当前页面存在“1,900+ tiendas”“12 grandes plataformas”“13/14 storage or distribution platforms”“14 almacenes”等不同描述；这些数字的统计边界并不一致。
+- Electromarket《Electroguía 2025-2026》按可比行业口径统计：**Cadena Redder 2025 年为 1,244 个销售点，SEGESA 为 14 个 socios，2025 销售额 €278.46m，其中 PAE €28.09m。**
+- 因此，`1,900+ tiendas` 不应再被当作与 `1,244 Cadena Redder POS` 等价的当前精确门店规模；前者保留为 SEGESA 官网 broad network claim，后者作为 2025 行业可比零售口径。
 
 ### 结构化推断（不是 Leon View）
 基于上述公开事实，ABE 更适合被建模为 SEGESA 全国采购体系中的 **区域/成员采购平台节点**，而不是单纯一家零售商。
@@ -99,6 +101,7 @@ AÚNA 官方当前“Quiénes somos”披露：
 ### 公开事实层
 - ABE 本身公开覆盖 electrodomésticos / electrónica / informática，并处于 Segesa 家电消费电子采购网络中。
 - Segesa 官方产品范围明确包括 pequeño electrodoméstico（小家电）。
+- Electromarket 最新 2025 统计显示 SEGESA 的 PAE 销售额为 **€28.09m**。
 - ABE 成员结构包含零售、批发、采购集团、IT/通信等多类经营主体，因此具备比单一区域连锁更复杂的潜在分销触点。
 
 ### 待验证进入路径（推断，不是准入事实）
@@ -121,6 +124,7 @@ AÚNA 官方当前“Quiénes somos”披露：
 - ABE 与 AÚNA 双向列示的合同性质、交易流和产品流。
 - AÚNA 网络中 `Electrodomésticos` 是否具有可复制的PAE采购能力。
 - RAEE / EPR / SAT / warranty responsibility allocation。
+- SEGESA 官网 12 / 13 / 14 platforms / warehouses 不同口径的具体定义。
 
 ## 8. Sources｜来源
 
@@ -137,20 +141,28 @@ AÚNA 官方当前“Quiénes somos”披露：
    https://segesa.es/es/nuestros-socios
 5. Grupo Segesa – Quiénes somos / network data  
    https://segesa.es/es/quienes-somos
+6. Grupo Segesa – Intranets / PIM  
+   https://segesa.es/es/intranets
+7. Grupo Segesa – English Our partners  
+   https://segesa.es/en/our-partners
 
 ### AÚNA 官方
-6. AÚNA – Quiénes somos  
+8. AÚNA – Quiénes somos  
    https://www.aunadistribucion.com/grupo/quienes-somos
-7. AÚNA – ABE ELECTRODOMESTICS, S.L. supplier page  
+9. AÚNA – ABE ELECTRODOMESTICS, S.L. supplier page  
    https://www.aunadistribucion.com/proveedor/322/abe-electrodomestics
-8. AÚNA – Historia y objetivos  
-   https://www.aunadistribucion.com/grupo/historia-y-objetivos
+10. AÚNA – Historia y objetivos  
+    https://www.aunadistribucion.com/grupo/historia-y-objetivos
 
 ### 专业行业媒体
-9. Ei Actualidad / Electro-Imagen – “ABE afronta el 2025 con optimismo...” (2024-12-20)  
-   https://www.electro-imagen.com/articulo/abe-afronta-el-2025-con-optimismo-y-con-la-seguridad-de-que-no-sera-un-mal-ejercicio-para-nosotros
-10. Ei Actualidad – Refrel / ABE logistics relationship  
+11. Ei Actualidad / Electro-Imagen – “ABE afronta el 2025 con optimismo...” (2024-12-20)  
+    https://www.electro-imagen.com/articulo/abe-afronta-el-2025-con-optimismo-y-con-la-seguridad-de-que-no-sera-un-mal-ejercicio-para-nosotros
+12. Ei Actualidad – Refrel / ABE logistics relationship  
     https://www.electro-imagen.com/articulo/refrel-avanza-sin-perder-de-vista-la-tradicion-familiar
+13. Electromarket, Electroguía 2025-2026, pp.44-46 – SEGESA 2025 sales / POS / member / category data  
+    https://www.electromarket.com/revista/378/44/
+    https://www.electromarket.com/revista/378/45/
+    https://www.electromarket.com/revista/378/46/
 
 ## 9. Confidence & status｜可信度
 
@@ -160,6 +172,8 @@ AÚNA 官方当前“Quiénes somos”披露：
 - 2026-03成员名单包含AÚNA、AVALCO、REFREL等：**HIGH / ABE官方索引文件**
 - AÚNA当前89家关联分销企业、465+销售点、€1.97bn（2024）：**HIGH / AÚNA官方**
 - ABE↔AÚNA交叉关系：**HIGH（关系存在） / LOW-MEDIUM（合同性质未知）**
+- SEGESA 2025：1,244 Cadena Redder POS / 14 socios / €278.46m sales / €28.09m PAE：**HIGH-MEDIUM / Electromarket 2025-2026**
+- SEGESA官网“1,900+”与行业“1,244”：**统计口径冲突，禁止等价使用**
 - 001具体准入路径、Buyer、PO、MOQ、账期、返点：**TO VERIFY**
 
 ---
