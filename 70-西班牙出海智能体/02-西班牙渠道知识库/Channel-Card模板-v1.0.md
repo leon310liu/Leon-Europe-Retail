@@ -1,5 +1,7 @@
 # ECR Channel Intelligence Card Template v1.0
 
+> 历史冻结版。当前正式模板见 [Channel Card Template v2.0](./Channel-Card模板-v2.0.md)。保留本文件用于旧卡兼容与版本追溯。
+
 ## 定位
 Channel Card 是西班牙出海智能体的标准渠道分析单元。
 

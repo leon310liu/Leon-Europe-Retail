@@ -1,121 +1,117 @@
-# Sinersis｜Channel Card（公开事实层 V2）
+# Sinersis｜Channel Card V2.0
 
-> 类型：西班牙本土 Buying Group / 家电与消费电子专业零售网络
-> Vertical：家电消费电子 / 电子数码 / 家用电器
-> 本文仅沉淀公开可验证事实；Leon View另行叠加。
+> 卡片性质：公开事实层 + 明确标注的 Leon View 连接。动态信息最后核验于 2026-08-22；后续变化以底层事实卡为准。
 
-## WHO｜它是谁
-Sinersis是西班牙家电与消费电子分销领域的重要本土组织，旗下核心零售品牌包括 Tien21、Milar、Euronics。
+## 01 它是谁｜Channel Identity
 
-官方资料显示，其网络超过1,500家门店，聚合营业额超过10亿欧元，并通过区域合作伙伴形成全国性专业零售与物流网络。Sinersis官网称其门店距离90%的西班牙人口不到15分钟。
+- 公司/渠道名称：Sinersis
+- 一句话定位：西班牙家电与消费电子 Buying Group，通过区域平台和社区型专业门店网络运营。
+- 核心品牌/网络：Tien21、Milar、Euronics。
+- 规模：Sinersis 官方公开网络超过 1,500 家门店、聚合营业额超过 10 亿欧元；2024 年公开口径约 1,563 家门店。
+- 区域与物流：全国性网络，由区域平台和 19 个仓库构成；官网对区域平台数量存在 16/17 个的口径冲突。
+- 渠道生态位置：`品牌/厂家 → Sinersis 中央框架与服务 → 区域平台 → Tien21/Milar/Euronics 等社区专业门店 → 消费者`
 
-## WHAT｜它连接什么市场
-Sinersis强调“comercio de proximidad（社区/近距离零售）”。它不是单纯一家总部直营连锁，而是通过区域平台和大量门店形成毛细血管式专业家电零售网络。
+## 02 它属于什么渠道｜Channel Taxonomy & Tags
 
-Sinersis 2024年公开资料披露约1,563个门店，并称其约占西班牙家电门店总量三分之一；其公开口径还称其在“社区型/近距离家电零售”中约占50%销售份额，在整个行业约占25%。这些为Sinersis自身公开口径，后续应继续与第三方行业资料交叉验证。
+- 一级渠道标签：`02 家电消费电子`、`05 本土批发采购集团`
+- 二级渠道定位：家电与消费电子专业零售联盟 / 区域采购与服务平台网络
+- Vertical 标签：`家电`、`消费电子`、`智能设备`
+- Business Model / 组织形式标签：`BM02 联盟自治型`；部分中央职能具有框架谈判和集中/协调采购属性，但不能据此视为总部全权集中采购。
 
-## HOW｜组织与采购逻辑
-Sinersis官方描述其职能包括：
-- 协调区域合作平台的商业利益；
-- 统一/协调营销策略；
-- 与供应商谈判框架协议及促销协议；
-- 集中/协调供应商采购；
-- 运营 Tien21、Milar、Euronics 三个品牌的电商；
-- 区域合作伙伴负责各自影响区域的供应与物流，并为门店提供采购、营销、陈列、培训和物流支持。
+双标签表示 Sinersis 同时具有专业家电消费电子渠道与西班牙本土采购组织属性，不新增一级渠道分类。
 
-这意味着供应商开发时不能只把它理解为“1500家店逐店开发”，而应重点研究：Sinersis总部框架协议、区域平台、品牌体系以及实际采购/物流权责如何分配。
+## 03 它适合卖什么｜Product Fit
 
-### 当前公开管理层
-Sinersis官网当前公开管理层包括：
-- Carlos Moreno Figueroa：Director General
-- Javier Lis：Director Comercial y de Marketing
-- Cristina Peinado：Directora Financiera
-- Victor Buenhombre：Director de Sistemas de Información
+| 匹配等级 | 产品/品类 | 判断理由 | 证据状态 |
+|---|---|---|---|
+| 高 | 家电、小家电 | 现有核心网络就是专业家电零售；区域平台可提供采购、物流、陈列与门店支持 | 公开事实已核验 |
+| 高 | 消费电子 | 官方定位与现有品类覆盖消费电子，拥有全国性专业零售网络 | 公开事实已核验 |
+| 中 | 智能设备、需要线下体验的个护小家电 | 门店体验与社区服务网络具备理论匹配；具体类目采购权、新品牌接受度和售后要求不明 | 理论匹配，待采购验证 |
+| 低 | 与家电/消费电子弱相关、无需专业讲解的日用快消 | 与现有专业品类结构和门店角色弱匹配 | 基于渠道定位判断 |
+| 不适合 | 纯工程、工业或与其专业零售体系无关的产品 | 缺少现有品类与客户场景支撑 | 基于渠道定位判断 |
 
-董事会公开成员来自Proselco、Codeco、Comelsa、Idea Hogar、Divelsa、Vere等区域平台，说明区域平台在集团治理中具有直接代表性。
+- 匹配理由重点：现有品类结构、线下体验与服务需求、区域物流能力、品牌认知及本地售后能力。
+- 硬门槛待核验：供应商准入、产品认证、总部/区域上架规则、返点与营销支持、账期、信用保险、本地售后。
+- 001 AI 吹风机：属于必须优先验证的本土专业渠道，但不能把理论匹配写成已确认采购意向。
 
-## REGION｜区域覆盖
-全国性网络，底层由区域平台和19个仓库构成，负责各自区域的采购供应与物流。
+## 04 它怎么运作｜Organization & Decision Making
 
-### 口径冲突必须保留
-Sinersis官网当前存在公开页面口径不一致：
-- “Asociados / Sobre nosotros”页面写16个区域平台；
-- 首页仍写17个平台；
-- Asociados页面当前实际列出17个名称。
+- 组织链：Sinersis 中央层 → 区域成员/平台 → Tien21、Milar、Euronics 等门店网络。
+- 谁组织：Sinersis 中央层协调区域平台商业利益、营销策略、品牌电商和供应商框架/促销协议。
+- 谁采购：中央层公开承担供应商谈判及集中/协调采购职能；区域平台负责各自区域采购管理、供货和物流。具体品类权责必须逐项核验。
+- 谁决定上架：公开资料不足以证明中央层对所有 SKU 拥有最终上架权；可能涉及中央框架、区域平台选择与门店执行。
+- 门店/成员自主权：区域平台在集团治理和区域经营中具有直接代表性与较高执行权；单店自主边界待研究。
+- 采购模式：中央框架/协调采购 + 区域平台采购与供应的混合模式。
+- 进口、开票与付款主体：待研究，不得从其他采购集团套用。
+- 物流、售后、合同、渠道费用、账期与信用：公开资料不足，必须以真实供应商协议和采购沟通为准。
 
-因此知识库暂记为“16-17个平台，当前公开页面存在口径差异”，在Sinersis进一步更新官网前不得强行统一成一个数字。
+## 05 它在哪里强｜Regional Strength
 
-### 当前官网列出的区域平台/成员名称
-1. Caslesa — Salamanca
-2. Cedecasa — Canarias
-3. Celsa — Alicante
-4. CODECO — Córdoba
-5. COMELSA — Valencia
-6. DIVELSA — Valencia
-7. GRUDESA — Murcia
-8. Idea Hogar — Valladolid
-9. L. Roman — Badajoz
-10. Medired — Valencia
-11. Proselco — Madrid
-12. SACSE — Barcelona
-13. Sorefoz — Figueira da Foz, Portugal
-14. TIANELSUR — Sevilla
-15. UGESA — A Coruña
-16. Vere — Toledo
-17. Vicosa — Pontevedra
+- 总体覆盖：全国性社区/近距离家电零售网络；官方称其门店距离 90% 的西班牙人口不到 15 分钟。
+- 强势区域：应按区域平台逐一判断，当前卡片不以全国总门店数替代区域强弱结论。
+- 弱势或未确认区域：待结合区域平台、门店密度与实际采购能力研究。
+- 核心区域样本：UGESA（西北）、COMELSA（东部/Levante）、Caslesa、Celsa、Medired、Vere、Vicosa、Proselco 等。
+- 区域进入意义：Sinersis 不是“一个总部 + 直营店”；区域平台可能是新品试点、采购执行和物流落地的关键节点。
+- [详细区域数据与区域成员事实卡](../02-家电消费电子/Sinersis-Channel-Intelligence-Card.md)：作为当前“西班牙区域渠道数据库”的 Sinersis 底层入口；各区域平台专项卡继续维护动态明细。
 
-### 已公开确认的区域样本
-- UGESA：西北家电/消费电子采购中心；38+股东、150+关联成员，覆盖Galicia、Asturias、León；经营Tien21和Euronics。
-- COMELSA：覆盖Comunidad Valenciana、Albacete、Teruel、Murcia、Baleares；90+门店，核心使用Milar。
-- Caslesa：33+门店，覆盖Castilla y León及部分Extremadura。
-- Celsa：57名成员，覆盖Alicante、Albacete及Cuenca南部。
-- Medired：覆盖Comunidad Valenciana、Murcia、Albacete、Baleares、Teruel、Soria。
-- Vere：覆盖Castilla-La Mancha部分地区、Extremadura及Valle del Tiétar，主要经营Tien21。
-- Vicosa：服务Galicia及葡萄牙北部的家电专业零售网络。
+官网现有“16 个平台”“17 个平台”及实际列名数量不一致。该冲突必须保留，不能为了卡片整齐强行统一。
 
-这些区域资料证明Sinersis的真实结构不是“一个总部+直营店”，而是“中央服务/供应商框架 + 区域平台 + 本地零售网络”。
+## 06 怎么进去｜Entry Path
 
-## ENTRY｜供应商进入时应优先确认
-1. 产品是否进入Sinersis总部供应商/框架协议体系；
-2. 对应品类由总部还是区域平台主导采购；
-3. 是否需要分别对接区域平台；
-4. 促销、营销、线上销售与线下门店的协同要求；
-5. 物流是供应区域平台仓库、特定平台，还是存在其他交付模式；
-6. 是否需要品牌层面的全国推广配合；
-7. 合同、返点、营销支持、账期等商业条款——公开资料不足，必须以真实供应商协议为准。
+- 推荐切入层级：区域成员优先验证，同时确认 Sinersis 总部供应商/框架协议要求。
+- 推荐切入方式：区域试点 → 形成真实销售案例 → 扩展多个区域 → 再推动中央层更大范围合作。
+- 第一步找谁：对应产品品类的区域平台采购/商业负责人；并行确认中央商业团队是否要求先进入供应商框架。
+- 决策链：中央框架与促销协调 → 区域平台采购/供货与物流 → 门店执行；具体品类可能不同。
+- 新品牌进入难度：高（Leon 第一版确认，2026-08-22）；具体供应商准入流程、周期和商业条件仍待研究。网络规模不等于新品可自动铺货。
+- 关键门槛：品牌与产品差异化、认证、价格与利润空间、体验与培训、本地售后、营销支持、区域物流配合。
+- 待确认：个护小家电归属、总部与区域最终选品权、交付仓、合同返点、费用、账期、信用要求、区域试点机制。
 
-## FIT｜对消费级电子产品的意义
-对于家电、小家电、电子数码等产品，Sinersis代表一种与MediaMarkt完全不同的渠道结构：前者通过大量社区专业门店和区域平台实现覆盖，后者更接近大型标准化连锁。
+## 07 Leon怎么看｜Leon View, Risks & Misconceptions
 
-对中国中小品牌而言，Sinersis值得作为“本土专业零售/Buying Group”重点研究对象，但具体新品接受度、品牌门槛和商业费用需要真实采购接触后验证。
+### Leon View
 
-### 对001 AI吹风机的直接意义
-Sinersis本身经营小家电和消费电子，是001 AI吹风机必须优先验证的本土专业渠道之一。下一步应重点确认：
-- 吹风机/个护小家电的具体采购品类归属；
-- 总部商业部是否统一谈供应商框架；
-- 哪些区域平台拥有更强的个护/小家电新品选择权；
-- Proselco（Madrid）与Vere（Toledo/CLM）是否适合作为Leon周边区域的实地验证样本；
-- 新品牌是否可先区域测试，再进入更大范围。
+Sinersis 验证了 Leon 的渠道判断：西班牙除国际大型连锁外，还存在由本土中央组织、区域平台和独立/社区门店形成的专业网络。对中国中小品牌，它的真实价值不只是“1,500+ 门店”，而是有机会通过匹配的区域节点验证产品，再逐步放大。
 
-以上属于待验证问题，不得在智能体中提前表述为既定事实。
+- 机会：社区专业门店覆盖、线下体验、区域试点和区域关系网络。
+- 风险：误判中央与区域采购权、把框架准入等同全国铺货、低估售后和营销执行要求。
+- 当前建议：对家电/消费电子产品保持高研究优先级；对新品先验证区域成员与具体品类权责。
+- 适合企业阶段：已有一定产品实力、欧洲合规与售后能力，并愿意投入品牌建设和区域验证的企业。
+- 不适合企业阶段：第一次进入欧洲、没有售后体系或市场预算、只希望用极低价快速铺货的企业。
+- 经验边界：进入难度、适用阶段和区域优先路径为 Leon 2026-08-22 已确认判断；不代表已经取得 Sinersis 的采购承诺。
 
-## 与Leon View的连接
-这家公司验证了Leon提出的一个重要渠道判断：西班牙除了国际大型连锁之外，还存在大量通过本土采购集团、区域平台和独立/社区零售门店形成的专业渠道网络。它们可能比单一大型连锁拥有更广的门店毛细血管覆盖。
+### 常见误区
 
-## 公开来源（2026-08-22复核）
-- Sinersis官网：首页 https://www.sinersis.es/
-- Sinersis官网：Sobre nosotros https://www.sinersis.es/sobre-nosotros/
-- Sinersis官网：Asociados https://www.sinersis.es/asociados/
-- Sinersis官网：Nuestras marcas https://www.sinersis.es/nuestras-marcas/
-- Sinersis各区域平台官方页面（UGESA、COMELSA、Caslesa、Celsa、Medired、Vere、Vicosa等）
-- Sinersis 2024公开资料：《El grupo español dueño de Tien21 y Milar desafía a MediaMarkt...》
+| 错误理解 | 正确认知 | 可能后果 |
+|---|---|---|
+| 找到 Sinersis 总部就能进入所有门店 | 中央层、区域平台与门店之间存在分层权责 | 资源集中在错误入口，无法落地 |
+| 1,500+ 门店等于新品可全国铺货 | 网络规模不等于统一上架权 | 高估销量与覆盖速度 |
+| 所有区域平台都一样 | 区域成员的覆盖、实力、品类和采购权可能不同 | 试点区域选择失真 |
+| 产品理论匹配就代表渠道会采购 | 仍需验证品牌门槛、商业条件、售后与实际决策链 | 把推测当商机事实 |
 
-## 待补充 Field Intelligence
-- 真实采购部门组织图（具体到小家电/个护）
-- 供应商准入流程
-- 合同样本
-- 返点/广告/管理费用
-- 实际账期与信用保险要求
-- 新品牌进入案例
-- 吹风机/个护小家电实际采购决策链
-- 各区域平台真实门店数、仓库、采购权限和负责人
+### Field Intelligence / Private Layer
+
+- 待补一线情报：真实采购组织图、供应商准入、合同样本、费用返点、账期信用、新品牌案例、个护小家电决策链。
+- Leon Network 与具体联系人、关系及合作记录进入私有层，不在公开卡片披露。
+
+## 08 AI什么时候调用它｜AI Retrieval Rules
+
+- 必须调用：用户询问 Sinersis、Tien21、Milar、Euronics Spain、本土家电联盟、区域家电平台，或家电/消费电子产品适合哪些西班牙渠道时。
+- 联合调用：产品画像、Vertical 标签库、Business Model 标签库、Sinersis 区域成员事实卡；涉及具体地区时必须继续调用对应区域平台卡。
+- 不应调用：纯工业项目、与家电消费电子无关的渠道问题，或把本卡当成实时联系人/价格数据库。
+- 输出边界：门店与营收写明 Sinersis 自身公开口径；中央/区域权责未确认处写“待核验”；Leon View 不得伪装成公开事实。
+- 召回标签：Sinersis、Tien21、Milar、Euronics、02 家电消费电子、05 本土批发采购集团、家电、消费电子、智能设备、BM02、区域平台、联盟自治、区域试点。
+
+## 09 证据是什么｜Evidence & Confidence
+
+- 信息可信度：中高。集团身份、品牌、网络规模与公开职能来自官方资料；平台数量存在官方页面冲突；具体采购权与合同仍待实证，Leon 已确认的高进入难度仍待公开证据补充。
+- 最后核验：2026-08-22
+- 公开来源：
+  - Sinersis 官网：首页（品牌、门店与营业规模）— https://www.sinersis.es/（2026-08-22 访问）
+  - Sinersis 官网：Sobre nosotros（组织角色与供应商职能）— https://www.sinersis.es/sobre-nosotros/（2026-08-22 访问）
+  - Sinersis 官网：Asociados（区域平台、仓库与服务职责）— https://www.sinersis.es/asociados/（2026-08-22 访问）
+  - Sinersis 官网：Nuestras marcas（零售品牌）— https://www.sinersis.es/nuestras-marcas/（2026-08-22 访问）
+  - Sinersis 2024 公开材料（1,563 家门店、市场角色）— https://www.sinersis.es/el-grupo-espanol-dueno-de-tien21-y-milar-desafia-a-mediamarkt-y-crecera-un-50-en-un-mercado-estancado/
+  - [Sinersis 底层事实卡](../02-家电消费电子/Sinersis-Channel-Intelligence-Card.md)（区域样本、来源映射与 Leon Verified View）
+- Leon 一线来源：Sinersis 底层事实卡 `Leon Verified View`，确认日期 2026-08-22。
+- 口径冲突：官网“16/17 个区域平台”并列保留。
+- 待研究：真实品类采购权、上架权、门店自主权、进口/开票/付款主体、商业条款、信用与新品牌案例。
