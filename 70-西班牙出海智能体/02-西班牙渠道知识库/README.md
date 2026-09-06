@@ -12,3 +12,7 @@
 - [Channel Card 模板 V1.0](./Channel-Card模板-v1.0.md)：历史冻结版，仅供兼容与追溯。
 
 同一公司有多重渠道属性时，在唯一正式 Channel Card 中记录多个一级渠道标签，并从相关分类目录建立链接；不要复制出多份相互竞争的事实源。
+
+当前采购集团正式卡：
+- [Sinersis](./05-本土批发采购集团/Sinersis-Channel-Card.md)
+- [SEGESA / Cadena Redder](./05-本土批发采购集团/SEGESA-Channel-Card.md)

@@ -14,7 +14,7 @@
 - MEDIRED — Valencia/Paterna区域家电采购与销售管理平台；2026-01-01正式加入Sinersis，已出现Sinersis组织的MEDIRED实体门店统一促销执行证据；需继续核验中央框架与区域选品/合同权边界
 - ADEN — 西班牙北部家电分销企业协会 / 区域平台网络组织；当前官方列出6家成员企业、接近700家门店，商业网络横跨 CENOR、MiElectro、Activa、Tien21、Euronics、Expert、Milar 等多个品牌体系；用于拆解“全国品牌网络 vs 区域运营法人”，本身不得默认视为统一采购主体
 - CENOR — 西班牙北部专业家电零售/采购网络，与Grupo SEGESA关联；2026公开资料确认覆盖Galicia、Asturias、Cantabria、País Vasco、Navarra、La Rioja，且当前前台已销售Taurus Digital Force AI/Protect、Solac Blast Digital、Ufesa高速数字电机等吹风机。对001属于明确相关的北部区域渠道，但中央采购、区域成员选品、合同与开票权边界仍需核验
-- SEGESA / Cadena Redder — 全国性家电采购/分销集团；2025年行业披露为14 socios、25 almacenes、1,244销售点，PAE采购净额约€28.08m；官网不同页面的12平台/14仓库口径需与年度经营数据分字段管理
+- [SEGESA / Cadena Redder](../05-本土批发采购集团/SEGESA-Channel-Card.md) — 全国性家电采购/分销集团；V1.0 主卡采用 Channel Card V2.0 结构，同时标注 `02 家电消费电子` 与 `05 本土批发采购集团`。官网当前 12 个 socios、13 个仓储配送平台、14 个仓库分字段保留；2025 年行业报告记录 1,244 个 Cadena Redder 销售点和 €28.09m PAE 业务，不能据此推导统一上架
 - YTELVA / SEGESA Regional Platform — SEGESA / CONVERGES体系内区域批发平台联盟；官网披露11个平台、40,000㎡+仓储、10,000+库存参考号。约85%关联平台采购金额通过YTELVA CIF集中开票，由YTELVA统一付款，但成员仍保留采购、库存及品牌组合自主权；是“中央议价/集中结算 + 区域自主采购”模型的重要样本
 - CEMEVISA — 专业家电分销体系；官方当前披露9个分销平台、40,000㎡+物流面积，明确经营小家电及吹风机，当前目录已出现Rowenta高速BLDC吹风机；需继续核验中央选品与区域平台权责
 - Eldisser / Mi Electro — 本土家电分销/采购网络 + 关联零售品牌；Eldisser官方当前披露€200M+营业额、33,000㎡仓储、350+关联门店，Mi Electro官网另称500+实体销售点；2026年前四个月新增14店，需分字段核验集团/品牌/销售点口径及与Activa Hogar的主体关系

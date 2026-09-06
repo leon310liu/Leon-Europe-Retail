@@ -7,6 +7,7 @@
 - CECOFERSA
 - COMAFE
 - [Sinersis](./Sinersis-Channel-Card.md) — 同时标注 `02 家电消费电子` 与 `05 本土批发采购集团`；本目录保存唯一正式卡，相关分类通过链接调用
+- [SEGESA / Cadena Redder](./SEGESA-Channel-Card.md) — V1.0 主卡，采用 Channel Card V2.0 结构；同时标注 `02 家电消费电子` 与 `05 本土批发采购集团`；[12 大成员与区域明细](../02-家电消费电子/SEGESA-Cadena-Redder-Channel-Intelligence-Card-2026.md)在底层数据库维护
 
 ## 本类渠道统一核验框架
 不能因为结构类似就默认交易机制相同。每张卡必须分别核实：

@@ -2,6 +2,8 @@
 
 更新时间：2026-08-24
 
+> 状态：历史事实快照，不是当前正式 Channel Card。正式入口见 [SEGESA / Cadena Redder｜Channel Card V1.0](../05-本土批发采购集团/SEGESA-Channel-Card.md)（采用 Channel Card 模板 V2.0 结构）；当前官网结构、12 大成员和持续反馈见 [2026 底层事实数据库](./SEGESA-Cadena-Redder-Channel-Intelligence-Card-2026.md)。本文件保留 2025 年末行业经营口径，不用于覆盖后续官网口径。
+
 ## 1. 渠道定位
 
 SEGESA（Grupo Segesa Cadena Redder, S.A.）是西班牙家电与消费电子专业渠道中的全国性采购/分销集团，核心终端品牌为 Cadena Redder。
