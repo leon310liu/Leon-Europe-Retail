@@ -1,7 +1,7 @@
 # Expert Spain × 7 Distribution Platforms × 110k Hair Dryer — Channel Card（2026）
 
 > 类型：公开事实 Channel Card / 001 AI吹风机直接相关
-> 更新时间：2026-09-05
+> 更新时间：2026-09-07
 > 规则：公开事实、分析推断、Leon View严格分离；本文件不新增Leon View。
 
 ## 1. 渠道定义｜公开事实
@@ -146,7 +146,26 @@ Expert公开信息：
 来源：
 - Expert: https://www.expert.es/producto/secador-jata-jbsc1600
 
-## 5. 对001公开事实知识库的新增价值
+## 5. 2026-09管理层变更｜公开事实
+
+**2026年9月1日起，Marta Ruifernández Nogués 加入/回归 Fadesa-Expert España 并接任管理层负责人（gerente / Managing Director）。** 她此前曾长期担任Expert España全国市场负责人。现任负责人 Diego Giménez Soldevilla 将在即将退休前与其共同工作数月，以完成有序交接。
+
+该变更由Expert ES / Expert International公开信息以及西班牙家电专业媒体 Electro-Imagen 于2026年9月4日报道确认。
+
+来源：
+- Electro-Imagen — Fadesa-Expert España incorpora a su nueva gerente（2026-09-04）: https://www.electro-imagen.com/public/articulo/fadesa-expert-espana-incorpora-a-su-nueva-gerente
+- Expert ES / Expert International Retail 官方LinkedIn公告（2026-09）
+
+### 数据治理
+
+- `Current management transition start = 2026-09-01`
+- `Incoming manager = Marta Ruifernández Nogués`
+- `Outgoing/current transition manager = Diego Giménez Soldevilla`
+- `Transition period = several months, exact end date TO VERIFY`
+
+这属于公司治理/组织事实，**不能据此推断Marta本人负责001、PAE或个护类采购，也不能将其自动标记为Buyer**。
+
+## 6. 对001公开事实知识库的新增价值
 
 Expert这一节点新增的不是单一SKU，而是一个此前需要单独拆出的渠道体系：
 
@@ -160,7 +179,7 @@ Expert这一节点新增的不是单一SKU，而是一个此前需要单独拆�
 - “区域平台参与具体SKU采购决策”目前没有足够公开证据，只能作为待验证问题；
 - 不能因为平台承担物流，就自动推断平台拥有品牌准入权或Buyer权限。
 
-## 6. 数据冲突 / 过期信息治理
+## 7. 数据冲突 / 过期信息治理
 
 网络上仍可检索到旧页面或第三方目录使用 **500+ / 900+ Expert Spain stores** 等历史口径。
 
@@ -168,7 +187,9 @@ Expert这一节点新增的不是单一SKU，而是一个此前需要单独拆�
 
 旧数字不删除其历史意义，但不得继续作为“当前门店规模”事实使用。
 
-## 7. 分析推断（非公开事实）
+管理层字段也应同步治理：2026-09-01之后不得再把 Diego Giménez Soldevilla 简单记录为唯一、稳定的现任负责人；当前处于与 Marta Ruifernández Nogués 的交接阶段。
+
+## 8. 分析推断（非公开事实）
 
 Expert的结构与完全直营连锁不同：其官方明确强调关联门店、独立销售点和区域物流平台。因此，后续为001寻找真实进入路径时，应分别验证：
 
@@ -179,9 +200,11 @@ Expert的结构与完全直营连锁不同：其官方明确强调关联门店�
 
 而不是只寻找一个“全国Buyer”。
 
+管理层变化可能意味着后续总部组织联系人需要重新核实，但**目前没有公开事实证明采购组织、Buyer权限或PAE品类决策机制已经发生变化**。
+
 以上为研究结构推断，不是Leon View。
 
-## 8. TO VERIFY
+## 9. TO VERIFY
 
 - 第7个官方物流平台的名称与覆盖区域
 - FADESA / Expert Spain总部与各平台之间的资本、会员或采购关系
@@ -192,8 +215,9 @@ Expert的结构与完全直营连锁不同：其官方明确强调关联门店�
 - MOQ / 首单 / 账期 / 返点 / listing fee
 - 线上Expert.es订单的seller of record与库存履约结构
 - 001类高速吹风机是否已经在具体Expert实体门店形成常规铺货
+- Marta Ruifernández / Diego Giménez管理交接的正式完成日期
 
-## 9. Leon View
+## 10. Leon View
 
 **无新增。**
 
