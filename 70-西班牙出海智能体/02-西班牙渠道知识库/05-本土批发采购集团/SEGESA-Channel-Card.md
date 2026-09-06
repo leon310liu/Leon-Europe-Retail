@@ -1,6 +1,8 @@
 # SEGESA / Cadena Redder｜Channel Card V1.0
 
 > 卡片版本：V1.0；结构规范：Channel Card 模板 V2.0。卡片性质：公开事实层 + 明确标注的 AI 分析 + 待验证框架。公开动态信息最后核验于 2026-08-28；本版未新增 Leon View，也未使用 IRA_2.0 旧文档。
+>
+> 上层入口：[西班牙五大采购集团总览｜第一阶段框架](./西班牙五大采购集团总览.md)。
 
 ## 01 它是谁｜Channel Identity
 

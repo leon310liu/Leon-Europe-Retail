@@ -14,5 +14,9 @@
 同一公司有多重渠道属性时，在唯一正式 Channel Card 中记录多个一级渠道标签，并从相关分类目录建立链接；不要复制出多份相互竞争的事实源。
 
 当前采购集团正式卡：
+- [西班牙五大采购集团总览｜第一阶段框架](./05-本土批发采购集团/西班牙五大采购集团总览.md)
 - [Sinersis](./05-本土批发采购集团/Sinersis-Channel-Card.md)
 - [SEGESA / Cadena Redder](./05-本土批发采购集团/SEGESA-Channel-Card.md)
+- [Eldisser](./05-本土批发采购集团/Eldisser-Channel-Card.md)
+- [HGM](./05-本土批发采购集团/HGM-Channel-Card.md)
+- [Cadena Elecco](./05-本土批发采购集团/Cadena-Elecco-Channel-Card.md)
