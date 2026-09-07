@@ -7,6 +7,7 @@
 001 AI吹风机验证中，美容专业零售应与家电消费电子渠道并行研究，不能只按传统家电渠道处理。
 
 当前已建立：
+- [BETH'S HAIR](./Beths-Hair-Spain-Professional-Hair-Retail-Salon-Chain-Channel-Card-2026.md) — 专业美发零售与沙龙连锁渠道；由错误的 `04-垂直专业渠道` 迁入本目录。
 - [Perfumerías Primor](./Primor-Beauty-Channel-Intelligence-Card.md)
 - [Druni / Arenal](./Druni-Arenal-Beauty-Channel-Intelligence-Card.md)
 - [Dismay Hair & Beauty](./Dismay-Hair-Beauty-Professional-Wholesale-Channel-Intelligence-Card-2026.md) — **canonical 2026主卡**；专业美发/美容批发分销商；2026年成为EOLUX在西班牙和安道尔的官方独家分销商。EOLUX官方专业入口进一步明确其不直接向salon销售，而由selected professional distributors承接专业客户；Dismay当前电器工具目录含900个产品，并实际经营100,000–120,000 RPM数字高速吹风机
@@ -27,6 +28,7 @@
 
 ### 数据治理
 - `Dismay-Hair-Beauty-Channel-Intelligence-Card.md` 为2026-08-22旧版，现保留用于历史追溯；不得与Dismay 2026主卡作为两个独立渠道实体或重复来源计数。
+- `DIMACO-Spain-Professional-Beauty-Hairdressing-B2B-Research-Note-2026.md`、`Dismay-Spain-Professional-Hair-Beauty-Wholesale-Research-Note-2026.md`、`Fama-Fabre-Spain-Professional-Hairdressing-Beauty-Distribution-Research-Note-2026.md`、`Perfect-Beauty-Spain-Professional-Hair-Beauty-Electrical-Brand-Distribution-Research-Note-2026.md` 是从错误目录迁回的历史研究补充，不是第二张正式 Channel Card；各文件顶部已指向唯一维护的正式事实源。
 - 后续如发现同一渠道存在多张重叠卡，应明确指定canonical主卡并将旧卡标为legacy，避免智能体因重复文档产生事实权重偏差。
 
 后续重点：

@@ -1,4 +1,8 @@
-# Fama Fabré — Spain Professional Hairdressing & Beauty Distribution Channel Card (2026)
+# Fama Fabré — 西班牙专业美发美容分销研究补充（2026）
+
+> 文档性质：历史研究补充，**不是第二张正式 Channel Card**。
+> 正式事实源：[Fama Fabré / Parlux 专业美发分销渠道卡（2026）](./Fama-Fabre-Parlux-Professional-Hair-Distribution-Channel-Card-2026.md)。
+> 治理说明：本文件保留原研究来源与历史合作线索供追溯；检索和更新公司结论时以正式事实源为准。
 
 > 知识类型：公开事实知识库 / Channel Card  
 > 区域：Spain / 全国  

@@ -1,4 +1,8 @@
-# DIMACO Trading — Spain Professional Beauty & Hairdressing B2B Channel Card（2026）
+# DIMACO Trading — 西班牙专业美容美发 B2B 研究补充（2026）
+
+> 文档性质：历史研究补充，**不是第二张正式 Channel Card**。
+> 正式事实源：[Dimaco Profesional Channel Intelligence Card（2026）](./Dimaco-Profesional-Channel-Intelligence-Card-2026.md)。
+> 治理说明：本文件保留原研究来源与冲突线索供追溯；检索和更新公司结论时以正式事实源为准。
 
 > 类型：公开事实知识卡 / 垂直专业渠道
 > 更新日期：2026-08-29

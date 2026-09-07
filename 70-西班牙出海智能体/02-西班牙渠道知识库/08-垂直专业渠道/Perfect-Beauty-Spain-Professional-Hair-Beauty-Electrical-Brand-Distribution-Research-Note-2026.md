@@ -1,4 +1,8 @@
-# Perfect Beauty — Spain Professional Hair & Beauty Electrical Brand / Distribution Channel Card (2026)
+# Perfect Beauty — 西班牙专业美发美容电器品牌与分销研究补充（2026）
+
+> 文档性质：历史研究补充，**不是第二张正式 Channel Card**。
+> 正式事实源：[Perfect Beauty 渠道卡](./Perfect-Beauty-Channel-Intelligence-Card.md)。
+> 治理说明：本文件保留原研究来源与产品线索供追溯；检索和更新公司结论时以正式事实源为准。
 
 > Knowledge type: Public-fact channel intelligence
 > Scope: Spain / professional hairdressing & beauty / electrical appliances

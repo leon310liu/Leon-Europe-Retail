@@ -1,74 +1,80 @@
-# IGO Kiten / IGO Madrid — Cobo Calleja Consumer Electronics Wholesale Channel Card
+# IGO Kiten / IGO Madrid — Cobo Calleja 消费电子与小家电批发渠道卡
 
-> 状态：公开事实卡
-> 核验日期：2026-08-27
-> 适用范围：西班牙华人批发渠道 / 消费电子 / 小家电 / 001 AI吹风机
-> Leon View：本文件不新增或改写任何 Leon View。
+> 状态：公开事实 + AI Analysis + 待验证
+> 最近核验：2026-08-27
+> 适用范围：西班牙 / Cobo Calleja / 华人批发 / 消费电子 / 小家电 / 001 AI吹风机
+> Leon View：本文件未新增 Leon View。
 
-## 01 Channel Role
+## 01 它是谁｜渠道身份
 
-- Channel Type：Cobo Calleja 华人批发 / B2B消费电子与小家电批发
-- Entity：IGO Kiten 2008 S.L.
-- Public Trading Name：IGO Madrid / IGO Electronica
-- Location：C. Toreno, 52, 28947 Fuenlabrada, Madrid（Polígono Industrial Cobo Calleja）
-- Current Relevance to 001：中等相关，已验证实际吹风机SKU，但尚未验证高速BLDC/智能吹风机与品牌化分销能力。
+- 法律主体：IGO Kiten 2008 S.L.；公开商号：IGO Madrid / IGO Electronica。
+- 一句话定位：位于 Cobo Calleja、经营移动配件、消费电子和小家电的 B2B 批发节点。
+- 地址：C. Toreno, 52, 28947 Fuenlabrada, Madrid。
+- 渠道生态位置：`品牌/进口主体 → IGO Kiten / IGO Electronica → 独立门店/华人百货/电商客户 → 西班牙消费者`。
 
-## 02 公开事实
+## 02 它属于什么渠道｜渠道分类与标签
 
-### Fact A｜企业官网确认法律/经营主体及B2B批发定位
+- 一级渠道标签：`04 华人百货渠道`；兼具 `02 家电消费电子` 属性。
+- 二级渠道定位：Cobo Calleja 消费电子与小家电 B2B 批发。
+- Vertical 标签：Consumer Electronics、Small Domestic Appliances、Personal Care。
+- Business Model：Wholesaler、B2B Ecommerce、Local Stock / Vendor。
 
-IGO Madrid 官方网站当前明确写明：`IGO Kiten 2008 S.L.` 是位于 Madrid / Fuenlabrada Cobo Calleja 的移动配件和电子产品批发商，地址为 C. Toreno, 52。
+## 03 它适合卖什么｜产品匹配
 
-来源（核验于2026-08-27）：
-- https://yigou.es/
-- https://igokiten2008.es/index.php?controller=contact
+| 匹配等级 | 产品/品类 | 判断理由 | 证据状态 |
+|---|---|---|---|
+| 高 | 移动配件与常规消费电子 | 官网主营与目录可交叉验证 | 已核验 |
+| 中 | 小家电、Beauty & Health | 官网有明确分类与动态 SKU | 已核验经营范围 |
+| 中/待验证 | 001 AI吹风机 | 已核验传统吹风机 SKU，但未确认高速 BLDC / 智能温控或中高端品牌能力 | 部分核验 |
 
-证据边界：官网可以确认企业自述主体、地址和经营定位，但不能单独证明其所有产品的进口、品牌授权或EPR责任。
+官网商城的 `Electrónica` 目录在核验时约有 284 个产品，并设 `Belleza y salud`、`Electrodomésticos de Cocina`、`Pequeños electrodomésticos` 等子类。商品数量是动态页面快照，不代表固定库存或长期规模。
 
-### Fact B｜其自有B2B商品体系已经扩展到消费电子、Beauty & Health和小家电
+## 04 它怎么运作｜组织与决策
 
-IGO Kiten 官方商城当前 `Electrónica` 目录显示约284个产品，并分出 `Belleza y salud`、`Electrodomésticos de Cocina`、`Pequeños electrodomésticos` 等子类；其主要移动/平板配件目录还显示数百个SKU。
+- 企业官网确认 B2B 批发定位；采购负责人、供应商准入和决策链待核验。
+- Cobo Calleja B2B 平台商品 `SECADOR DE PELO DOMESTICO 3800W AB-CF05` 的 Vendor 字段为 `IGO Electronica`。
+- Vendor 关系只证明平台展示/交易关联，不能证明 IGO 是制造商、Importer of Record、品牌所有者或独家代理。
+- 开票主体、进口责任、MOQ、账期、返点、退换货、SAT 与备件能力待核验。
 
-来源：
-- https://igokiten2008.es/index.php?controller=category&id_category=1245
-- https://igokiten2008.es/index.php?controller=category&id_category=1170
+## 05 它在哪里强｜区域优势
 
-证据边界：页面商品数量属于动态目录快照，不应视为固定库存量或长期SKU规模。
+- 核心节点：Polígono Industrial Cobo Calleja，Fuenlabrada，Madrid。
+- 全国或区域覆盖、仓储深度及下游客户结构：待核验。
+- 公开证据足以识别其为园区内具备独立企业官网、小家电目录和吹风机 SKU 交叉验证的批发节点。
 
-### Fact C｜Cobo Calleja B2B平台已经把具体吹风机SKU关联到 IGO Electronica
+## 06 怎么进去｜进入路径
 
-PoligonoCoboCalleja.com 当前商品 `SECADOR DE PELO DOMESTICO 3800W AB-CF05` 的 Vendor 字段明确显示 `IGO Electronica`。该平台也把 IGO Electronica列为商户Vendor。
+- 推荐切入：消费电子 / Beauty & Health 采购负责人。
+- 推荐方式：先核验现有 Hair Tools 组合和价格带，再确认第三方品牌准入、合规责任与小批量试销条件。
+- 进入假设：`品牌/进口主体 → Cobo Calleja 消费电子/小家电批发商 → 独立门店/华人百货/电商客户 → 消费者`。
+- 必须确认：采购主体、品牌策略、MOQ、付款条件、Importer of Record、RII-AEE、EPR/RAEE、SAT 和保修责任。
 
-来源：
-- https://poligonocobocalleja.com/producto/secador-de-pelo-domestico-3800w-ab-cf05/
-- https://poligonocobocalleja.com/stores-list/
+## 07 Leon怎么看｜Leon View、风险与误区
 
-这使 IGO 从此前“平台Vendor线索”升级为：存在独立企业官网、明确企业主体、明确小家电/Beauty & Health目录，并有具体吹风机SKU的可交叉验证批发节点。
+### Leon View
 
-证据边界：Vendor关系不能证明IGO是该吹风机的制造商、Importer of Record、品牌所有者或独家代理。
+无。等待 Leon 明确输入，不由 AI 自动生成。
 
-## 03 AI Analysis（不是公开事实，不是 Leon View）
+### AI Analysis（不是 Leon View）
 
-IGO 对001的价值主要在于验证一种更具体的华人批发路径：
+IGO 验证了一条比“园区可能有吹风机”更具体的华人批发路径，但没有足够证据证明其组合进入 110,000 RPM BLDC、智能温控或中高端品牌 Hair Tools，不能直接判定产品适配或采购意向。
 
-**品牌/进口主体 → Cobo Calleja消费电子/小家电批发商 → 独立门店/华人百货/电商客户 → 西班牙本地消费者**
+| 错误理解 | 正确认知 |
+|---|---|
+| 有吹风机 SKU 即适合 001 | 传统低价吹风机与高速智能 Hair Tools 的采购逻辑可能不同 |
+| Vendor 即制造商或进口商 | Vendor 只证明平台关联，法律与合规角色需另查 |
+| 三种公开名称可在所有场景互换 | 合同、开票和平台名称对应关系仍待核验 |
 
-目前公开证据显示其小家电和吹风机经营能力，但还没有足够证据证明其现有组合进入了110,000 RPM BLDC、智能温控或中高端品牌Hair Tools。因此001不应仅因“有吹风机SKU”就直接判定适配。
+## 08 AI什么时候调用它｜检索规则
 
-## 04 待验证项
+- 必须调用：查询 IGO Kiten、IGO Madrid、IGO Electronica、Cobo Calleja 吹风机或小家电批发节点时。
+- 联合调用：Cobo Calleja 园区卡、吹风机批发快照、EBOX 渠道卡、001 产品画像与合规基线。
+- 不应调用：证明 IGO 已经营高速吹风机、接受第三方品牌或承担进口责任。
+- 输出边界：官网及具体 Vendor 为公开事实；001 价值为 AI Analysis；采购与责任分工为待验证。
 
-1. 当前完整吹风机 / Beauty & Health SKU及品牌结构。
-2. 是否经营110,000 RPM / BLDC / NTC智能温控 / 多附件高速吹风机。
-3. 是否接受第三方品牌化产品，还是以低价通用SKU为主。
-4. 实际下游客户：华人百货、独立电子店、电商卖家、区域批发商各占何种角色。
-5. Importer of Record、RII-AEE、EPR/RAEE责任主体。
-6. 西班牙库存、开票主体、MOQ、账期、返点和退换货条件。
-7. 是否提供第三方品牌SAT、备件和保内售后。
-8. `IGO Electronica / IGO Madrid / IGO Kiten 2008 S.L.` 三种名称在合同、开票和平台Vendor中的对应关系。
+## 09 证据是什么｜来源与可信度
 
-## 05 数据治理规则
-
-- 企业官网商品分类可证明经营范围，但不能自动证明实际库存、销量或采购权。
-- 平台Vendor字段只能证明展示/交易关系，不能自动升级为制造商、进口商或官方代理。
-- 对华人批发渠道，应持续区分低价通用小家电批发与品牌化/高速智能Hair Tools分销。
-- Leon View只记录Leon明确确认的经验判断；本卡不自动生成Leon View。
+- 企业主体、地址与 B2B 定位（核验于 2026-08-27）：https://yigou.es/ 、https://igokiten2008.es/index.php?controller=contact
+- 商品分类：https://igokiten2008.es/index.php?controller=category&id_category=1245 、https://igokiten2008.es/index.php?controller=category&id_category=1170
+- 吹风机 SKU 与 Vendor：https://poligonocobocalleja.com/producto/secador-de-pelo-domestico-3800w-ab-cf05/ 、https://poligonocobocalleja.com/stores-list/
+- 待研究：完整 Hair Tools SKU、BLDC/智能产品能力、第三方品牌准入、下游结构、开票/进口主体、MOQ/账期、EPR/RAEE 与 SAT。
