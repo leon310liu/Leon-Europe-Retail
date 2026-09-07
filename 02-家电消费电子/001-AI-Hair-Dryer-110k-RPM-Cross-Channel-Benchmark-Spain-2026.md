@@ -1,7 +1,7 @@
 # 001 AI吹风机 — 西班牙110k RPM高速吹风机跨渠道公开基准（2026）
 
 > 类型：公开事实基准卡 / 001 AI吹风机
-> 更新时间：2026-09-01
+> 更新时间：2026-09-07
 > 规则：公开事实、分析推断、Leon View严格分离；本文件不新增Leon View。
 
 ## 1. 目的
@@ -87,24 +87,30 @@ DMI同时公开提供RMA、dropshipping、web integration、物流、RAEE、fina
 
 数据治理：DMI公开证据可确认“IT/科技批发体系存在110k高速个护SKU”，但不能据此推断某一具体零售客户已经从DMI采购这些SKU。
 
-### F. Perfect Beauty × JRL Professional — 品牌授权型专业美发工具分销
+### F. Perfect Beauty Professional — 专业美发工具开发/分销 + 已验证110k产品生态
 
-Perfect Beauty当前官网设有独立 `SECADORES JRL` 分类，并销售多款JRL专业吹风机。BeautyMarket 2025将Perfect Beauty明确称为 **JRL Professional在西班牙的官方分销商**；Interempresas 2024进一步写为 **JRL在西班牙和葡萄牙的官方分销商**。
+Perfect Beauty当前官网既有JRL等专业工具分销品类，也公开销售自身专业产品体系。BeautyMarket企业目录将 Perfect Beauty, S.L. 描述为美发与美容电器的制造商/分销商，服务专业美发与美容市场。
 
-对高速吹风机竞争基准最直接的当前公开样本包括：
-- JRL Forte Pro Brushless：Perfect Beauty当前一款页面公开为 **100,000 rpm**、1,900–2,150W、320g、自动清洁、可洗滤网、记忆功能、离子系统。
-- 同系列另一白色套装页面公开 **90,000 rpm**，因此不得把Forte Pro所有SKU统一成100k。
-- JRL Vortice.1：2026年由Perfect Beauty在西班牙分销，brushless 77,000 rpm、2,150–2,400W、370g，定位barbería / salón专业市场。
+2026-09-07复核发现，Perfect Beauty当前官网已经公开存在真正的110k级产品：
+
+- **Versa Dry**：专业6合1；brushless高速电机 **110,000 rpm**；1,700–2,000W；331g（不含线）；负离子；自动清洁；记忆功能。
+- **Multy Dry**：专业6合1；brushless高速电机 **110,000 rpm**；1,300–1,500W；负离子；3档速度 / 3档温度。
+- **Forte Pro Brushless**：另一个邻近高速样本，公开为 **100,000 rpm**；不同JRL/Forte Pro页面仍存在90k/100k等具体SKU差异，不得统一参数。
 
 来源：
-- https://perfectbeauty.es/catalogo/secadores-jrl/
-- https://perfectbeauty.es/catalogo/producto/pack-forte-pro/
-- https://perfectbeauty.es/catalogo/producto/vortice-cy2025l/
-- https://www.beautymarket.es/peluqueria/vortice-de-jrl-nuevo-secador-profesional-ultraligero-con-tecnologia-avanzada-para-barberia-y-salon-peluqueria-36749.php
-- https://www.beautymarket.es/peluqueria/perfect-beauty-presenta-las-novedades-de-jrl-innovacion-diseno-y-alto-rendimiento-profesional-peluqueria-35806.php
-- https://www.interempresas.net/Peluqueria/570318-Llega-a-Espana-la-Onyx-FF2020T-B-la-herramienta-clave-de-los-barberos.html
+- https://perfectbeauty.es/
+- https://perfectbeauty.es/catalogo/producto/versa-dry/
+- https://perfectbeauty.es/catalogo/producto/multy-dry/
+- https://perfectbeauty.es/catalogo/producto/forte-pro-brushless/
+- https://www.beautymarket.es/peluqueria/perfect-beauty-professional-peluqueria-5552-dirempresa.php
 
-数据治理：Perfect Beauty是“品牌授权型专业美发工具分销”真实样本，但其当前公开吹风机样本主要是90k/100k/77k等，不应错误写成110k渠道样本。它的价值在于补足专业渠道中与001直接竞争的高速无刷产品分销结构。
+2026公司结构更新：Murcia Plaza 2026-06-16报道，新成立的 **Nicolás Beauty Group** 将Perfect Beauty等多家美容相关公司纳入统一holding架构，公开注册资本约€23.95m。该资本仅代表holding注册资本，不得推导Perfect Beauty单体营业额、采购预算或销量。
+
+来源：
+- https://murciaplaza.com/murciaplaza/empresas-murcia/nicolas-beauty-group-consolida-su-negocio-en-lorca-con-un-holding-de-24-millones-de-capital
+- https://www.iberinform.es/empresa/11366919/nicolas-beauty-group
+
+数据治理：此前“Perfect Beauty不应作为110k渠道样本”的结论已过期。现在应标记为 `VERIFIED 110k-class professional hair appliance channel/product ecosystem`；但110k事实只绑定Versa Dry、Multy Dry等具体SKU，不能推广到其全部吹风机。
 
 ### G. Dismay Hair & Beauty × EOLUX — 官方独家专业美发分销样本
 
@@ -133,16 +139,15 @@ BeautyMarket企业目录把Dismay描述为美发与美容产品批发商，并�
 
 ## 3. 可确认的跨渠道事实
 
-截至2026-09-01，110k rpm级数字/无刷高速吹风机已经可以在西班牙至少以下渠道形态中被公开验证：
+截至2026-09-07，110k rpm级数字/无刷高速吹风机已经可以在西班牙至少以下渠道形态中被公开验证：
 
 - 大众综合零售1P：Carrefour
 - 专业家电连锁/关联店：Expert
 - 专业美容美发分销/零售：Sunmarket
 - 品牌D2C：Cecotec
 - IT/科技产品B2B批发分销：DMI Computer
+- 专业美发工具开发/分销：Perfect Beauty Professional
 - 官方独家专业美发分销：Dismay Hair & Beauty × EOLUX
-
-此外，Perfect Beauty × JRL进一步确认：西班牙专业美发工具渠道存在“品牌官方分销商 → salon/barber专业市场”的成熟结构，并已有90k/100k级高速无刷吹风机及新一代brushless产品。
 
 因此，“高速数字/无刷吹风机只存在于某一种专业渠道或高端D2C品牌”这一表述不成立，不能写入智能体知识库。
 
@@ -150,9 +155,9 @@ BeautyMarket企业目录把Dismay描述为美发与美容产品批发商，并�
 
 同一技术方向已经跨越大众综合零售、专业家电、美发专业渠道、品牌直营、IT/科技产品批发以及官方独家专业分销体系，说明高速数字/无刷电机本身已经不是单一渠道独占的技术标签。
 
-Dismay × EOLUX样本进一步说明，西班牙专业美发渠道中确实存在“品牌 → 官方独家专业分销商 → 批发商/专业店”的公开可验证结构；但其具体终端salon覆盖、采购权、销量和商业条件仍待验证。
+Perfect Beauty的Versa Dry与Multy Dry说明专业美发工具体系已进入110k brushless + ionic + multi-styler产品带；其2026集团化整合可能增强资源协同，但是否带来采购集中化、Buyer统一或新品牌准入变化仍待验证。
 
-Perfect Beauty样本说明，专业美发渠道还存在与综合PAE批发不同的“品牌授权型工具分销商”结构，渠道价值可能更多依赖专业品牌背书、技术支持、售后和salon/barber触达，而不仅是终端门店数量。
+Dismay × EOLUX样本进一步说明，西班牙专业美发渠道中确实存在“品牌 → 官方独家专业分销商 → 批发商/专业店”的公开可验证结构；但其具体终端salon覆盖、采购权、销量和商业条件仍待验证。
 
 DMI样本进一步表明，个人护理PAE可能通过传统IT分销基础设施流向IT门店、e-tailer、连锁零售及大流通；但具体客户、采购关系与销量仍需逐一验证。
 
@@ -185,9 +190,7 @@ Ufesa PRO IONIC SILK的官方/渠道页面同时出现110,000 rpm与111,000 rpm�
 
 不自行修正官方参数。
 
-JRL Forte Pro相关Perfect Beauty当前页面出现90,000 rpm与100,000 rpm口径，应按具体SKU分别记录：
-
-`MODEL/PAGE PARAMETER VARIANCE — do not normalize across Forte Pro variants — TO VERIFY exact SKU mapping`
+JRL/Forte Pro相关Perfect Beauty页面存在90,000 rpm与100,000 rpm等不同具体SKU/页面参数；而Versa Dry、Multy Dry当前页面明确为110,000 rpm。必须按具体SKU记录，不做跨型号参数归一化。
 
 DMI公司资料另存在仓储面积15,000㎡与17,000㎡的官方页面口径冲突，该问题记录在独立DMI Channel Card，不影响110k SKU存在性判断。
 
@@ -196,7 +199,9 @@ DMI公司资料另存在仓储面积15,000㎡与17,000㎡的官方页面口径�
 - Carrefour 1P新品供应商准入流程与Buyer
 - Expert总部/区域平台对个人护理PAE的采购权限边界
 - DMI个护PAE Buyer、供应商准入、MOQ、账期及大流通客户覆盖
+- Perfect Beauty 110k产品的实际品牌归属/制造来源、自有设计/OEM/ODM边界
 - Perfect Beauty是否接受第三方新品牌、其Buyer/准入、MOQ、账期、区域试销及售后责任边界
+- Nicolás Beauty Group成立后采购、仓储、财务和品牌管理是否进一步集中
 - Dismay是否接受与EOLUX直接竞争的第三方高速吹风机品牌
 - Dismay / EOLUX exclusivity是否覆盖所有SKU和全部销售渠道
 - Dismay的Buyer、MOQ、账期、进口主体、RAEE/EPR责任与专业客户覆盖规模
