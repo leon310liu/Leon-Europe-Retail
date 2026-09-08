@@ -1,4 +1,8 @@
-# Dismay Hair & Beauty — Spain Professional Hair & Beauty Wholesale Channel Card（2026）
+# Dismay Hair & Beauty — 西班牙专业美发美容批发研究补充（2026）
+
+> 文档性质：历史研究补充，**不是第二张正式 Channel Card**。
+> 正式事实源：[Dismay 2026 专业批发渠道卡](./Dismay-Hair-Beauty-Professional-Wholesale-Channel-Intelligence-Card-2026.md)。
+> 治理说明：本文件保留原研究来源与产品线索供追溯；检索和更新公司结论时以正式事实源为准。
 
 > 类型：公开事实知识卡 / 垂直专业渠道
 > 更新日期：2026-08-29

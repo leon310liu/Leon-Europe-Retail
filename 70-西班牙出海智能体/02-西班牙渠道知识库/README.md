@@ -6,6 +6,7 @@
 
 ## 当前规范
 
+- [渠道知识库治理规则 V1.0](./00-渠道知识库治理规则.md)：写入前必读；固定 8 大一级渠道、中文默认、唯一正式卡与写入前后巡检规则。
 - [Channel Card 模板 V2.0](./Channel-Card模板-v2.0.md)：当前正式模板。
 - [Vertical 受控标签库 V1](./Vertical标签库.md)：每家公司最多 3 个标签。
 - [Channel Business Model 标签库](./Channel-Business-Model-标签库.md)：用于判断组织形式与进入方式，不替代 8 大渠道分类。

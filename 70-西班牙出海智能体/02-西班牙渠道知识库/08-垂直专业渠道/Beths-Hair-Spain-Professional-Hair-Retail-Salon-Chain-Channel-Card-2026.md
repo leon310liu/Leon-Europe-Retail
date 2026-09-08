@@ -1,4 +1,4 @@
-# BETH'S HAIR — Spain Professional Hair Retail & Salon Chain Channel Card (2026)
+# BETH'S HAIR — 西班牙专业美发零售与沙龙连锁渠道卡（2026）
 
 > 状态：公开事实知识卡
 > 研究对象：西班牙专业美发/美容垂直渠道
