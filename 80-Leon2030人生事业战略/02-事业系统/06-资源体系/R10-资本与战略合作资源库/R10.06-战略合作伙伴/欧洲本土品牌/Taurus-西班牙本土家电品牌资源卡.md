@@ -4,79 +4,66 @@
 > 当前状态：候选合作资源 / 待建立联系
 > 最近验证：2026-09-09
 > 国家：西班牙
-> 核心地点：Oliana（Lleida）/ Barcelona 体系
+> 核心地点：Oliana（Lleida）/ Barcelona
 
-## 1. 它是谁
-
-**公开事实**
+## 1. 历史
 
 - Taurus 品牌创立于 **1962 年**。
-- Taurus 官方将其描述为 Taurus Group 的核心品牌，业务覆盖全球，并通过经销网络运营于 **80 多个国家**。
-- Taurus Group 将自身定位为面向全球家庭需求的“multilocal”企业集团。
-- Taurus 官网隐私政策列出相关西班牙主体，包括 **Electrodomésticos Taurus, S.L.**（Oliana, Lleida）、**Smart Home Appliances, S.L.**（Santa Perpètua de Mogoda, Barcelona）及 **Engineering and Technology for Life, S.L.**。
+- 官方称 Taurus 为 Taurus Group 的核心品牌，业务覆盖五大洲，并通过经销网络进入 **80+ 国家**。
+- 集团长期通过多品牌、多国家、制造与分销结合的方式发展，Solac 当前亦属于 Taurus Group。
 
-## 2. 产品与业务范围
+## 2. 定位
 
-Taurus 当前官网主要品类包括：
+**Leon定义：西班牙成熟大众家电集团型品牌。**
 
-- 厨房小家电；
+核心优势不是单一爆款，而是长期品牌认知、多品类、国际分销和集团化产品平台。
+
+## 3. 实力与销售额
+
+- 2025 年西班牙商业媒体报道，Electrodomésticos Taurus 最近一个公开财年营收约 **€238m**，同比下降约 10%，但利润提升至约 **€11.4m**。
+- 报道同时称集团在 6 个国家拥有工厂/制造布局，并在亚洲、北非、拉美、南非等市场增长。
+- 官方称集团覆盖 80+ 国家，说明其国际渠道与本地化能力明显高于普通西班牙单一品牌。
+
+## 4. 主要品类
+
+- 厨房 PAE、Mycook 厨房机器人；
 - 嵌入式家电；
-- 家居清洁与生活电器；
-- 个人护理；
+- 家居清洁；
+- 个护；
 - 衣物护理；
-- 气候 / 采暖类产品；
-- Mycook 等厨房智能产品。
+- 通风、采暖与气候类；
+- 其他家庭生活电器。
 
-官网同时设有“成为官方分销商”入口，说明其商业体系不仅面向终端消费者，也保留明确的 B2B 分销网络逻辑。
+## 5. 最新动态
 
-## 3. 集团与品牌体系
+- 2026 官网 New In 持续推出 Gelato Flow、Homeland Waterpro II、MyGrill Onyx、Clima Boost 等新品，覆盖厨房、清洁和气候品类。
+- 集团当前仍在强化“多国运营 + 产品平台 + 多品牌”的结构，而不是只依赖西班牙本土市场。
 
-Taurus 不应只作为单一品牌研究。公开资料显示，Solac 当前属于 Taurus Group，因此研究 Taurus 时应同时关注集团层面的：
+## 6. 对 Leon 的战略价值
 
-- 品牌组合；
-- 产品平台；
-- 采购与供应链协同；
-- 各国销售与分销组织；
-- 售后与技术服务网络。
+Taurus Group 是欧洲品牌反向供应链业务的高优先级研究对象。未来应优先找到集团采购、产品开发和亚洲供应链节点，而不是只看 Taurus 单品牌零售端。
 
-## 4. 对 Leon 的战略价值
+## 7. Leon View
 
-### A. 欧洲本土品牌需求方
+Taurus 与 Cecotec 是两种不同的西班牙品牌能力：Cecotec更像新型爆款扩张，Taurus更像成熟集团化运营。对于 Leon 来说，Taurus 更适合研究“欧洲老牌集团如何调用全球供应链”。
 
-Taurus 是典型的西班牙本土家电品牌集团，具备多品类、多国家、经销网络和售后体系，适合作为未来“欧洲品牌需求 → 中国 OEM/ODM / 创新产品供应链”的重点研究对象。
+## 8. 待验证事项
 
-### B. 本土渠道理解样本
+1. €238m 的具体法律主体/集团口径；
+2. 集团完整品牌矩阵；
+3. 6 国制造基地及各自品类；
+4. 中国/亚洲采购与研发组织；
+5. OEM/ODM 供应商准入；
+6. 西班牙渠道销售结构；
+7. 对 AI、智能家居、新型消费科技产品的合作机制。
 
-Taurus 的产品跨度、品牌历史、分销体系与售后能力，可用于理解西班牙消费者对“本土老牌 + 新产品”的接受逻辑，也有助于判断中国供应商如何与欧洲成熟品牌合作，而不是只做自有品牌出海。
+## 9. 来源
 
-## 5. Leon View
+- Taurus 官方：https://taurus-home.com/pages/sobre-taurus
+- Taurus New In：https://taurus-home.com/collections/new-in
+- Crónica Global / El Español，2025-08：Taurus 营收与利润报道
+- Solac 官方：https://solac.com/pages/sobre-nosotros
 
-Taurus 对 Leon 的价值高于普通单品牌客户线索，因为它更像一个具备集团化采购与多品牌运营能力的欧洲本土企业平台。
+## 10. 数据治理
 
-未来若发展反向业务，应优先研究 Taurus Group 的采购、产品开发与亚洲供应链组织，而不是只从单一零售SKU切入。
-
-现阶段优先级：**高研究价值，关系价值待建立。**
-
-## 6. 待验证事项
-
-1. Taurus Group 当前完整品牌矩阵；
-2. 各品牌法律主体及集团控制关系；
-3. 最新集团营业额、利润、海外占比；
-4. 中国/亚洲采购与产品开发团队；
-5. OEM/ODM 供应商准入流程；
-6. 哪些品类自主设计、哪些外部联合开发；
-7. 西班牙核心渠道结构与销量；
-8. 对创新科技消费品、AI硬件、智能家居新品的合作机制。
-
-## 7. 来源
-
-- Taurus 官方品牌介绍：https://taurus-home.com/pages/sobre-taurus
-- Taurus 西班牙官网：https://taurus-home.com/
-- Taurus 隐私政策 / 主体信息：https://taurus-home.com/pages/politica-de-privacidad
-- Solac 官方品牌介绍：https://solac.com/pages/sobre-nosotros
-
-## 8. 数据治理
-
-- **公开事实**：1962 年创立、80+国家、官网产品范围、相关法律主体、Solac 属于 Taurus Group。
-- **Leon判断**：其作为反向供应链业务潜在需求方的价值。
-- **未验证**：具体中国供应商、采购组织、OEM/ODM合作条件及最新财务规模。
+€238m 与 €11.4m 来自商业媒体对最近公开财年的报道，尚需集团年报进一步核验主体口径；不得自动视为 Taurus 单品牌全球销售额。
